@@ -1,0 +1,2501 @@
+patient_id,icu_unit,insurance_class,los_days,total_cost_usd,readmission_risk_30d,resource_tier
+PAT-1000,CCU-Main,HMO-Primary,2.1,7295.8,0.148,Standard
+PAT-1001,ICU-Bravo,Private-PPO,6.3,24640.41,0.49,Moderate Utilization
+PAT-1002,CCU-Main,Medicare,10.0,39057.37,0.501,High Utilization
+PAT-1003,ICU-Bravo,Private-PPO,4.6,15498.76,0.163,Standard
+PAT-1004,CCU-Main,Private-PPO,3.9,13135.21,0.138,Standard
+PAT-1005,ICU-Bravo,Medicare,3.5,12041.7,0.138,Standard
+PAT-1006,ICU-Alpha,Medicare,4.7,15904.9,0.164,Standard
+PAT-1007,Neuro-ICU,Medicaid,5.5,18639.13,0.152,Moderate Utilization
+PAT-1008,CCU-Main,Medicaid,5.7,19243.08,0.135,Moderate Utilization
+PAT-1009,ICU-Alpha,Medicaid,4.4,14929.11,0.149,Standard
+PAT-1010,ICU-Alpha,Private-PPO,2.8,9458.89,0.135,Standard
+PAT-1011,CCU-Main,Medicaid,1.0,3400.0,0.135,Standard
+PAT-1012,CCU-Main,Private-PPO,2.4,8091.15,0.145,Standard
+PAT-1013,ICU-Bravo,Medicare,7.2,28178.42,0.465,Moderate Utilization
+PAT-1014,CCU-Main,Medicaid,6.0,20275.99,0.117,Moderate Utilization
+PAT-1015,CCU-Main,HMO-Primary,3.7,12639.95,0.134,Standard
+PAT-1016,ICU-Bravo,Medicaid,6.6,22602.68,0.127,Moderate Utilization
+PAT-1017,ICU-Bravo,Medicaid,6.4,21846.27,0.146,Moderate Utilization
+PAT-1018,CCU-Main,Private-PPO,3.0,10167.68,0.129,Standard
+PAT-1019,CCU-Main,Private-PPO,2.8,9545.6,0.122,Standard
+PAT-1020,CCU-Main,Medicaid,2.9,9942.36,0.162,Standard
+PAT-1021,Neuro-ICU,Private-PPO,3.2,10764.12,0.138,Standard
+PAT-1022,Neuro-ICU,Medicare,5.6,18881.12,0.142,Moderate Utilization
+PAT-1023,ICU-Alpha,Medicaid,3.3,11085.02,0.122,Standard
+PAT-1024,ICU-Alpha,HMO-Primary,4.4,15088.72,0.134,Standard
+PAT-1025,CCU-Main,Medicare,6.0,20301.16,0.143,Moderate Utilization
+PAT-1026,ICU-Bravo,Medicaid,4.3,14563.73,0.125,Standard
+PAT-1027,CCU-Main,Medicare,3.4,11472.82,0.147,Standard
+PAT-1028,CCU-Main,HMO-Primary,3.5,11780.08,0.133,Standard
+PAT-1029,ICU-Alpha,Private-PPO,7.0,27269.62,0.487,Moderate Utilization
+PAT-1030,CCU-Main,Private-PPO,2.1,7186.46,0.133,Standard
+PAT-1031,CCU-Main,Medicaid,3.4,11489.36,0.167,Standard
+PAT-1032,ICU-Alpha,Medicaid,3.5,11993.92,0.141,Standard
+PAT-1033,ICU-Alpha,Medicaid,2.3,7677.1,0.127,Standard
+PAT-1034,ICU-Bravo,HMO-Primary,3.5,11965.65,0.153,Standard
+PAT-1035,ICU-Bravo,Medicare,3.0,10171.08,0.124,Standard
+PAT-1036,ICU-Bravo,Medicare,1.6,5569.58,0.144,Standard
+PAT-1037,Neuro-ICU,Medicaid,2.5,8548.4,0.114,Standard
+PAT-1038,Neuro-ICU,HMO-Primary,1.0,3400.0,0.123,Standard
+PAT-1039,CCU-Main,Medicare,6.7,26355.95,0.494,Moderate Utilization
+PAT-1040,ICU-Bravo,Medicare,2.2,7427.89,0.152,Standard
+PAT-1041,ICU-Alpha,Medicare,9.6,37412.49,0.494,High Utilization
+PAT-1042,ICU-Bravo,Medicare,1.0,3400.0,0.14,Standard
+PAT-1043,CCU-Main,Medicaid,3.9,13297.63,0.137,Standard
+PAT-1044,Neuro-ICU,Medicare,4.7,15840.09,0.121,Standard
+PAT-1045,Neuro-ICU,Medicare,9.5,37295.71,0.481,High Utilization
+PAT-1046,CCU-Main,Medicaid,3.3,11327.81,0.135,Standard
+PAT-1047,ICU-Bravo,Medicare,3.1,10585.16,0.156,Standard
+PAT-1048,CCU-Main,Medicaid,1.0,3400.0,0.146,Standard
+PAT-1049,CCU-Main,Medicare,8.7,34078.04,0.467,Moderate Utilization
+PAT-1050,Neuro-ICU,Private-PPO,5.1,17248.87,0.146,Standard
+PAT-1051,Neuro-ICU,Medicare,1.4,4755.09,0.136,Standard
+PAT-1052,Neuro-ICU,Medicare,3.3,11198.84,0.132,Standard
+PAT-1053,CCU-Main,Private-PPO,2.7,9159.04,0.15,Standard
+PAT-1054,ICU-Bravo,Medicaid,7.2,24582.27,0.156,Moderate Utilization
+PAT-1055,CCU-Main,Private-PPO,3.3,11065.6,0.155,Standard
+PAT-1056,ICU-Bravo,Medicare,6.4,25090.99,0.48,Moderate Utilization
+PAT-1057,ICU-Bravo,Medicaid,5.9,22962.21,0.487,Moderate Utilization
+PAT-1058,CCU-Main,Medicare,3.8,12871.87,0.146,Standard
+PAT-1059,ICU-Bravo,HMO-Primary,12.2,47565.66,0.505,High Utilization
+PAT-1060,ICU-Bravo,Medicare,3.9,13212.83,0.135,Standard
+PAT-1061,CCU-Main,Private-PPO,2.9,9932.27,0.139,Standard
+PAT-1062,Neuro-ICU,Medicare,4.0,13746.47,0.126,Standard
+PAT-1063,CCU-Main,Private-PPO,2.9,9878.57,0.125,Standard
+PAT-1064,Neuro-ICU,Private-PPO,1.4,4672.51,0.153,Standard
+PAT-1065,ICU-Bravo,Private-PPO,4.9,16629.34,0.16,Standard
+PAT-1066,Neuro-ICU,Medicare,2.7,9049.28,0.14,Standard
+PAT-1067,Neuro-ICU,Medicaid,10.0,39095.03,0.506,High Utilization
+PAT-1068,ICU-Alpha,Medicaid,3.6,12372.01,0.147,Standard
+PAT-1069,ICU-Alpha,Private-PPO,3.6,12115.87,0.132,Standard
+PAT-1070,Neuro-ICU,Private-PPO,6.8,23167.4,0.147,Moderate Utilization
+PAT-1071,ICU-Alpha,Private-PPO,4.2,14280.83,0.163,Standard
+PAT-1072,Neuro-ICU,Medicare,4.6,15732.9,0.141,Standard
+PAT-1073,ICU-Alpha,HMO-Primary,4.1,13969.22,0.163,Standard
+PAT-1074,ICU-Bravo,Medicare,4.8,16314.48,0.105,Standard
+PAT-1075,CCU-Main,Private-PPO,3.3,11213.35,0.153,Standard
+PAT-1076,ICU-Alpha,Private-PPO,1.3,4516.12,0.143,Standard
+PAT-1077,CCU-Main,Private-PPO,2.0,6630.77,0.137,Standard
+PAT-1078,ICU-Alpha,Medicaid,1.1,3759.79,0.143,Standard
+PAT-1079,Neuro-ICU,Medicare,10.1,39574.76,0.464,High Utilization
+PAT-1080,ICU-Alpha,Private-PPO,2.3,7894.64,0.138,Standard
+PAT-1081,ICU-Alpha,Private-PPO,4.6,15617.54,0.146,Standard
+PAT-1082,CCU-Main,Medicare,4.3,14488.44,0.162,Standard
+PAT-1083,CCU-Main,Private-PPO,4.1,13780.97,0.134,Standard
+PAT-1084,ICU-Alpha,Medicaid,2.7,9313.43,0.13,Standard
+PAT-1085,CCU-Main,Medicare,2.1,7179.46,0.134,Standard
+PAT-1086,ICU-Alpha,Private-PPO,3.6,12166.47,0.154,Standard
+PAT-1087,Neuro-ICU,Private-PPO,5.2,17769.17,0.146,Standard
+PAT-1088,Neuro-ICU,Private-PPO,6.6,22413.43,0.134,Moderate Utilization
+PAT-1089,ICU-Bravo,Medicaid,4.2,14226.85,0.149,Standard
+PAT-1090,CCU-Main,Medicare,9.0,35193.53,0.493,High Utilization
+PAT-1091,ICU-Alpha,Private-PPO,4.7,15875.84,0.155,Standard
+PAT-1092,Neuro-ICU,Private-PPO,5.5,18806.08,0.132,Moderate Utilization
+PAT-1093,ICU-Bravo,Medicare,2.5,8626.26,0.137,Standard
+PAT-1094,ICU-Bravo,HMO-Primary,6.0,20232.77,0.136,Moderate Utilization
+PAT-1095,ICU-Alpha,Medicare,6.1,20578.04,0.121,Moderate Utilization
+PAT-1096,ICU-Bravo,Medicare,7.0,23650.47,0.146,Moderate Utilization
+PAT-1097,ICU-Bravo,Private-PPO,4.7,15873.97,0.145,Standard
+PAT-1098,ICU-Alpha,Medicare,3.4,11662.35,0.142,Standard
+PAT-1099,ICU-Bravo,Private-PPO,6.8,22987.97,0.138,Moderate Utilization
+PAT-1100,ICU-Bravo,Medicaid,4.4,15056.82,0.122,Standard
+PAT-1101,ICU-Alpha,Medicare,4.0,13620.94,0.136,Standard
+PAT-1102,ICU-Alpha,Medicare,4.3,14613.88,0.137,Standard
+PAT-1103,Neuro-ICU,Medicare,10.6,41513.16,0.48,High Utilization
+PAT-1104,ICU-Bravo,Medicare,2.9,9936.3,0.139,Standard
+PAT-1105,Neuro-ICU,Medicare,3.2,10980.18,0.147,Standard
+PAT-1106,Neuro-ICU,Medicaid,9.6,37721.79,0.518,High Utilization
+PAT-1107,CCU-Main,Medicaid,2.1,7177.88,0.144,Standard
+PAT-1108,ICU-Alpha,Medicare,1.9,6491.39,0.145,Standard
+PAT-1109,CCU-Main,Medicaid,2.1,7038.31,0.14,Standard
+PAT-1110,ICU-Alpha,Medicare,10.2,39946.31,0.465,High Utilization
+PAT-1111,CCU-Main,Private-PPO,4.4,15035.74,0.141,Standard
+PAT-1112,ICU-Alpha,Medicare,1.0,3400.0,0.142,Standard
+PAT-1113,ICU-Bravo,Medicare,10.4,40659.54,0.522,High Utilization
+PAT-1114,ICU-Bravo,Medicaid,4.8,16293.08,0.139,Standard
+PAT-1115,Neuro-ICU,Private-PPO,1.0,3400.0,0.146,Standard
+PAT-1116,CCU-Main,Private-PPO,4.5,15376.22,0.141,Standard
+PAT-1117,Neuro-ICU,Private-PPO,1.8,6026.6,0.125,Standard
+PAT-1118,CCU-Main,Medicare,3.1,10553.43,0.157,Standard
+PAT-1119,ICU-Alpha,Private-PPO,5.1,17314.64,0.152,Standard
+PAT-1120,ICU-Alpha,Medicaid,4.1,13984.15,0.153,Standard
+PAT-1121,CCU-Main,Medicare,3.5,11894.93,0.129,Standard
+PAT-1122,CCU-Main,Medicare,5.9,19952.39,0.161,Moderate Utilization
+PAT-1123,ICU-Bravo,Private-PPO,4.1,13936.29,0.122,Standard
+PAT-1124,CCU-Main,Private-PPO,6.6,25767.82,0.5,Moderate Utilization
+PAT-1125,ICU-Bravo,Private-PPO,2.0,6709.55,0.172,Standard
+PAT-1126,CCU-Main,Private-PPO,9.2,35863.22,0.478,High Utilization
+PAT-1127,ICU-Bravo,HMO-Primary,2.6,8896.16,0.134,Standard
+PAT-1128,Neuro-ICU,Medicare,11.0,42843.3,0.493,High Utilization
+PAT-1129,ICU-Bravo,Private-PPO,4.4,14908.11,0.134,Standard
+PAT-1130,Neuro-ICU,Private-PPO,2.5,8563.91,0.12,Standard
+PAT-1131,ICU-Bravo,Private-PPO,2.7,9186.07,0.142,Standard
+PAT-1132,ICU-Alpha,Medicare,4.7,16056.67,0.127,Standard
+PAT-1133,ICU-Bravo,Private-PPO,2.9,9868.94,0.148,Standard
+PAT-1134,CCU-Main,Private-PPO,3.2,10776.71,0.129,Standard
+PAT-1135,Neuro-ICU,Private-PPO,3.6,12358.97,0.163,Standard
+PAT-1136,CCU-Main,Medicare,3.9,13093.49,0.131,Standard
+PAT-1137,CCU-Main,Private-PPO,2.8,9596.78,0.137,Standard
+PAT-1138,ICU-Alpha,Medicaid,9.1,35657.54,0.503,High Utilization
+PAT-1139,ICU-Bravo,Medicaid,9.0,35039.44,0.474,High Utilization
+PAT-1140,ICU-Alpha,Medicaid,4.8,16233.46,0.145,Standard
+PAT-1141,ICU-Bravo,Private-PPO,3.9,13150.57,0.16,Standard
+PAT-1142,CCU-Main,Medicare,3.6,12182.47,0.119,Standard
+PAT-1143,ICU-Bravo,Private-PPO,4.6,15671.29,0.144,Standard
+PAT-1144,ICU-Alpha,Medicare,4.9,16749.81,0.145,Standard
+PAT-1145,Neuro-ICU,Medicaid,5.8,19662.66,0.152,Moderate Utilization
+PAT-1146,ICU-Alpha,Medicare,3.9,13124.74,0.124,Standard
+PAT-1147,ICU-Alpha,Medicaid,1.0,3400.0,0.123,Standard
+PAT-1148,ICU-Alpha,Medicaid,2.7,9308.7,0.149,Standard
+PAT-1149,Neuro-ICU,Medicaid,6.2,20972.53,0.146,Moderate Utilization
+PAT-1150,CCU-Main,Medicaid,3.0,10261.29,0.145,Standard
+PAT-1151,ICU-Alpha,Private-PPO,2.8,9651.03,0.146,Standard
+PAT-1152,ICU-Alpha,Private-PPO,2.2,7645.12,0.132,Standard
+PAT-1153,ICU-Alpha,Medicare,3.3,11123.2,0.145,Standard
+PAT-1154,Neuro-ICU,Medicare,6.3,21403.16,0.146,Moderate Utilization
+PAT-1155,Neuro-ICU,Medicare,4.5,15232.56,0.131,Standard
+PAT-1156,Neuro-ICU,Medicare,5.8,19623.5,0.168,Moderate Utilization
+PAT-1157,CCU-Main,HMO-Primary,5.7,19347.83,0.148,Moderate Utilization
+PAT-1158,ICU-Bravo,Medicare,9.4,36846.98,0.475,High Utilization
+PAT-1159,CCU-Main,Private-PPO,3.2,10834.18,0.151,Standard
+PAT-1160,CCU-Main,Medicare,3.0,10179.95,0.128,Standard
+PAT-1161,CCU-Main,HMO-Primary,8.7,33900.79,0.503,Moderate Utilization
+PAT-1162,ICU-Bravo,Medicare,5.9,20103.71,0.158,Moderate Utilization
+PAT-1163,ICU-Alpha,Private-PPO,2.8,9365.52,0.13,Standard
+PAT-1164,Neuro-ICU,Private-PPO,4.0,13528.01,0.155,Standard
+PAT-1165,CCU-Main,Medicaid,2.1,7225.81,0.147,Standard
+PAT-1166,Neuro-ICU,Medicare,6.3,21366.55,0.153,Moderate Utilization
+PAT-1167,Neuro-ICU,Medicaid,5.8,19808.61,0.168,Moderate Utilization
+PAT-1168,Neuro-ICU,Private-PPO,3.0,10324.44,0.138,Standard
+PAT-1169,ICU-Alpha,Medicare,4.4,14958.25,0.131,Standard
+PAT-1170,Neuro-ICU,Medicare,3.8,12830.27,0.129,Standard
+PAT-1171,Neuro-ICU,Medicaid,5.3,18151.85,0.13,Moderate Utilization
+PAT-1172,ICU-Alpha,Medicare,6.0,20296.28,0.14,Moderate Utilization
+PAT-1173,Neuro-ICU,Medicaid,5.1,17337.89,0.146,Standard
+PAT-1174,ICU-Bravo,Medicare,3.3,11102.17,0.145,Standard
+PAT-1175,ICU-Bravo,Private-PPO,5.1,17306.44,0.153,Standard
+PAT-1176,CCU-Main,Private-PPO,1.3,4336.7,0.142,Standard
+PAT-1177,ICU-Bravo,Private-PPO,2.9,9967.23,0.162,Standard
+PAT-1178,ICU-Bravo,Medicare,10.5,40932.63,0.488,High Utilization
+PAT-1179,ICU-Bravo,Medicaid,6.2,21247.81,0.172,Moderate Utilization
+PAT-1180,ICU-Alpha,Medicaid,3.5,11921.53,0.15,Standard
+PAT-1181,ICU-Bravo,Private-PPO,3.1,10524.67,0.129,Standard
+PAT-1182,Neuro-ICU,Private-PPO,2.7,9220.55,0.127,Standard
+PAT-1183,CCU-Main,Private-PPO,1.5,5158.07,0.148,Standard
+PAT-1184,Neuro-ICU,HMO-Primary,4.7,16013.87,0.138,Standard
+PAT-1185,Neuro-ICU,Medicaid,9.1,35756.11,0.501,High Utilization
+PAT-1186,ICU-Bravo,Medicare,4.0,13495.98,0.148,Standard
+PAT-1187,CCU-Main,Medicare,1.9,6354.78,0.14,Standard
+PAT-1188,Neuro-ICU,HMO-Primary,4.7,15811.56,0.13,Standard
+PAT-1189,CCU-Main,Medicare,3.4,11712.7,0.12,Standard
+PAT-1190,ICU-Bravo,HMO-Primary,2.6,8894.74,0.135,Standard
+PAT-1191,Neuro-ICU,Private-PPO,3.9,13095.15,0.153,Standard
+PAT-1192,ICU-Alpha,Medicare,5.3,18133.28,0.144,Moderate Utilization
+PAT-1193,Neuro-ICU,Medicare,6.2,20971.18,0.124,Moderate Utilization
+PAT-1194,Neuro-ICU,Private-PPO,2.3,7741.67,0.144,Standard
+PAT-1195,CCU-Main,Medicaid,4.3,14781.61,0.147,Standard
+PAT-1196,CCU-Main,Medicare,1.9,6310.57,0.129,Standard
+PAT-1197,CCU-Main,Medicare,3.7,12691.25,0.144,Standard
+PAT-1198,ICU-Bravo,HMO-Primary,5.9,20168.71,0.142,Moderate Utilization
+PAT-1199,CCU-Main,Medicare,3.5,11836.57,0.125,Standard
+PAT-1200,ICU-Bravo,Private-PPO,4.6,15638.48,0.147,Standard
+PAT-1201,CCU-Main,Private-PPO,5.5,18559.67,0.149,Moderate Utilization
+PAT-1202,ICU-Alpha,Medicare,3.7,12650.15,0.157,Standard
+PAT-1203,CCU-Main,Medicare,4.0,13444.51,0.156,Standard
+PAT-1204,ICU-Bravo,Medicare,9.0,35142.46,0.472,High Utilization
+PAT-1205,ICU-Bravo,Medicare,2.3,7757.13,0.128,Standard
+PAT-1206,Neuro-ICU,Private-PPO,1.0,3400.0,0.149,Standard
+PAT-1207,CCU-Main,Private-PPO,4.1,14089.65,0.149,Standard
+PAT-1208,ICU-Bravo,Private-PPO,6.1,20813.65,0.149,Moderate Utilization
+PAT-1209,Neuro-ICU,Private-PPO,2.5,8480.62,0.172,Standard
+PAT-1210,ICU-Alpha,Medicare,2.5,8379.15,0.149,Standard
+PAT-1211,ICU-Bravo,Medicare,3.7,12451.6,0.157,Standard
+PAT-1212,CCU-Main,Medicare,4.9,16797.93,0.155,Standard
+PAT-1213,ICU-Alpha,Private-PPO,4.3,14653.6,0.151,Standard
+PAT-1214,ICU-Bravo,HMO-Primary,6.7,22761.58,0.137,Moderate Utilization
+PAT-1215,CCU-Main,Medicare,5.1,17364.9,0.152,Standard
+PAT-1216,ICU-Bravo,Private-PPO,4.4,15058.52,0.131,Standard
+PAT-1217,CCU-Main,Private-PPO,7.4,28779.89,0.488,Moderate Utilization
+PAT-1218,Neuro-ICU,Private-PPO,3.2,11030.67,0.135,Standard
+PAT-1219,ICU-Bravo,HMO-Primary,4.2,14204.16,0.143,Standard
+PAT-1220,ICU-Bravo,Medicare,3.4,11572.79,0.172,Standard
+PAT-1221,ICU-Alpha,Medicare,2.7,9112.23,0.115,Standard
+PAT-1222,Neuro-ICU,Medicare,3.1,10437.18,0.151,Standard
+PAT-1223,ICU-Alpha,Medicare,2.1,7183.87,0.119,Standard
+PAT-1224,ICU-Bravo,Private-PPO,9.7,38050.33,0.485,High Utilization
+PAT-1225,Neuro-ICU,Medicaid,3.3,11232.02,0.157,Standard
+PAT-1226,CCU-Main,Private-PPO,3.0,10065.93,0.142,Standard
+PAT-1227,Neuro-ICU,Medicare,3.9,13296.7,0.126,Standard
+PAT-1228,Neuro-ICU,Medicare,2.5,8475.89,0.131,Standard
+PAT-1229,CCU-Main,HMO-Primary,1.4,4603.22,0.151,Standard
+PAT-1230,ICU-Bravo,Private-PPO,8.4,32887.86,0.481,Moderate Utilization
+PAT-1231,ICU-Bravo,HMO-Primary,1.8,6180.77,0.145,Standard
+PAT-1232,ICU-Alpha,Private-PPO,6.3,21580.59,0.142,Moderate Utilization
+PAT-1233,ICU-Bravo,HMO-Primary,4.0,13588.49,0.132,Standard
+PAT-1234,ICU-Bravo,Medicaid,11.9,46625.93,0.522,High Utilization
+PAT-1235,CCU-Main,Private-PPO,4.2,14435.3,0.15,Standard
+PAT-1236,ICU-Alpha,Medicaid,7.8,30557.03,0.463,Moderate Utilization
+PAT-1237,Neuro-ICU,Private-PPO,1.0,3400.0,0.144,Standard
+PAT-1238,ICU-Alpha,Medicare,3.7,12416.39,0.132,Standard
+PAT-1239,ICU-Bravo,Medicare,4.1,13944.95,0.153,Standard
+PAT-1240,ICU-Alpha,Medicare,3.6,12295.81,0.13,Standard
+PAT-1241,Neuro-ICU,Medicare,5.5,18579.86,0.14,Moderate Utilization
+PAT-1242,CCU-Main,Medicare,4.0,13663.26,0.149,Standard
+PAT-1243,ICU-Bravo,Private-PPO,5.6,18886.67,0.154,Moderate Utilization
+PAT-1244,ICU-Bravo,HMO-Primary,4.3,14539.41,0.125,Standard
+PAT-1245,Neuro-ICU,Private-PPO,2.1,7037.45,0.137,Standard
+PAT-1246,CCU-Main,Private-PPO,4.7,15853.18,0.135,Standard
+PAT-1247,ICU-Alpha,Medicare,3.5,12026.15,0.132,Standard
+PAT-1248,Neuro-ICU,Medicare,5.4,18319.37,0.166,Moderate Utilization
+PAT-1249,ICU-Alpha,Private-PPO,3.1,10380.66,0.147,Standard
+PAT-1250,CCU-Main,Medicaid,1.6,5450.73,0.124,Standard
+PAT-1251,CCU-Main,Medicare,2.0,6689.66,0.154,Standard
+PAT-1252,CCU-Main,Private-PPO,6.3,21385.62,0.171,Moderate Utilization
+PAT-1253,CCU-Main,Private-PPO,4.0,13571.91,0.156,Standard
+PAT-1254,ICU-Alpha,Medicare,5.2,17799.06,0.12,Standard
+PAT-1255,Neuro-ICU,Medicare,5.9,19909.78,0.135,Moderate Utilization
+PAT-1256,Neuro-ICU,Private-PPO,2.3,7989.02,0.159,Standard
+PAT-1257,ICU-Alpha,Private-PPO,4.3,14682.15,0.132,Standard
+PAT-1258,CCU-Main,Medicare,2.9,9933.27,0.148,Standard
+PAT-1259,CCU-Main,Medicare,4.2,14214.84,0.152,Standard
+PAT-1260,ICU-Bravo,Private-PPO,2.8,9374.73,0.129,Standard
+PAT-1261,ICU-Bravo,Medicare,4.1,13985.96,0.141,Standard
+PAT-1262,ICU-Alpha,Medicaid,4.4,14933.34,0.098,Standard
+PAT-1263,Neuro-ICU,Medicare,3.4,11435.69,0.127,Standard
+PAT-1264,ICU-Bravo,Medicare,5.6,19022.84,0.138,Moderate Utilization
+PAT-1265,ICU-Bravo,Medicare,5.4,18510.5,0.124,Moderate Utilization
+PAT-1266,Neuro-ICU,HMO-Primary,3.4,11575.4,0.164,Standard
+PAT-1267,ICU-Bravo,Medicaid,3.9,13186.52,0.121,Standard
+PAT-1268,Neuro-ICU,Medicaid,6.2,21011.28,0.135,Moderate Utilization
+PAT-1269,ICU-Alpha,Private-PPO,1.0,3400.0,0.143,Standard
+PAT-1270,ICU-Bravo,Medicaid,2.3,7832.87,0.162,Standard
+PAT-1271,CCU-Main,Medicaid,4.5,15199.6,0.121,Standard
+PAT-1272,ICU-Alpha,Medicare,3.2,11049.12,0.158,Standard
+PAT-1273,ICU-Bravo,HMO-Primary,4.1,13915.7,0.142,Standard
+PAT-1274,Neuro-ICU,Medicaid,3.6,12362.34,0.128,Standard
+PAT-1275,ICU-Alpha,HMO-Primary,4.8,16381.49,0.148,Standard
+PAT-1276,ICU-Bravo,Medicaid,3.6,12391.51,0.144,Standard
+PAT-1277,ICU-Alpha,Medicaid,4.3,14662.19,0.133,Standard
+PAT-1278,CCU-Main,HMO-Primary,4.3,14640.68,0.142,Standard
+PAT-1279,ICU-Bravo,Private-PPO,3.8,12980.34,0.136,Standard
+PAT-1280,ICU-Bravo,Medicaid,5.2,17606.54,0.143,Standard
+PAT-1281,Neuro-ICU,Medicare,4.6,15523.55,0.151,Standard
+PAT-1282,ICU-Alpha,Private-PPO,5.0,17090.84,0.164,Standard
+PAT-1283,CCU-Main,Medicaid,10.6,41394.18,0.474,High Utilization
+PAT-1284,Neuro-ICU,Private-PPO,5.2,17724.95,0.171,Standard
+PAT-1285,ICU-Bravo,Medicaid,5.6,19034.25,0.114,Moderate Utilization
+PAT-1286,Neuro-ICU,Private-PPO,8.1,27672.13,0.139,Moderate Utilization
+PAT-1287,Neuro-ICU,Private-PPO,3.2,10923.17,0.15,Standard
+PAT-1288,CCU-Main,Medicare,7.4,28880.86,0.495,Moderate Utilization
+PAT-1289,ICU-Bravo,Medicare,4.0,13434.13,0.133,Standard
+PAT-1290,CCU-Main,Private-PPO,2.5,8668.18,0.139,Standard
+PAT-1291,ICU-Bravo,Private-PPO,3.7,12665.53,0.135,Standard
+PAT-1292,ICU-Alpha,Medicare,3.3,11354.57,0.133,Standard
+PAT-1293,ICU-Alpha,Medicare,4.1,14041.42,0.153,Standard
+PAT-1294,CCU-Main,Medicare,2.7,9014.67,0.146,Standard
+PAT-1295,Neuro-ICU,Private-PPO,7.6,29841.95,0.482,Moderate Utilization
+PAT-1296,ICU-Bravo,Private-PPO,3.9,13132.3,0.154,Standard
+PAT-1297,ICU-Bravo,Medicare,3.2,10823.87,0.146,Standard
+PAT-1298,CCU-Main,Medicaid,5.5,21439.84,0.503,Moderate Utilization
+PAT-1299,Neuro-ICU,Medicare,2.2,7346.04,0.15,Standard
+PAT-1300,Neuro-ICU,Private-PPO,2.7,9126.91,0.13,Standard
+PAT-1301,ICU-Bravo,Medicare,3.5,11733.25,0.134,Standard
+PAT-1302,ICU-Alpha,HMO-Primary,5.1,17415.02,0.152,Standard
+PAT-1303,ICU-Bravo,Medicare,4.3,14602.8,0.15,Standard
+PAT-1304,ICU-Alpha,Private-PPO,2.6,8680.73,0.141,Standard
+PAT-1305,CCU-Main,Private-PPO,3.8,13011.34,0.143,Standard
+PAT-1306,Neuro-ICU,Medicare,2.1,7007.58,0.159,Standard
+PAT-1307,ICU-Bravo,Medicare,2.3,7863.65,0.133,Standard
+PAT-1308,CCU-Main,Medicare,5.1,17479.68,0.149,Standard
+PAT-1309,Neuro-ICU,Medicaid,3.3,11384.53,0.139,Standard
+PAT-1310,ICU-Alpha,Medicare,5.5,18820.06,0.138,Moderate Utilization
+PAT-1311,CCU-Main,Private-PPO,3.5,11853.83,0.157,Standard
+PAT-1312,CCU-Main,Private-PPO,4.9,16694.27,0.153,Standard
+PAT-1313,ICU-Bravo,Medicare,3.6,12216.08,0.153,Standard
+PAT-1314,CCU-Main,Medicare,4.6,15649.92,0.16,Standard
+PAT-1315,CCU-Main,HMO-Primary,3.9,13347.78,0.142,Standard
+PAT-1316,ICU-Bravo,Medicare,5.3,18044.27,0.151,Moderate Utilization
+PAT-1317,CCU-Main,Medicare,4.6,15621.27,0.137,Standard
+PAT-1318,ICU-Alpha,Private-PPO,8.5,33369.02,0.496,Moderate Utilization
+PAT-1319,ICU-Bravo,Medicare,2.2,7635.91,0.14,Standard
+PAT-1320,ICU-Alpha,Private-PPO,3.9,13331.86,0.143,Standard
+PAT-1321,ICU-Bravo,Medicare,3.5,12015.7,0.15,Standard
+PAT-1322,Neuro-ICU,HMO-Primary,5.8,19802.65,0.13,Moderate Utilization
+PAT-1323,CCU-Main,Private-PPO,2.8,9508.07,0.171,Standard
+PAT-1324,Neuro-ICU,HMO-Primary,2.4,8251.42,0.127,Standard
+PAT-1325,ICU-Alpha,Medicare,3.1,10491.51,0.125,Standard
+PAT-1326,Neuro-ICU,Medicare,7.6,29630.02,0.508,Moderate Utilization
+PAT-1327,ICU-Alpha,HMO-Primary,2.2,7591.84,0.153,Standard
+PAT-1328,Neuro-ICU,Medicare,6.6,25700.68,0.5,Moderate Utilization
+PAT-1329,ICU-Alpha,Private-PPO,3.5,11872.62,0.15,Standard
+PAT-1330,CCU-Main,Medicare,4.0,13740.22,0.141,Standard
+PAT-1331,Neuro-ICU,HMO-Primary,2.5,8370.01,0.129,Standard
+PAT-1332,ICU-Alpha,Medicare,4.2,14220.94,0.143,Standard
+PAT-1333,ICU-Alpha,Medicaid,4.0,13745.39,0.132,Standard
+PAT-1334,Neuro-ICU,Private-PPO,7.4,28926.82,0.505,Moderate Utilization
+PAT-1335,Neuro-ICU,Medicare,5.7,19354.44,0.139,Moderate Utilization
+PAT-1336,Neuro-ICU,Medicare,4.5,15393.28,0.13,Standard
+PAT-1337,CCU-Main,HMO-Primary,4.4,15108.19,0.137,Standard
+PAT-1338,CCU-Main,Private-PPO,1.0,3400.0,0.147,Standard
+PAT-1339,CCU-Main,Private-PPO,3.6,12130.06,0.134,Standard
+PAT-1340,Neuro-ICU,Private-PPO,4.5,15258.7,0.13,Standard
+PAT-1341,ICU-Alpha,Medicare,4.8,16385.58,0.145,Standard
+PAT-1342,ICU-Alpha,Private-PPO,3.3,11269.79,0.145,Standard
+PAT-1343,ICU-Alpha,Private-PPO,3.5,12062.03,0.134,Standard
+PAT-1344,ICU-Bravo,Private-PPO,4.4,14948.75,0.135,Standard
+PAT-1345,Neuro-ICU,Medicare,4.3,14635.43,0.145,Standard
+PAT-1346,ICU-Alpha,HMO-Primary,4.3,14711.89,0.121,Standard
+PAT-1347,Neuro-ICU,Medicare,3.5,11979.91,0.122,Standard
+PAT-1348,Neuro-ICU,Medicare,2.3,7679.18,0.131,Standard
+PAT-1349,ICU-Alpha,HMO-Primary,2.8,9566.51,0.139,Standard
+PAT-1350,Neuro-ICU,Private-PPO,2.0,6635.43,0.146,Standard
+PAT-1351,ICU-Bravo,Medicare,2.1,6986.77,0.162,Standard
+PAT-1352,ICU-Bravo,Medicaid,5.7,19469.91,0.154,Moderate Utilization
+PAT-1353,ICU-Alpha,Private-PPO,1.4,4606.06,0.139,Standard
+PAT-1354,Neuro-ICU,Medicare,6.5,22150.48,0.141,Moderate Utilization
+PAT-1355,ICU-Bravo,Private-PPO,5.6,18915.09,0.127,Moderate Utilization
+PAT-1356,ICU-Alpha,Medicare,4.6,15579.88,0.141,Standard
+PAT-1357,CCU-Main,Medicare,4.0,13530.43,0.137,Standard
+PAT-1358,CCU-Main,Medicare,3.6,12284.55,0.146,Standard
+PAT-1359,CCU-Main,Private-PPO,4.1,14024.44,0.13,Standard
+PAT-1360,CCU-Main,Medicare,1.7,5698.66,0.149,Standard
+PAT-1361,ICU-Bravo,Medicaid,4.2,14172.65,0.163,Standard
+PAT-1362,ICU-Alpha,Private-PPO,2.3,7711.53,0.14,Standard
+PAT-1363,ICU-Bravo,Medicare,7.9,30938.45,0.497,Moderate Utilization
+PAT-1364,CCU-Main,Private-PPO,4.2,14423.78,0.151,Standard
+PAT-1365,Neuro-ICU,Medicaid,4.6,15558.47,0.136,Standard
+PAT-1366,CCU-Main,Private-PPO,3.4,11668.62,0.145,Standard
+PAT-1367,Neuro-ICU,Medicare,5.4,18404.42,0.142,Moderate Utilization
+PAT-1368,ICU-Alpha,Medicare,5.2,17678.95,0.143,Standard
+PAT-1369,ICU-Bravo,Medicaid,5.7,19272.68,0.131,Moderate Utilization
+PAT-1370,Neuro-ICU,Medicare,3.5,12035.19,0.142,Standard
+PAT-1371,CCU-Main,Medicare,4.1,13941.81,0.148,Standard
+PAT-1372,ICU-Bravo,Private-PPO,2.9,9995.24,0.162,Standard
+PAT-1373,Neuro-ICU,Medicare,4.4,15083.02,0.155,Standard
+PAT-1374,ICU-Alpha,HMO-Primary,4.5,15303.03,0.172,Standard
+PAT-1375,Neuro-ICU,Medicaid,2.5,8556.36,0.131,Standard
+PAT-1376,Neuro-ICU,Private-PPO,3.4,11552.11,0.154,Standard
+PAT-1377,ICU-Alpha,Medicaid,3.4,11430.16,0.144,Standard
+PAT-1378,ICU-Bravo,Private-PPO,6.5,22190.93,0.172,Moderate Utilization
+PAT-1379,ICU-Alpha,Medicaid,4.9,16803.37,0.13,Standard
+PAT-1380,ICU-Bravo,Private-PPO,6.3,21321.28,0.13,Moderate Utilization
+PAT-1381,ICU-Bravo,Medicare,4.5,15439.25,0.133,Standard
+PAT-1382,ICU-Bravo,HMO-Primary,4.5,15196.57,0.112,Standard
+PAT-1383,Neuro-ICU,Medicaid,3.0,10291.17,0.134,Standard
+PAT-1384,CCU-Main,HMO-Primary,1.0,3400.0,0.131,Standard
+PAT-1385,CCU-Main,Private-PPO,2.5,8587.17,0.144,Standard
+PAT-1386,Neuro-ICU,Private-PPO,5.0,17104.66,0.146,Standard
+PAT-1387,ICU-Bravo,Medicare,2.6,8855.39,0.168,Standard
+PAT-1388,ICU-Alpha,Medicare,5.2,17518.37,0.155,Standard
+PAT-1389,ICU-Alpha,Medicare,1.3,4434.72,0.133,Standard
+PAT-1390,CCU-Main,Medicare,4.1,13876.19,0.129,Standard
+PAT-1391,ICU-Bravo,Private-PPO,5.6,19036.82,0.148,Moderate Utilization
+PAT-1392,Neuro-ICU,Private-PPO,1.0,3400.0,0.123,Standard
+PAT-1393,Neuro-ICU,Medicare,4.8,16235.94,0.167,Standard
+PAT-1394,CCU-Main,Private-PPO,5.2,17566.23,0.158,Standard
+PAT-1395,ICU-Bravo,Medicare,5.6,19173.03,0.135,Moderate Utilization
+PAT-1396,ICU-Alpha,Private-PPO,3.1,10458.49,0.118,Standard
+PAT-1397,ICU-Alpha,HMO-Primary,4.5,15212.02,0.16,Standard
+PAT-1398,Neuro-ICU,Private-PPO,5.9,20104.81,0.14,Moderate Utilization
+PAT-1399,CCU-Main,Medicare,3.4,11702.0,0.159,Standard
+PAT-1400,Neuro-ICU,Private-PPO,12.0,46965.16,0.469,High Utilization
+PAT-1401,ICU-Alpha,Medicaid,3.4,11691.84,0.133,Standard
+PAT-1402,Neuro-ICU,Private-PPO,3.2,11030.34,0.142,Standard
+PAT-1403,ICU-Bravo,HMO-Primary,2.0,6865.86,0.142,Standard
+PAT-1404,ICU-Alpha,Medicare,2.5,8467.44,0.135,Standard
+PAT-1405,ICU-Alpha,Medicare,4.9,16790.38,0.15,Standard
+PAT-1406,Neuro-ICU,Medicare,3.9,13282.25,0.127,Standard
+PAT-1407,Neuro-ICU,Medicaid,3.8,12819.95,0.14,Standard
+PAT-1408,CCU-Main,Private-PPO,4.6,15635.61,0.143,Standard
+PAT-1409,Neuro-ICU,Medicare,6.8,22968.99,0.149,Moderate Utilization
+PAT-1410,ICU-Bravo,Medicare,1.0,3400.0,0.151,Standard
+PAT-1411,CCU-Main,Private-PPO,5.2,17793.96,0.126,Standard
+PAT-1412,CCU-Main,HMO-Primary,4.0,13655.18,0.12,Standard
+PAT-1413,ICU-Alpha,Medicare,4.3,14467.13,0.159,Standard
+PAT-1414,ICU-Bravo,Medicare,4.3,14470.91,0.146,Standard
+PAT-1415,ICU-Bravo,Private-PPO,5.6,18909.98,0.131,Moderate Utilization
+PAT-1416,CCU-Main,Medicare,2.8,9489.7,0.163,Standard
+PAT-1417,CCU-Main,Private-PPO,3.2,10838.68,0.143,Standard
+PAT-1418,ICU-Alpha,Private-PPO,4.5,15297.39,0.158,Standard
+PAT-1419,Neuro-ICU,Private-PPO,3.1,10638.21,0.142,Standard
+PAT-1420,ICU-Bravo,HMO-Primary,6.0,20352.66,0.17,Moderate Utilization
+PAT-1421,ICU-Bravo,Medicare,2.6,8834.19,0.166,Standard
+PAT-1422,ICU-Alpha,Medicaid,5.9,23178.96,0.488,Moderate Utilization
+PAT-1423,CCU-Main,HMO-Primary,2.8,9689.46,0.155,Standard
+PAT-1424,ICU-Bravo,Medicare,1.0,3400.0,0.151,Standard
+PAT-1425,ICU-Alpha,Medicare,2.5,8658.28,0.161,Standard
+PAT-1426,CCU-Main,Medicaid,8.4,32994.29,0.478,Moderate Utilization
+PAT-1427,ICU-Alpha,Private-PPO,2.1,7245.38,0.151,Standard
+PAT-1428,ICU-Bravo,Medicare,3.0,10186.25,0.156,Standard
+PAT-1429,CCU-Main,Private-PPO,3.4,11707.67,0.117,Standard
+PAT-1430,ICU-Alpha,Private-PPO,4.7,15991.15,0.125,Standard
+PAT-1431,ICU-Alpha,Medicare,3.4,11570.34,0.113,Standard
+PAT-1432,ICU-Alpha,Private-PPO,5.8,19706.23,0.138,Moderate Utilization
+PAT-1433,ICU-Bravo,Private-PPO,5.4,18447.63,0.152,Moderate Utilization
+PAT-1434,ICU-Bravo,Medicaid,5.2,17707.2,0.163,Standard
+PAT-1435,Neuro-ICU,Private-PPO,5.1,17451.79,0.143,Standard
+PAT-1436,ICU-Bravo,Private-PPO,5.8,22702.37,0.514,Moderate Utilization
+PAT-1437,ICU-Alpha,Private-PPO,7.4,28765.32,0.472,Moderate Utilization
+PAT-1438,ICU-Bravo,Medicare,3.4,11562.68,0.118,Standard
+PAT-1439,ICU-Alpha,Medicaid,3.1,10448.51,0.141,Standard
+PAT-1440,ICU-Alpha,Private-PPO,9.4,36588.7,0.497,High Utilization
+PAT-1441,ICU-Alpha,Medicaid,2.8,9560.6,0.141,Standard
+PAT-1442,CCU-Main,Medicaid,3.8,12789.68,0.113,Standard
+PAT-1443,Neuro-ICU,Private-PPO,6.8,23113.42,0.14,Moderate Utilization
+PAT-1444,Neuro-ICU,Medicare,3.4,11396.75,0.123,Standard
+PAT-1445,ICU-Alpha,HMO-Primary,7.0,23969.41,0.151,Moderate Utilization
+PAT-1446,ICU-Bravo,Medicare,6.7,22667.19,0.147,Moderate Utilization
+PAT-1447,Neuro-ICU,HMO-Primary,3.8,12789.72,0.128,Standard
+PAT-1448,ICU-Alpha,Private-PPO,4.3,14781.91,0.134,Standard
+PAT-1449,ICU-Bravo,Medicare,5.5,18827.25,0.127,Moderate Utilization
+PAT-1450,CCU-Main,Medicaid,4.5,15276.97,0.141,Standard
+PAT-1451,CCU-Main,Medicaid,2.3,7951.13,0.155,Standard
+PAT-1452,ICU-Alpha,Medicaid,3.2,10835.21,0.128,Standard
+PAT-1453,ICU-Bravo,Medicare,3.8,13083.43,0.149,Standard
+PAT-1454,CCU-Main,Medicaid,5.1,17212.01,0.134,Standard
+PAT-1455,CCU-Main,Private-PPO,4.0,13752.31,0.13,Standard
+PAT-1456,CCU-Main,Private-PPO,9.1,35685.2,0.49,High Utilization
+PAT-1457,ICU-Bravo,HMO-Primary,4.0,13611.93,0.127,Standard
+PAT-1458,ICU-Alpha,Private-PPO,3.4,11409.45,0.134,Standard
+PAT-1459,ICU-Alpha,Medicare,5.2,17833.05,0.125,Standard
+PAT-1460,CCU-Main,Private-PPO,1.3,4493.23,0.169,Standard
+PAT-1461,ICU-Alpha,Private-PPO,3.7,12602.57,0.142,Standard
+PAT-1462,Neuro-ICU,Medicaid,12.4,48495.96,0.482,High Utilization
+PAT-1463,CCU-Main,Medicare,3.6,12391.35,0.144,Standard
+PAT-1464,ICU-Bravo,Medicaid,2.8,9516.02,0.14,Standard
+PAT-1465,ICU-Alpha,Medicaid,3.6,12083.04,0.138,Standard
+PAT-1466,ICU-Bravo,Medicare,4.0,13462.36,0.15,Standard
+PAT-1467,ICU-Alpha,Medicare,1.0,3400.0,0.152,Standard
+PAT-1468,ICU-Bravo,Private-PPO,4.4,14999.58,0.134,Standard
+PAT-1469,ICU-Bravo,Medicaid,4.1,13882.0,0.133,Standard
+PAT-1470,ICU-Alpha,Private-PPO,5.5,18617.72,0.138,Moderate Utilization
+PAT-1471,CCU-Main,Medicaid,1.0,3400.0,0.109,Standard
+PAT-1472,CCU-Main,Private-PPO,5.6,19204.14,0.12,Moderate Utilization
+PAT-1473,ICU-Bravo,Private-PPO,4.8,16353.26,0.161,Standard
+PAT-1474,Neuro-ICU,Medicare,4.6,15719.4,0.165,Standard
+PAT-1475,ICU-Bravo,Medicare,3.4,11502.43,0.138,Standard
+PAT-1476,Neuro-ICU,Private-PPO,2.6,8933.0,0.15,Standard
+PAT-1477,CCU-Main,Medicaid,4.6,15480.1,0.146,Standard
+PAT-1478,Neuro-ICU,Private-PPO,5.5,18631.64,0.172,Moderate Utilization
+PAT-1479,ICU-Alpha,Private-PPO,1.0,3400.0,0.157,Standard
+PAT-1480,Neuro-ICU,Private-PPO,4.3,14670.43,0.14,Standard
+PAT-1481,ICU-Alpha,Medicare,2.7,9217.22,0.128,Standard
+PAT-1482,ICU-Bravo,Private-PPO,7.2,24632.83,0.119,Moderate Utilization
+PAT-1483,Neuro-ICU,Private-PPO,4.2,14396.14,0.144,Standard
+PAT-1484,ICU-Alpha,Private-PPO,2.2,7426.74,0.131,Standard
+PAT-1485,ICU-Bravo,Private-PPO,2.4,8012.94,0.122,Standard
+PAT-1486,Neuro-ICU,Medicaid,4.5,15164.56,0.132,Standard
+PAT-1487,Neuro-ICU,Medicare,5.3,17893.72,0.126,Standard
+PAT-1488,ICU-Alpha,Medicare,5.0,17097.61,0.165,Standard
+PAT-1489,ICU-Bravo,Medicare,3.4,11719.36,0.154,Standard
+PAT-1490,ICU-Alpha,Medicaid,4.1,13798.55,0.141,Standard
+PAT-1491,Neuro-ICU,Private-PPO,6.0,20294.22,0.162,Moderate Utilization
+PAT-1492,ICU-Bravo,Medicare,1.4,4756.54,0.143,Standard
+PAT-1493,CCU-Main,HMO-Primary,1.2,4078.8,0.129,Standard
+PAT-1494,CCU-Main,Private-PPO,5.0,17052.02,0.163,Standard
+PAT-1495,CCU-Main,Medicare,1.1,3720.16,0.149,Standard
+PAT-1496,Neuro-ICU,Private-PPO,3.3,11172.07,0.127,Standard
+PAT-1497,CCU-Main,Private-PPO,3.5,12017.06,0.139,Standard
+PAT-1498,Neuro-ICU,Private-PPO,3.3,11264.35,0.129,Standard
+PAT-1499,ICU-Bravo,Private-PPO,3.1,10483.76,0.122,Standard
+PAT-1500,ICU-Alpha,Medicare,1.6,5606.44,0.154,Standard
+PAT-1501,Neuro-ICU,Medicare,4.1,13783.53,0.168,Standard
+PAT-1502,ICU-Bravo,Medicare,4.1,13999.36,0.122,Standard
+PAT-1503,ICU-Bravo,Medicare,3.2,10753.54,0.149,Standard
+PAT-1504,ICU-Bravo,Private-PPO,2.2,7455.58,0.132,Standard
+PAT-1505,ICU-Alpha,Private-PPO,4.5,15446.92,0.135,Standard
+PAT-1506,Neuro-ICU,Private-PPO,4.9,16521.88,0.133,Standard
+PAT-1507,ICU-Bravo,Private-PPO,10.4,40707.49,0.479,High Utilization
+PAT-1508,CCU-Main,Medicare,4.3,14608.07,0.142,Standard
+PAT-1509,CCU-Main,Medicare,5.0,17037.2,0.13,Standard
+PAT-1510,ICU-Bravo,Medicare,6.7,22682.29,0.145,Moderate Utilization
+PAT-1511,CCU-Main,Medicare,3.2,10979.59,0.141,Standard
+PAT-1512,CCU-Main,Private-PPO,1.9,6499.27,0.138,Standard
+PAT-1513,Neuro-ICU,Medicaid,3.0,10079.11,0.129,Standard
+PAT-1514,ICU-Alpha,Private-PPO,5.7,19249.24,0.133,Moderate Utilization
+PAT-1515,Neuro-ICU,Private-PPO,4.2,14292.72,0.152,Standard
+PAT-1516,ICU-Bravo,Medicare,1.5,4939.86,0.149,Standard
+PAT-1517,ICU-Bravo,Private-PPO,4.0,13494.89,0.128,Standard
+PAT-1518,CCU-Main,Private-PPO,1.8,6264.29,0.143,Standard
+PAT-1519,Neuro-ICU,Medicare,2.4,8210.59,0.152,Standard
+PAT-1520,ICU-Bravo,HMO-Primary,4.0,13674.2,0.118,Standard
+PAT-1521,ICU-Bravo,Medicare,4.5,15255.08,0.149,Standard
+PAT-1522,CCU-Main,Private-PPO,4.6,15751.55,0.132,Standard
+PAT-1523,CCU-Main,Private-PPO,9.8,38317.25,0.499,High Utilization
+PAT-1524,ICU-Bravo,Medicaid,1.5,5010.62,0.131,Standard
+PAT-1525,Neuro-ICU,HMO-Primary,3.2,11042.96,0.116,Standard
+PAT-1526,ICU-Alpha,HMO-Primary,3.2,10768.93,0.119,Standard
+PAT-1527,Neuro-ICU,Private-PPO,9.0,35024.93,0.492,High Utilization
+PAT-1528,CCU-Main,Private-PPO,5.0,17051.64,0.145,Standard
+PAT-1529,ICU-Bravo,Medicare,4.8,16345.8,0.129,Standard
+PAT-1530,CCU-Main,Private-PPO,2.3,7781.39,0.15,Standard
+PAT-1531,ICU-Bravo,Medicaid,3.3,11194.94,0.118,Standard
+PAT-1532,ICU-Bravo,Private-PPO,1.0,3400.0,0.141,Standard
+PAT-1533,ICU-Alpha,Medicare,3.5,12006.56,0.125,Standard
+PAT-1534,CCU-Main,Medicare,2.6,8832.37,0.132,Standard
+PAT-1535,ICU-Alpha,Private-PPO,5.4,18318.18,0.142,Moderate Utilization
+PAT-1536,Neuro-ICU,Medicare,4.8,16354.19,0.129,Standard
+PAT-1537,CCU-Main,Medicare,3.9,13145.44,0.136,Standard
+PAT-1538,ICU-Alpha,Medicare,4.8,16287.95,0.156,Standard
+PAT-1539,CCU-Main,Medicare,5.1,17389.26,0.133,Standard
+PAT-1540,ICU-Alpha,Medicare,3.5,11804.76,0.153,Standard
+PAT-1541,ICU-Alpha,Medicaid,3.5,11947.03,0.126,Standard
+PAT-1542,CCU-Main,Private-PPO,5.0,17031.85,0.149,Standard
+PAT-1543,Neuro-ICU,Private-PPO,11.5,44769.61,0.512,High Utilization
+PAT-1544,ICU-Alpha,Private-PPO,5.5,18805.76,0.107,Moderate Utilization
+PAT-1545,ICU-Alpha,Medicare,1.0,3400.0,0.13,Standard
+PAT-1546,CCU-Main,Medicaid,8.9,34793.7,0.5,Moderate Utilization
+PAT-1547,Neuro-ICU,HMO-Primary,1.4,4590.0,0.139,Standard
+PAT-1548,CCU-Main,Medicare,3.5,11823.02,0.147,Standard
+PAT-1549,ICU-Bravo,Medicare,6.3,21288.49,0.133,Moderate Utilization
+PAT-1550,CCU-Main,Private-PPO,4.8,16487.91,0.143,Standard
+PAT-1551,ICU-Bravo,Medicare,9.7,38029.55,0.489,High Utilization
+PAT-1552,ICU-Alpha,HMO-Primary,3.4,11647.78,0.158,Standard
+PAT-1553,Neuro-ICU,Private-PPO,9.7,37961.95,0.495,High Utilization
+PAT-1554,Neuro-ICU,Medicare,4.0,13465.17,0.146,Standard
+PAT-1555,CCU-Main,Private-PPO,6.0,20518.82,0.136,Moderate Utilization
+PAT-1556,ICU-Bravo,Private-PPO,9.8,38320.81,0.485,High Utilization
+PAT-1557,CCU-Main,Medicare,3.7,12712.15,0.135,Standard
+PAT-1558,Neuro-ICU,Medicaid,5.2,17623.34,0.147,Standard
+PAT-1559,ICU-Bravo,Medicare,2.8,9414.99,0.136,Standard
+PAT-1560,Neuro-ICU,HMO-Primary,3.0,10049.42,0.146,Standard
+PAT-1561,ICU-Bravo,Medicare,2.9,9752.75,0.171,Standard
+PAT-1562,CCU-Main,Private-PPO,2.4,8098.29,0.154,Standard
+PAT-1563,ICU-Alpha,Medicare,3.8,12883.87,0.137,Standard
+PAT-1564,ICU-Alpha,Private-PPO,5.4,18426.87,0.158,Moderate Utilization
+PAT-1565,ICU-Bravo,Private-PPO,2.0,6892.39,0.136,Standard
+PAT-1566,ICU-Bravo,Medicare,3.0,10030.55,0.113,Standard
+PAT-1567,ICU-Alpha,Private-PPO,3.5,11947.9,0.127,Standard
+PAT-1568,CCU-Main,Medicare,2.4,8082.48,0.115,Standard
+PAT-1569,CCU-Main,Private-PPO,2.9,9720.95,0.137,Standard
+PAT-1570,Neuro-ICU,Private-PPO,8.4,32686.73,0.492,Moderate Utilization
+PAT-1571,Neuro-ICU,Medicaid,1.8,6243.97,0.165,Standard
+PAT-1572,ICU-Alpha,Medicare,3.7,12547.21,0.146,Standard
+PAT-1573,ICU-Alpha,Medicare,3.2,10773.37,0.138,Standard
+PAT-1574,ICU-Alpha,Private-PPO,4.6,15567.92,0.153,Standard
+PAT-1575,ICU-Bravo,Medicaid,4.6,15675.25,0.111,Standard
+PAT-1576,Neuro-ICU,Medicaid,5.2,17785.04,0.145,Standard
+PAT-1577,ICU-Alpha,Private-PPO,5.3,18105.99,0.152,Moderate Utilization
+PAT-1578,ICU-Alpha,Medicaid,5.3,18091.81,0.121,Moderate Utilization
+PAT-1579,Neuro-ICU,Medicaid,5.2,17782.54,0.158,Standard
+PAT-1580,ICU-Alpha,Medicare,3.6,12269.28,0.146,Standard
+PAT-1581,ICU-Alpha,Medicare,4.8,16445.41,0.136,Standard
+PAT-1582,CCU-Main,Medicare,4.3,14589.63,0.15,Standard
+PAT-1583,Neuro-ICU,Medicare,4.0,13543.36,0.172,Standard
+PAT-1584,CCU-Main,Private-PPO,5.2,17756.78,0.144,Standard
+PAT-1585,Neuro-ICU,Private-PPO,10.5,40988.47,0.495,High Utilization
+PAT-1586,ICU-Alpha,Private-PPO,5.6,19138.35,0.135,Moderate Utilization
+PAT-1587,ICU-Bravo,Medicare,4.9,16765.36,0.13,Standard
+PAT-1588,ICU-Bravo,Medicaid,4.5,15137.06,0.153,Standard
+PAT-1589,CCU-Main,Private-PPO,3.4,11624.22,0.13,Standard
+PAT-1590,ICU-Bravo,Private-PPO,3.4,11522.87,0.143,Standard
+PAT-1591,ICU-Bravo,HMO-Primary,4.3,14549.06,0.135,Standard
+PAT-1592,CCU-Main,Medicare,4.4,14841.36,0.148,Standard
+PAT-1593,ICU-Alpha,Medicare,10.7,41792.4,0.496,High Utilization
+PAT-1594,Neuro-ICU,Private-PPO,2.4,8044.53,0.156,Standard
+PAT-1595,ICU-Alpha,Medicaid,4.4,15090.95,0.134,Standard
+PAT-1596,CCU-Main,Medicare,3.2,10820.37,0.138,Standard
+PAT-1597,ICU-Alpha,Private-PPO,3.4,11616.5,0.128,Standard
+PAT-1598,ICU-Alpha,HMO-Primary,3.3,11250.79,0.135,Standard
+PAT-1599,CCU-Main,Private-PPO,5.6,18989.08,0.147,Moderate Utilization
+PAT-1600,CCU-Main,Medicare,3.3,11261.21,0.152,Standard
+PAT-1601,CCU-Main,Private-PPO,3.4,11692.11,0.129,Standard
+PAT-1602,ICU-Bravo,Medicare,4.0,13478.58,0.154,Standard
+PAT-1603,CCU-Main,Medicare,7.5,29410.79,0.51,Moderate Utilization
+PAT-1604,CCU-Main,Medicaid,3.1,10371.8,0.147,Standard
+PAT-1605,CCU-Main,Private-PPO,2.4,8198.77,0.168,Standard
+PAT-1606,CCU-Main,Medicare,2.7,9039.16,0.131,Standard
+PAT-1607,ICU-Alpha,Medicare,6.9,23594.35,0.124,Moderate Utilization
+PAT-1608,CCU-Main,Private-PPO,4.4,14942.93,0.117,Standard
+PAT-1609,Neuro-ICU,Private-PPO,4.5,15232.74,0.162,Standard
+PAT-1610,CCU-Main,Private-PPO,10.2,39809.34,0.501,High Utilization
+PAT-1611,Neuro-ICU,Medicaid,10.0,39217.38,0.491,High Utilization
+PAT-1612,Neuro-ICU,Private-PPO,3.9,13317.1,0.145,Standard
+PAT-1613,ICU-Bravo,HMO-Primary,4.4,14848.56,0.126,Standard
+PAT-1614,ICU-Bravo,HMO-Primary,1.0,3400.0,0.172,Standard
+PAT-1615,ICU-Alpha,Medicare,2.2,7455.6,0.143,Standard
+PAT-1616,CCU-Main,Medicare,3.2,10972.63,0.143,Standard
+PAT-1617,CCU-Main,Medicare,3.4,11495.72,0.152,Standard
+PAT-1618,Neuro-ICU,Medicare,4.1,13819.23,0.148,Standard
+PAT-1619,CCU-Main,Medicare,4.0,13681.63,0.145,Standard
+PAT-1620,Neuro-ICU,Private-PPO,1.7,5936.61,0.13,Standard
+PAT-1621,ICU-Bravo,Medicare,4.4,14914.97,0.148,Standard
+PAT-1622,ICU-Alpha,Medicare,3.7,12494.47,0.168,Standard
+PAT-1623,ICU-Bravo,Medicare,4.5,15248.68,0.16,Standard
+PAT-1624,CCU-Main,Medicare,4.7,16065.25,0.164,Standard
+PAT-1625,Neuro-ICU,Private-PPO,2.6,8708.89,0.134,Standard
+PAT-1626,ICU-Bravo,Medicare,5.1,17352.8,0.128,Standard
+PAT-1627,CCU-Main,HMO-Primary,2.6,8829.79,0.14,Standard
+PAT-1628,Neuro-ICU,Medicare,2.6,8910.63,0.142,Standard
+PAT-1629,CCU-Main,HMO-Primary,4.8,16165.08,0.157,Standard
+PAT-1630,CCU-Main,Medicare,3.2,10893.9,0.118,Standard
+PAT-1631,ICU-Alpha,Private-PPO,4.5,15211.43,0.163,Standard
+PAT-1632,ICU-Bravo,Medicare,5.0,17121.28,0.139,Standard
+PAT-1633,CCU-Main,Medicaid,8.1,31544.24,0.486,Moderate Utilization
+PAT-1634,CCU-Main,Medicare,9.9,38628.76,0.477,High Utilization
+PAT-1635,ICU-Alpha,HMO-Primary,2.5,8582.93,0.118,Standard
+PAT-1636,ICU-Alpha,Medicare,1.9,6611.93,0.153,Standard
+PAT-1637,Neuro-ICU,Medicare,5.4,18294.78,0.143,Moderate Utilization
+PAT-1638,CCU-Main,Private-PPO,5.1,17449.1,0.123,Standard
+PAT-1639,CCU-Main,Medicaid,2.6,8729.59,0.123,Standard
+PAT-1640,CCU-Main,HMO-Primary,5.2,17775.6,0.137,Standard
+PAT-1641,CCU-Main,Private-PPO,7.0,23875.5,0.165,Moderate Utilization
+PAT-1642,ICU-Alpha,Medicaid,5.3,17863.63,0.138,Standard
+PAT-1643,ICU-Bravo,Private-PPO,4.1,14078.12,0.12,Standard
+PAT-1644,ICU-Alpha,Private-PPO,5.1,17324.41,0.138,Standard
+PAT-1645,Neuro-ICU,Private-PPO,2.6,8717.16,0.138,Standard
+PAT-1646,ICU-Alpha,Medicare,3.7,12418.53,0.104,Standard
+PAT-1647,ICU-Bravo,Private-PPO,3.4,11682.13,0.141,Standard
+PAT-1648,CCU-Main,Medicaid,3.2,10827.09,0.138,Standard
+PAT-1649,Neuro-ICU,Private-PPO,9.4,36838.68,0.501,High Utilization
+PAT-1650,Neuro-ICU,Medicaid,6.5,22267.82,0.167,Moderate Utilization
+PAT-1651,CCU-Main,Medicaid,4.7,15972.02,0.157,Standard
+PAT-1652,ICU-Bravo,Medicaid,3.8,13075.26,0.138,Standard
+PAT-1653,ICU-Alpha,Medicare,5.3,18048.21,0.126,Moderate Utilization
+PAT-1654,CCU-Main,Medicare,3.2,10786.94,0.172,Standard
+PAT-1655,ICU-Bravo,Medicare,6.5,22018.99,0.142,Moderate Utilization
+PAT-1656,ICU-Bravo,HMO-Primary,1.0,3400.0,0.142,Standard
+PAT-1657,ICU-Bravo,Medicare,10.1,39406.58,0.491,High Utilization
+PAT-1658,CCU-Main,Medicare,4.6,15640.65,0.144,Standard
+PAT-1659,ICU-Bravo,Medicare,2.5,8623.64,0.139,Standard
+PAT-1660,Neuro-ICU,Medicare,3.5,11778.27,0.133,Standard
+PAT-1661,Neuro-ICU,Medicare,2.6,8883.74,0.134,Standard
+PAT-1662,ICU-Alpha,Medicare,2.3,7836.22,0.141,Standard
+PAT-1663,ICU-Alpha,Medicare,1.7,5867.8,0.134,Standard
+PAT-1664,ICU-Bravo,HMO-Primary,8.8,34469.43,0.482,Moderate Utilization
+PAT-1665,ICU-Bravo,Private-PPO,4.1,13842.81,0.143,Standard
+PAT-1666,ICU-Bravo,Private-PPO,1.4,4759.78,0.138,Standard
+PAT-1667,ICU-Alpha,Private-PPO,6.0,20441.84,0.163,Moderate Utilization
+PAT-1668,Neuro-ICU,Medicaid,4.5,15435.77,0.104,Standard
+PAT-1669,Neuro-ICU,HMO-Primary,4.0,13483.92,0.157,Standard
+PAT-1670,CCU-Main,HMO-Primary,2.7,9216.91,0.159,Standard
+PAT-1671,ICU-Alpha,Medicare,4.4,15116.52,0.112,Standard
+PAT-1672,ICU-Bravo,Medicaid,5.0,16912.16,0.137,Standard
+PAT-1673,Neuro-ICU,Medicare,5.0,16830.15,0.136,Standard
+PAT-1674,CCU-Main,Medicare,5.1,17370.69,0.122,Standard
+PAT-1675,Neuro-ICU,Medicare,7.5,25458.86,0.131,Moderate Utilization
+PAT-1676,CCU-Main,Private-PPO,2.6,8990.41,0.126,Standard
+PAT-1677,ICU-Bravo,Private-PPO,3.3,11165.98,0.166,Standard
+PAT-1678,ICU-Bravo,Medicare,2.2,7633.04,0.155,Standard
+PAT-1679,Neuro-ICU,Medicaid,4.5,15361.46,0.159,Standard
+PAT-1680,ICU-Alpha,Private-PPO,5.6,19018.71,0.152,Moderate Utilization
+PAT-1681,Neuro-ICU,Medicare,6.3,21424.67,0.126,Moderate Utilization
+PAT-1682,ICU-Alpha,Private-PPO,4.5,15190.44,0.134,Standard
+PAT-1683,Neuro-ICU,Private-PPO,3.8,13088.13,0.148,Standard
+PAT-1684,ICU-Alpha,Medicare,5.1,17362.05,0.124,Standard
+PAT-1685,ICU-Bravo,Medicare,5.4,18478.58,0.151,Moderate Utilization
+PAT-1686,CCU-Main,HMO-Primary,3.1,10397.89,0.138,Standard
+PAT-1687,ICU-Alpha,Medicaid,4.0,13480.46,0.136,Standard
+PAT-1688,ICU-Bravo,Medicare,2.8,9515.19,0.151,Standard
+PAT-1689,CCU-Main,Private-PPO,5.8,19856.73,0.148,Moderate Utilization
+PAT-1690,ICU-Bravo,Medicare,2.2,7409.7,0.136,Standard
+PAT-1691,ICU-Bravo,Private-PPO,4.9,16802.07,0.158,Standard
+PAT-1692,ICU-Bravo,Private-PPO,4.9,16712.49,0.126,Standard
+PAT-1693,ICU-Alpha,Medicare,7.8,30537.2,0.5,Moderate Utilization
+PAT-1694,ICU-Bravo,Medicare,3.2,10877.65,0.15,Standard
+PAT-1695,ICU-Bravo,Medicare,6.2,21165.36,0.137,Moderate Utilization
+PAT-1696,ICU-Bravo,Private-PPO,2.0,6635.66,0.146,Standard
+PAT-1697,ICU-Alpha,HMO-Primary,2.5,8668.47,0.124,Standard
+PAT-1698,Neuro-ICU,HMO-Primary,2.8,9466.99,0.154,Standard
+PAT-1699,ICU-Bravo,HMO-Primary,2.9,9761.53,0.139,Standard
+PAT-1700,Neuro-ICU,HMO-Primary,5.4,18419.36,0.134,Moderate Utilization
+PAT-1701,ICU-Bravo,Medicare,4.6,15748.39,0.156,Standard
+PAT-1702,ICU-Alpha,Private-PPO,3.6,12359.26,0.132,Standard
+PAT-1703,Neuro-ICU,Medicare,6.5,22164.78,0.122,Moderate Utilization
+PAT-1704,ICU-Bravo,Medicaid,5.7,19369.52,0.12,Moderate Utilization
+PAT-1705,Neuro-ICU,Medicaid,3.5,11763.43,0.15,Standard
+PAT-1706,CCU-Main,Private-PPO,1.0,3400.0,0.124,Standard
+PAT-1707,Neuro-ICU,Private-PPO,5.3,18018.32,0.166,Moderate Utilization
+PAT-1708,ICU-Bravo,Medicare,4.4,15041.22,0.112,Standard
+PAT-1709,Neuro-ICU,Medicare,4.3,14496.09,0.165,Standard
+PAT-1710,ICU-Bravo,HMO-Primary,3.8,12796.37,0.144,Standard
+PAT-1711,Neuro-ICU,Medicaid,4.4,14844.22,0.14,Standard
+PAT-1712,Neuro-ICU,Medicare,5.0,16933.07,0.134,Standard
+PAT-1713,ICU-Alpha,Medicare,4.9,16734.01,0.147,Standard
+PAT-1714,ICU-Alpha,Medicare,1.3,4314.79,0.141,Standard
+PAT-1715,Neuro-ICU,HMO-Primary,4.9,16732.35,0.157,Standard
+PAT-1716,ICU-Alpha,HMO-Primary,5.2,17560.19,0.143,Standard
+PAT-1717,ICU-Alpha,Private-PPO,3.3,11205.29,0.144,Standard
+PAT-1718,CCU-Main,Private-PPO,1.0,3400.0,0.136,Standard
+PAT-1719,ICU-Bravo,Private-PPO,3.0,10031.39,0.141,Standard
+PAT-1720,ICU-Bravo,Medicare,4.3,14674.59,0.146,Standard
+PAT-1721,CCU-Main,HMO-Primary,3.6,12352.41,0.118,Standard
+PAT-1722,Neuro-ICU,Private-PPO,10.3,40258.89,0.473,High Utilization
+PAT-1723,ICU-Alpha,Medicare,10.2,39787.81,0.502,High Utilization
+PAT-1724,ICU-Bravo,Medicare,3.3,11127.88,0.144,Standard
+PAT-1725,CCU-Main,Private-PPO,5.2,17577.56,0.139,Standard
+PAT-1726,ICU-Bravo,Medicare,2.5,8564.85,0.142,Standard
+PAT-1727,Neuro-ICU,Private-PPO,3.1,10512.7,0.146,Standard
+PAT-1728,CCU-Main,Medicaid,4.0,13487.56,0.134,Standard
+PAT-1729,Neuro-ICU,Medicaid,2.8,9616.56,0.131,Standard
+PAT-1730,Neuro-ICU,Private-PPO,5.2,17753.64,0.144,Standard
+PAT-1731,CCU-Main,Private-PPO,3.0,10056.01,0.128,Standard
+PAT-1732,ICU-Bravo,Medicare,5.3,17911.28,0.147,Standard
+PAT-1733,ICU-Alpha,Private-PPO,4.1,13831.12,0.118,Standard
+PAT-1734,ICU-Alpha,Medicare,11.8,46095.56,0.506,High Utilization
+PAT-1735,CCU-Main,HMO-Primary,5.8,19812.84,0.148,Moderate Utilization
+PAT-1736,ICU-Alpha,HMO-Primary,2.7,9192.71,0.145,Standard
+PAT-1737,Neuro-ICU,Medicare,6.4,21907.32,0.155,Moderate Utilization
+PAT-1738,ICU-Bravo,Medicaid,8.6,33628.36,0.515,Moderate Utilization
+PAT-1739,CCU-Main,Private-PPO,6.0,20243.61,0.156,Moderate Utilization
+PAT-1740,Neuro-ICU,HMO-Primary,4.6,15609.36,0.116,Standard
+PAT-1741,Neuro-ICU,Private-PPO,1.2,4039.21,0.124,Standard
+PAT-1742,ICU-Bravo,Private-PPO,1.0,3400.0,0.133,Standard
+PAT-1743,ICU-Bravo,Private-PPO,3.6,12083.05,0.142,Standard
+PAT-1744,ICU-Alpha,Medicare,5.1,17328.69,0.149,Standard
+PAT-1745,ICU-Bravo,Medicare,5.3,18040.5,0.131,Moderate Utilization
+PAT-1746,CCU-Main,Medicare,3.5,11930.51,0.144,Standard
+PAT-1747,CCU-Main,Medicare,4.7,16052.43,0.131,Standard
+PAT-1748,ICU-Bravo,Medicare,4.1,13848.35,0.133,Standard
+PAT-1749,ICU-Bravo,Private-PPO,2.3,7976.31,0.122,Standard
+PAT-1750,Neuro-ICU,Private-PPO,4.8,16441.8,0.129,Standard
+PAT-1751,CCU-Main,HMO-Primary,1.0,3400.0,0.123,Standard
+PAT-1752,ICU-Alpha,Medicare,2.9,9961.8,0.128,Standard
+PAT-1753,Neuro-ICU,HMO-Primary,4.0,13661.26,0.156,Standard
+PAT-1754,Neuro-ICU,Private-PPO,6.5,21977.04,0.128,Moderate Utilization
+PAT-1755,ICU-Alpha,Private-PPO,7.9,31032.09,0.522,Moderate Utilization
+PAT-1756,ICU-Alpha,Private-PPO,3.6,12166.27,0.148,Standard
+PAT-1757,ICU-Bravo,Private-PPO,4.6,15800.87,0.144,Standard
+PAT-1758,ICU-Bravo,Medicare,2.3,7768.47,0.129,Standard
+PAT-1759,Neuro-ICU,Medicaid,3.6,12302.81,0.151,Standard
+PAT-1760,CCU-Main,Private-PPO,7.1,27744.05,0.483,Moderate Utilization
+PAT-1761,CCU-Main,HMO-Primary,4.0,13505.61,0.143,Standard
+PAT-1762,Neuro-ICU,HMO-Primary,4.5,15157.97,0.172,Standard
+PAT-1763,CCU-Main,Private-PPO,2.7,9115.59,0.14,Standard
+PAT-1764,CCU-Main,Private-PPO,3.5,12063.52,0.158,Standard
+PAT-1765,ICU-Alpha,HMO-Primary,4.8,16236.86,0.132,Standard
+PAT-1766,ICU-Bravo,HMO-Primary,4.6,15658.01,0.141,Standard
+PAT-1767,ICU-Bravo,Medicaid,1.7,5845.1,0.166,Standard
+PAT-1768,Neuro-ICU,Medicaid,1.0,3564.77,0.133,Standard
+PAT-1769,ICU-Alpha,Medicare,10.3,40133.78,0.517,High Utilization
+PAT-1770,CCU-Main,Medicaid,2.6,8778.6,0.151,Standard
+PAT-1771,Neuro-ICU,Medicare,6.6,22426.15,0.134,Moderate Utilization
+PAT-1772,Neuro-ICU,Private-PPO,2.4,8255.49,0.15,Standard
+PAT-1773,CCU-Main,Private-PPO,2.8,9357.06,0.155,Standard
+PAT-1774,ICU-Bravo,Medicare,2.9,9764.74,0.15,Standard
+PAT-1775,CCU-Main,Medicare,3.5,11939.05,0.12,Standard
+PAT-1776,Neuro-ICU,Medicaid,1.3,4342.47,0.131,Standard
+PAT-1777,ICU-Bravo,Medicaid,3.7,12672.79,0.138,Standard
+PAT-1778,Neuro-ICU,Private-PPO,2.8,9373.94,0.14,Standard
+PAT-1779,ICU-Alpha,Private-PPO,3.7,12625.79,0.15,Standard
+PAT-1780,ICU-Bravo,HMO-Primary,4.3,14493.45,0.144,Standard
+PAT-1781,Neuro-ICU,Medicare,6.4,21890.7,0.123,Moderate Utilization
+PAT-1782,Neuro-ICU,Private-PPO,5.4,18267.87,0.147,Moderate Utilization
+PAT-1783,ICU-Alpha,Private-PPO,2.9,9817.99,0.15,Standard
+PAT-1784,CCU-Main,HMO-Primary,2.3,7817.87,0.149,Standard
+PAT-1785,ICU-Bravo,Medicare,1.3,4437.03,0.157,Standard
+PAT-1786,Neuro-ICU,HMO-Primary,2.6,8694.3,0.153,Standard
+PAT-1787,Neuro-ICU,Medicare,3.2,11040.02,0.148,Standard
+PAT-1788,Neuro-ICU,Medicare,4.5,15262.58,0.141,Standard
+PAT-1789,Neuro-ICU,Medicare,5.1,17405.49,0.118,Standard
+PAT-1790,CCU-Main,Private-PPO,4.1,13930.98,0.148,Standard
+PAT-1791,CCU-Main,Private-PPO,1.4,4632.85,0.144,Standard
+PAT-1792,CCU-Main,Private-PPO,3.8,12922.89,0.145,Standard
+PAT-1793,ICU-Bravo,Medicare,5.0,16929.5,0.124,Standard
+PAT-1794,CCU-Main,Private-PPO,4.5,15381.99,0.126,Standard
+PAT-1795,ICU-Bravo,Medicaid,3.5,12034.93,0.156,Standard
+PAT-1796,CCU-Main,Medicaid,2.8,9379.47,0.141,Standard
+PAT-1797,Neuro-ICU,Private-PPO,8.1,31573.62,0.501,Moderate Utilization
+PAT-1798,ICU-Alpha,HMO-Primary,4.6,15740.96,0.142,Standard
+PAT-1799,ICU-Bravo,Private-PPO,5.0,17138.91,0.142,Standard
+PAT-1800,ICU-Alpha,Medicare,8.7,33874.0,0.505,Moderate Utilization
+PAT-1801,ICU-Alpha,Medicare,4.1,13868.62,0.134,Standard
+PAT-1802,Neuro-ICU,Medicare,9.3,36272.76,0.493,High Utilization
+PAT-1803,Neuro-ICU,Private-PPO,1.0,3400.0,0.135,Standard
+PAT-1804,ICU-Bravo,HMO-Primary,1.9,6577.92,0.135,Standard
+PAT-1805,ICU-Bravo,Medicaid,3.5,11870.03,0.137,Standard
+PAT-1806,ICU-Bravo,Medicare,3.4,11532.48,0.145,Standard
+PAT-1807,CCU-Main,Private-PPO,3.4,11432.55,0.135,Standard
+PAT-1808,CCU-Main,Private-PPO,10.3,40252.94,0.509,High Utilization
+PAT-1809,ICU-Alpha,HMO-Primary,3.6,12252.53,0.129,Standard
+PAT-1810,ICU-Bravo,Medicare,5.4,18208.99,0.139,Moderate Utilization
+PAT-1811,ICU-Alpha,Private-PPO,4.5,15142.61,0.135,Standard
+PAT-1812,CCU-Main,HMO-Primary,5.8,19724.72,0.162,Moderate Utilization
+PAT-1813,ICU-Alpha,HMO-Primary,5.3,18032.41,0.144,Moderate Utilization
+PAT-1814,ICU-Alpha,Medicare,9.9,38694.96,0.506,High Utilization
+PAT-1815,ICU-Bravo,Medicare,10.3,40168.55,0.471,High Utilization
+PAT-1816,ICU-Bravo,Private-PPO,5.3,17998.05,0.145,Standard
+PAT-1817,ICU-Alpha,Medicaid,2.0,6783.8,0.154,Standard
+PAT-1818,CCU-Main,Medicare,4.4,15028.1,0.143,Standard
+PAT-1819,ICU-Alpha,HMO-Primary,4.1,14014.25,0.156,Standard
+PAT-1820,CCU-Main,Medicare,5.3,17968.09,0.134,Standard
+PAT-1821,ICU-Alpha,Private-PPO,2.4,8186.02,0.161,Standard
+PAT-1822,ICU-Alpha,Private-PPO,3.9,13236.4,0.172,Standard
+PAT-1823,ICU-Bravo,Medicare,5.1,17473.22,0.136,Standard
+PAT-1824,ICU-Alpha,Medicare,3.5,11946.32,0.135,Standard
+PAT-1825,CCU-Main,Private-PPO,4.7,16113.07,0.162,Standard
+PAT-1826,ICU-Alpha,Medicaid,3.4,11591.78,0.164,Standard
+PAT-1827,ICU-Alpha,Medicare,4.9,16571.13,0.134,Standard
+PAT-1828,CCU-Main,Private-PPO,3.4,11639.14,0.136,Standard
+PAT-1829,ICU-Alpha,Private-PPO,3.3,11096.49,0.138,Standard
+PAT-1830,ICU-Alpha,Private-PPO,2.2,7435.96,0.123,Standard
+PAT-1831,ICU-Alpha,HMO-Primary,4.8,16184.97,0.129,Standard
+PAT-1832,ICU-Alpha,Private-PPO,3.9,13354.52,0.127,Standard
+PAT-1833,CCU-Main,Private-PPO,2.3,7839.92,0.131,Standard
+PAT-1834,Neuro-ICU,Private-PPO,1.8,6241.41,0.141,Standard
+PAT-1835,CCU-Main,Private-PPO,6.3,21364.93,0.145,Moderate Utilization
+PAT-1836,CCU-Main,Medicare,7.1,24275.74,0.163,Moderate Utilization
+PAT-1837,Neuro-ICU,Medicaid,4.6,15566.24,0.128,Standard
+PAT-1838,CCU-Main,Medicare,3.8,13029.88,0.155,Standard
+PAT-1839,ICU-Alpha,Private-PPO,6.0,20463.25,0.139,Moderate Utilization
+PAT-1840,CCU-Main,Private-PPO,7.1,27595.96,0.491,Moderate Utilization
+PAT-1841,ICU-Alpha,Medicare,4.5,15181.12,0.151,Standard
+PAT-1842,ICU-Bravo,Medicare,2.9,9922.32,0.126,Standard
+PAT-1843,ICU-Alpha,Medicare,3.5,11744.4,0.147,Standard
+PAT-1844,ICU-Alpha,Medicare,3.8,12819.7,0.144,Standard
+PAT-1845,CCU-Main,Medicaid,4.2,14233.25,0.148,Standard
+PAT-1846,CCU-Main,Medicaid,4.6,15475.38,0.146,Standard
+PAT-1847,CCU-Main,Medicare,4.2,14213.5,0.172,Standard
+PAT-1848,ICU-Bravo,Medicare,1.0,3400.0,0.133,Standard
+PAT-1849,Neuro-ICU,Medicaid,3.8,12799.47,0.134,Standard
+PAT-1850,ICU-Alpha,Medicare,1.5,5223.72,0.133,Standard
+PAT-1851,Neuro-ICU,HMO-Primary,10.0,39108.86,0.484,High Utilization
+PAT-1852,Neuro-ICU,Medicare,3.3,11362.64,0.133,Standard
+PAT-1853,ICU-Bravo,Private-PPO,4.4,14986.64,0.158,Standard
+PAT-1854,ICU-Alpha,Private-PPO,2.2,7385.51,0.161,Standard
+PAT-1855,ICU-Alpha,Medicare,6.4,21794.3,0.134,Moderate Utilization
+PAT-1856,ICU-Bravo,Medicare,12.2,47740.24,0.48,High Utilization
+PAT-1857,ICU-Bravo,Private-PPO,4.4,14888.55,0.148,Standard
+PAT-1858,ICU-Alpha,Medicare,1.0,3400.0,0.134,Standard
+PAT-1859,ICU-Bravo,Private-PPO,3.1,10401.35,0.15,Standard
+PAT-1860,CCU-Main,Medicare,6.2,21117.2,0.144,Moderate Utilization
+PAT-1861,ICU-Alpha,Private-PPO,4.6,15512.05,0.12,Standard
+PAT-1862,Neuro-ICU,Private-PPO,5.9,19954.78,0.163,Moderate Utilization
+PAT-1863,CCU-Main,Private-PPO,4.1,13853.7,0.167,Standard
+PAT-1864,Neuro-ICU,Medicare,4.7,15969.16,0.133,Standard
+PAT-1865,ICU-Bravo,Private-PPO,6.9,23503.36,0.136,Moderate Utilization
+PAT-1866,Neuro-ICU,Private-PPO,3.8,12957.09,0.146,Standard
+PAT-1867,CCU-Main,HMO-Primary,4.9,16587.63,0.146,Standard
+PAT-1868,ICU-Bravo,Medicaid,3.7,12604.71,0.151,Standard
+PAT-1869,CCU-Main,Medicare,5.6,19074.61,0.17,Moderate Utilization
+PAT-1870,ICU-Bravo,Medicare,4.5,15242.06,0.139,Standard
+PAT-1871,ICU-Alpha,Medicare,2.9,9980.53,0.13,Standard
+PAT-1872,Neuro-ICU,Medicare,4.0,13744.29,0.122,Standard
+PAT-1873,Neuro-ICU,Medicare,2.7,9042.48,0.131,Standard
+PAT-1874,ICU-Alpha,Medicare,6.6,22575.64,0.141,Moderate Utilization
+PAT-1875,ICU-Alpha,Medicare,10.5,41172.36,0.517,High Utilization
+PAT-1876,Neuro-ICU,Medicare,4.7,15952.52,0.134,Standard
+PAT-1877,ICU-Alpha,Medicare,2.9,9946.16,0.145,Standard
+PAT-1878,ICU-Bravo,Medicare,4.4,15067.43,0.141,Standard
+PAT-1879,Neuro-ICU,Medicare,3.9,13354.12,0.158,Standard
+PAT-1880,CCU-Main,Private-PPO,9.5,36984.76,0.522,High Utilization
+PAT-1881,ICU-Alpha,Medicare,3.4,11446.4,0.134,Standard
+PAT-1882,ICU-Bravo,Medicare,3.4,11417.84,0.135,Standard
+PAT-1883,Neuro-ICU,Medicare,3.0,10045.31,0.156,Standard
+PAT-1884,Neuro-ICU,Private-PPO,3.3,11088.36,0.151,Standard
+PAT-1885,ICU-Bravo,Medicaid,3.1,10517.3,0.167,Standard
+PAT-1886,ICU-Alpha,Medicare,3.7,12602.38,0.15,Standard
+PAT-1887,Neuro-ICU,Private-PPO,4.8,16247.06,0.136,Standard
+PAT-1888,ICU-Alpha,Private-PPO,4.2,14238.96,0.15,Standard
+PAT-1889,ICU-Bravo,Private-PPO,5.2,17848.02,0.157,Standard
+PAT-1890,CCU-Main,Medicaid,6.9,23393.31,0.153,Moderate Utilization
+PAT-1891,ICU-Bravo,Medicaid,3.2,11036.45,0.149,Standard
+PAT-1892,ICU-Alpha,Medicare,4.4,15018.08,0.156,Standard
+PAT-1893,Neuro-ICU,Medicare,8.6,33801.57,0.508,Moderate Utilization
+PAT-1894,ICU-Alpha,Private-PPO,4.4,14905.76,0.161,Standard
+PAT-1895,ICU-Alpha,HMO-Primary,4.6,15591.8,0.151,Standard
+PAT-1896,CCU-Main,Medicaid,7.2,28247.86,0.489,Moderate Utilization
+PAT-1897,Neuro-ICU,Medicare,5.4,18283.04,0.144,Moderate Utilization
+PAT-1898,CCU-Main,Medicare,5.0,17121.44,0.158,Standard
+PAT-1899,CCU-Main,Medicaid,4.0,13485.2,0.13,Standard
+PAT-1900,ICU-Bravo,Private-PPO,5.5,18707.78,0.147,Moderate Utilization
+PAT-1901,ICU-Bravo,Private-PPO,4.8,16161.55,0.136,Standard
+PAT-1902,Neuro-ICU,Private-PPO,1.3,4548.63,0.142,Standard
+PAT-1903,CCU-Main,Medicare,4.3,14479.96,0.159,Standard
+PAT-1904,CCU-Main,Medicaid,3.9,13114.27,0.144,Standard
+PAT-1905,ICU-Alpha,Medicaid,3.6,12403.49,0.142,Standard
+PAT-1906,ICU-Alpha,Private-PPO,1.7,5698.51,0.122,Standard
+PAT-1907,ICU-Bravo,Private-PPO,5.7,19384.06,0.152,Moderate Utilization
+PAT-1908,CCU-Main,Private-PPO,3.5,11814.0,0.151,Standard
+PAT-1909,Neuro-ICU,Medicare,5.0,16933.23,0.172,Standard
+PAT-1910,CCU-Main,Medicare,1.4,4591.53,0.137,Standard
+PAT-1911,ICU-Bravo,Medicare,3.9,13404.07,0.145,Standard
+PAT-1912,Neuro-ICU,HMO-Primary,3.1,10520.21,0.145,Standard
+PAT-1913,CCU-Main,Medicare,9.8,38370.54,0.514,High Utilization
+PAT-1914,ICU-Alpha,Medicare,9.8,38332.83,0.49,High Utilization
+PAT-1915,CCU-Main,Private-PPO,3.2,10858.08,0.145,Standard
+PAT-1916,ICU-Bravo,Medicare,2.5,8574.89,0.15,Standard
+PAT-1917,ICU-Bravo,Medicare,6.2,20925.55,0.144,Moderate Utilization
+PAT-1918,CCU-Main,Private-PPO,4.5,15378.6,0.135,Standard
+PAT-1919,ICU-Bravo,Private-PPO,3.6,12240.22,0.144,Standard
+PAT-1920,ICU-Alpha,Private-PPO,2.0,6792.84,0.157,Standard
+PAT-1921,ICU-Alpha,Private-PPO,2.0,6870.42,0.127,Standard
+PAT-1922,ICU-Alpha,Private-PPO,2.9,9987.81,0.143,Standard
+PAT-1923,CCU-Main,Private-PPO,4.7,15982.57,0.132,Standard
+PAT-1924,ICU-Bravo,Private-PPO,6.2,20935.05,0.158,Moderate Utilization
+PAT-1925,ICU-Alpha,Medicare,1.1,3656.61,0.12,Standard
+PAT-1926,Neuro-ICU,Private-PPO,11.2,43817.19,0.484,High Utilization
+PAT-1927,ICU-Bravo,Medicare,3.4,11501.53,0.147,Standard
+PAT-1928,ICU-Bravo,Medicare,2.9,9861.17,0.163,Standard
+PAT-1929,Neuro-ICU,Medicare,4.6,15548.43,0.141,Standard
+PAT-1930,ICU-Bravo,Medicare,4.5,15368.9,0.134,Standard
+PAT-1931,ICU-Alpha,Private-PPO,3.9,13420.43,0.168,Standard
+PAT-1932,ICU-Bravo,Private-PPO,3.5,11903.26,0.121,Standard
+PAT-1933,ICU-Alpha,Medicare,5.6,18966.61,0.111,Moderate Utilization
+PAT-1934,ICU-Alpha,HMO-Primary,4.0,13439.2,0.148,Standard
+PAT-1935,ICU-Alpha,Private-PPO,3.4,11670.87,0.134,Standard
+PAT-1936,CCU-Main,Medicaid,2.5,8589.24,0.127,Standard
+PAT-1937,ICU-Bravo,Private-PPO,3.7,12697.01,0.151,Standard
+PAT-1938,Neuro-ICU,Medicare,1.2,4111.39,0.145,Standard
+PAT-1939,CCU-Main,HMO-Primary,2.6,8680.23,0.134,Standard
+PAT-1940,CCU-Main,Medicaid,5.4,18400.34,0.124,Moderate Utilization
+PAT-1941,CCU-Main,Private-PPO,1.7,5681.72,0.154,Standard
+PAT-1942,CCU-Main,Medicare,2.0,6968.79,0.151,Standard
+PAT-1943,ICU-Alpha,Medicare,2.1,7128.27,0.14,Standard
+PAT-1944,ICU-Alpha,Medicaid,11.6,45200.65,0.517,High Utilization
+PAT-1945,Neuro-ICU,Medicare,4.0,13620.71,0.127,Standard
+PAT-1946,ICU-Bravo,Private-PPO,3.7,12660.1,0.12,Standard
+PAT-1947,Neuro-ICU,Private-PPO,4.0,13493.7,0.132,Standard
+PAT-1948,ICU-Bravo,Medicare,3.1,10663.56,0.141,Standard
+PAT-1949,ICU-Alpha,Private-PPO,2.2,7485.38,0.145,Standard
+PAT-1950,ICU-Bravo,Private-PPO,3.8,12991.63,0.138,Standard
+PAT-1951,ICU-Bravo,Medicare,2.6,9001.89,0.146,Standard
+PAT-1952,CCU-Main,Private-PPO,2.7,9124.81,0.124,Standard
+PAT-1953,Neuro-ICU,Medicaid,2.4,8320.9,0.162,Standard
+PAT-1954,CCU-Main,Private-PPO,9.6,37356.49,0.49,High Utilization
+PAT-1955,CCU-Main,Private-PPO,3.3,11219.8,0.157,Standard
+PAT-1956,CCU-Main,Private-PPO,6.8,23214.63,0.146,Moderate Utilization
+PAT-1957,CCU-Main,Medicare,4.3,14744.75,0.148,Standard
+PAT-1958,ICU-Alpha,HMO-Primary,3.2,10777.45,0.149,Standard
+PAT-1959,Neuro-ICU,Private-PPO,1.0,3400.0,0.148,Standard
+PAT-1960,CCU-Main,Medicare,2.9,9851.66,0.15,Standard
+PAT-1961,Neuro-ICU,Private-PPO,5.0,17097.23,0.16,Standard
+PAT-1962,CCU-Main,Private-PPO,5.3,18178.45,0.144,Moderate Utilization
+PAT-1963,ICU-Alpha,Medicare,3.6,12215.82,0.151,Standard
+PAT-1964,CCU-Main,Medicaid,2.2,7496.2,0.14,Standard
+PAT-1965,ICU-Bravo,Medicare,3.5,11799.31,0.162,Standard
+PAT-1966,ICU-Alpha,Private-PPO,2.2,7562.65,0.132,Standard
+PAT-1967,Neuro-ICU,Private-PPO,2.5,8607.93,0.167,Standard
+PAT-1968,ICU-Bravo,Medicare,4.0,13752.56,0.141,Standard
+PAT-1969,ICU-Bravo,Medicaid,5.2,17586.99,0.121,Standard
+PAT-1970,ICU-Alpha,Private-PPO,7.4,29066.58,0.493,Moderate Utilization
+PAT-1971,Neuro-ICU,Medicaid,4.2,14233.19,0.132,Standard
+PAT-1972,ICU-Alpha,Private-PPO,3.8,12864.39,0.153,Standard
+PAT-1973,CCU-Main,HMO-Primary,8.7,34102.5,0.482,Moderate Utilization
+PAT-1974,ICU-Alpha,Medicare,2.7,9023.4,0.135,Standard
+PAT-1975,ICU-Alpha,Private-PPO,4.1,13942.97,0.115,Standard
+PAT-1976,CCU-Main,HMO-Primary,2.6,8700.73,0.135,Standard
+PAT-1977,CCU-Main,Medicare,2.6,8832.41,0.108,Standard
+PAT-1978,Neuro-ICU,Medicare,7.2,24478.06,0.119,Moderate Utilization
+PAT-1979,ICU-Alpha,HMO-Primary,4.1,13954.22,0.152,Standard
+PAT-1980,CCU-Main,HMO-Primary,3.0,10199.38,0.153,Standard
+PAT-1981,Neuro-ICU,Medicaid,4.7,16004.29,0.147,Standard
+PAT-1982,Neuro-ICU,Private-PPO,3.7,12551.58,0.128,Standard
+PAT-1983,CCU-Main,Private-PPO,4.8,16161.66,0.141,Standard
+PAT-1984,CCU-Main,Medicare,1.0,3400.0,0.141,Standard
+PAT-1985,Neuro-ICU,Private-PPO,2.6,8715.8,0.125,Standard
+PAT-1986,ICU-Bravo,Private-PPO,1.0,3412.96,0.163,Standard
+PAT-1987,CCU-Main,Medicare,3.7,12505.61,0.154,Standard
+PAT-1988,ICU-Bravo,Private-PPO,4.7,16052.82,0.138,Standard
+PAT-1989,Neuro-ICU,Private-PPO,5.3,18063.21,0.142,Moderate Utilization
+PAT-1990,ICU-Alpha,Private-PPO,4.6,15696.76,0.144,Standard
+PAT-1991,ICU-Bravo,Private-PPO,4.3,14493.34,0.113,Standard
+PAT-1992,ICU-Bravo,Medicaid,4.1,14052.81,0.138,Standard
+PAT-1993,ICU-Bravo,Medicare,4.8,16205.5,0.132,Standard
+PAT-1994,ICU-Bravo,Private-PPO,3.7,12669.53,0.127,Standard
+PAT-1995,ICU-Bravo,Private-PPO,2.9,9818.68,0.138,Standard
+PAT-1996,ICU-Bravo,Medicare,6.9,23549.59,0.167,Moderate Utilization
+PAT-1997,ICU-Alpha,Medicare,2.5,8569.62,0.15,Standard
+PAT-1998,ICU-Alpha,Private-PPO,3.9,13386.65,0.134,Standard
+PAT-1999,ICU-Alpha,Private-PPO,3.3,11270.41,0.15,Standard
+PAT-2000,ICU-Bravo,HMO-Primary,6.6,22389.83,0.161,Moderate Utilization
+PAT-2001,Neuro-ICU,Private-PPO,5.1,17457.92,0.154,Standard
+PAT-2002,CCU-Main,Medicare,7.2,24508.75,0.142,Moderate Utilization
+PAT-2003,ICU-Bravo,Private-PPO,4.5,15439.36,0.132,Standard
+PAT-2004,ICU-Alpha,Medicaid,5.3,18084.84,0.151,Moderate Utilization
+PAT-2005,Neuro-ICU,Private-PPO,4.3,14583.04,0.147,Standard
+PAT-2006,Neuro-ICU,Medicaid,3.2,10982.71,0.154,Standard
+PAT-2007,ICU-Bravo,Private-PPO,1.1,3665.36,0.15,Standard
+PAT-2008,ICU-Alpha,Medicare,5.5,18686.21,0.156,Moderate Utilization
+PAT-2009,CCU-Main,Medicare,9.1,35575.02,0.484,High Utilization
+PAT-2010,CCU-Main,Private-PPO,3.5,11939.68,0.16,Standard
+PAT-2011,ICU-Alpha,Medicare,5.0,17044.28,0.144,Standard
+PAT-2012,ICU-Alpha,Private-PPO,10.4,40743.73,0.521,High Utilization
+PAT-2013,Neuro-ICU,Medicaid,4.7,15880.27,0.132,Standard
+PAT-2014,ICU-Bravo,Private-PPO,1.5,5268.63,0.166,Standard
+PAT-2015,ICU-Bravo,Private-PPO,3.9,13155.95,0.144,Standard
+PAT-2016,ICU-Bravo,Private-PPO,1.5,5118.7,0.132,Standard
+PAT-2017,CCU-Main,Medicare,5.6,19151.53,0.135,Moderate Utilization
+PAT-2018,CCU-Main,Private-PPO,4.7,16003.26,0.137,Standard
+PAT-2019,CCU-Main,Private-PPO,5.9,19950.66,0.147,Moderate Utilization
+PAT-2020,ICU-Bravo,Private-PPO,5.6,18883.63,0.149,Moderate Utilization
+PAT-2021,ICU-Alpha,Medicare,3.1,10403.36,0.133,Standard
+PAT-2022,ICU-Alpha,Medicaid,5.5,18769.03,0.141,Moderate Utilization
+PAT-2023,ICU-Bravo,Private-PPO,2.2,7641.31,0.171,Standard
+PAT-2024,ICU-Bravo,Medicare,3.2,10734.85,0.166,Standard
+PAT-2025,ICU-Alpha,HMO-Primary,4.9,16817.47,0.148,Standard
+PAT-2026,ICU-Alpha,Medicaid,5.4,18329.52,0.142,Moderate Utilization
+PAT-2027,CCU-Main,Private-PPO,4.7,16108.36,0.143,Standard
+PAT-2028,Neuro-ICU,Private-PPO,5.2,17737.3,0.15,Standard
+PAT-2029,Neuro-ICU,HMO-Primary,8.1,27529.76,0.127,Moderate Utilization
+PAT-2030,ICU-Bravo,Medicaid,4.7,15907.89,0.138,Standard
+PAT-2031,Neuro-ICU,Private-PPO,3.8,13043.85,0.118,Standard
+PAT-2032,Neuro-ICU,Private-PPO,3.0,10107.66,0.147,Standard
+PAT-2033,Neuro-ICU,Medicare,5.3,18171.55,0.151,Moderate Utilization
+PAT-2034,CCU-Main,Medicare,3.0,10302.29,0.135,Standard
+PAT-2035,CCU-Main,Medicare,5.1,17185.42,0.164,Standard
+PAT-2036,ICU-Alpha,Medicare,2.0,6769.76,0.124,Standard
+PAT-2037,ICU-Bravo,Private-PPO,2.6,8843.11,0.121,Standard
+PAT-2038,Neuro-ICU,Medicare,3.5,11751.27,0.145,Standard
+PAT-2039,ICU-Alpha,Medicaid,2.8,9508.07,0.156,Standard
+PAT-2040,CCU-Main,Private-PPO,9.9,38554.32,0.515,High Utilization
+PAT-2041,Neuro-ICU,Medicare,4.4,14865.75,0.135,Standard
+PAT-2042,ICU-Bravo,Medicare,10.6,41411.51,0.507,High Utilization
+PAT-2043,Neuro-ICU,Private-PPO,1.0,3400.0,0.141,Standard
+PAT-2044,CCU-Main,Medicare,3.8,12792.51,0.139,Standard
+PAT-2045,Neuro-ICU,Private-PPO,4.1,14022.95,0.154,Standard
+PAT-2046,Neuro-ICU,Private-PPO,2.9,9828.45,0.151,Standard
+PAT-2047,Neuro-ICU,Private-PPO,2.6,8839.07,0.119,Standard
+PAT-2048,Neuro-ICU,Private-PPO,8.2,32126.71,0.512,Moderate Utilization
+PAT-2049,CCU-Main,Private-PPO,4.7,16094.29,0.161,Standard
+PAT-2050,ICU-Alpha,Medicaid,5.0,16907.75,0.133,Standard
+PAT-2051,Neuro-ICU,Medicare,3.3,11310.49,0.147,Standard
+PAT-2052,ICU-Bravo,HMO-Primary,3.4,11426.79,0.148,Standard
+PAT-2053,Neuro-ICU,Private-PPO,5.6,19193.52,0.145,Moderate Utilization
+PAT-2054,ICU-Bravo,Private-PPO,1.0,3400.0,0.134,Standard
+PAT-2055,ICU-Bravo,Private-PPO,4.5,15450.33,0.132,Standard
+PAT-2056,Neuro-ICU,Private-PPO,5.7,19472.62,0.141,Moderate Utilization
+PAT-2057,Neuro-ICU,HMO-Primary,3.0,10314.46,0.158,Standard
+PAT-2058,ICU-Bravo,Medicare,4.8,16283.7,0.149,Standard
+PAT-2059,CCU-Main,Private-PPO,5.2,17720.44,0.136,Standard
+PAT-2060,ICU-Alpha,Medicare,2.6,8983.49,0.152,Standard
+PAT-2061,ICU-Bravo,Medicare,3.4,11464.22,0.102,Standard
+PAT-2062,CCU-Main,Private-PPO,4.3,14468.87,0.158,Standard
+PAT-2063,ICU-Alpha,Medicare,4.4,14811.67,0.117,Standard
+PAT-2064,ICU-Alpha,Medicaid,5.3,18047.26,0.136,Moderate Utilization
+PAT-2065,ICU-Alpha,Private-PPO,2.5,8464.61,0.126,Standard
+PAT-2066,Neuro-ICU,Private-PPO,1.7,5878.75,0.123,Standard
+PAT-2067,Neuro-ICU,Medicare,2.8,9557.26,0.158,Standard
+PAT-2068,ICU-Bravo,Medicare,6.5,22010.84,0.135,Moderate Utilization
+PAT-2069,Neuro-ICU,HMO-Primary,2.0,6835.12,0.146,Standard
+PAT-2070,CCU-Main,Private-PPO,6.6,22310.94,0.141,Moderate Utilization
+PAT-2071,ICU-Alpha,Medicare,5.7,19518.33,0.148,Moderate Utilization
+PAT-2072,ICU-Alpha,Medicare,3.2,10921.33,0.143,Standard
+PAT-2073,ICU-Alpha,Medicare,2.9,9832.22,0.124,Standard
+PAT-2074,Neuro-ICU,Medicare,4.4,14863.55,0.155,Standard
+PAT-2075,Neuro-ICU,Medicaid,3.2,10794.42,0.135,Standard
+PAT-2076,Neuro-ICU,Private-PPO,5.3,18035.05,0.12,Moderate Utilization
+PAT-2077,CCU-Main,Private-PPO,5.3,18024.28,0.136,Moderate Utilization
+PAT-2078,Neuro-ICU,Medicaid,4.7,16140.73,0.163,Standard
+PAT-2079,Neuro-ICU,Medicare,1.4,4735.54,0.153,Standard
+PAT-2080,Neuro-ICU,Private-PPO,2.8,9411.72,0.137,Standard
+PAT-2081,CCU-Main,Private-PPO,4.7,15839.4,0.137,Standard
+PAT-2082,Neuro-ICU,Medicare,12.7,49476.05,0.487,High Utilization
+PAT-2083,ICU-Bravo,Medicare,4.0,13529.35,0.171,Standard
+PAT-2084,Neuro-ICU,Private-PPO,3.7,12633.31,0.147,Standard
+PAT-2085,ICU-Bravo,Medicare,2.1,6970.23,0.148,Standard
+PAT-2086,CCU-Main,Private-PPO,4.4,14962.78,0.156,Standard
+PAT-2087,ICU-Bravo,Private-PPO,6.9,23409.97,0.145,Moderate Utilization
+PAT-2088,CCU-Main,Medicare,5.6,19127.49,0.138,Moderate Utilization
+PAT-2089,Neuro-ICU,Medicare,4.3,14692.84,0.139,Standard
+PAT-2090,Neuro-ICU,Medicare,2.5,8487.14,0.14,Standard
+PAT-2091,ICU-Bravo,Private-PPO,1.9,6390.65,0.141,Standard
+PAT-2092,Neuro-ICU,Medicare,8.4,32665.37,0.502,Moderate Utilization
+PAT-2093,ICU-Bravo,Medicaid,4.3,14599.87,0.142,Standard
+PAT-2094,CCU-Main,Medicaid,1.0,3400.0,0.152,Standard
+PAT-2095,Neuro-ICU,Medicare,6.5,21985.09,0.14,Moderate Utilization
+PAT-2096,Neuro-ICU,Medicaid,4.0,13769.42,0.143,Standard
+PAT-2097,Neuro-ICU,Private-PPO,3.0,10352.48,0.114,Standard
+PAT-2098,ICU-Alpha,Medicare,4.2,14286.41,0.154,Standard
+PAT-2099,ICU-Alpha,Private-PPO,4.4,14797.05,0.146,Standard
+PAT-2100,ICU-Bravo,Private-PPO,4.1,13778.32,0.155,Standard
+PAT-2101,ICU-Alpha,Medicare,4.5,15379.81,0.101,Standard
+PAT-2102,Neuro-ICU,Medicare,5.5,18591.18,0.171,Moderate Utilization
+PAT-2103,ICU-Alpha,Medicare,5.2,17741.04,0.14,Standard
+PAT-2104,ICU-Bravo,Medicare,10.8,42121.56,0.507,High Utilization
+PAT-2105,ICU-Alpha,Medicare,3.5,11902.15,0.127,Standard
+PAT-2106,CCU-Main,Private-PPO,3.7,12457.64,0.15,Standard
+PAT-2107,CCU-Main,Medicare,4.0,13636.66,0.127,Standard
+PAT-2108,ICU-Alpha,Medicare,2.7,9169.91,0.133,Standard
+PAT-2109,CCU-Main,Medicare,2.9,9821.04,0.168,Standard
+PAT-2110,CCU-Main,Medicaid,4.4,15053.9,0.139,Standard
+PAT-2111,ICU-Alpha,Medicare,4.0,13697.35,0.145,Standard
+PAT-2112,CCU-Main,Private-PPO,4.2,14130.79,0.154,Standard
+PAT-2113,ICU-Bravo,Private-PPO,4.7,15916.21,0.148,Standard
+PAT-2114,ICU-Bravo,Medicaid,5.1,17403.78,0.144,Standard
+PAT-2115,Neuro-ICU,Private-PPO,4.8,16309.09,0.147,Standard
+PAT-2116,ICU-Bravo,Medicare,3.5,11764.49,0.172,Standard
+PAT-2117,Neuro-ICU,Medicare,1.9,6390.9,0.141,Standard
+PAT-2118,Neuro-ICU,Medicare,6.5,25262.72,0.494,Moderate Utilization
+PAT-2119,ICU-Alpha,Private-PPO,3.6,12084.3,0.156,Standard
+PAT-2120,CCU-Main,Medicare,4.3,14776.67,0.157,Standard
+PAT-2121,ICU-Alpha,Medicare,7.0,27199.94,0.508,Moderate Utilization
+PAT-2122,Neuro-ICU,Private-PPO,3.6,12071.55,0.15,Standard
+PAT-2123,ICU-Alpha,Medicare,10.5,41190.98,0.475,High Utilization
+PAT-2124,CCU-Main,Private-PPO,1.0,3400.0,0.164,Standard
+PAT-2125,CCU-Main,Medicare,2.4,8179.06,0.125,Standard
+PAT-2126,CCU-Main,HMO-Primary,3.7,12465.55,0.146,Standard
+PAT-2127,Neuro-ICU,HMO-Primary,1.5,5107.99,0.131,Standard
+PAT-2128,ICU-Alpha,Medicaid,7.3,28553.55,0.491,Moderate Utilization
+PAT-2129,ICU-Alpha,HMO-Primary,8.4,32682.55,0.496,Moderate Utilization
+PAT-2130,Neuro-ICU,Medicare,1.8,6077.58,0.146,Standard
+PAT-2131,Neuro-ICU,Medicaid,3.6,12079.31,0.147,Standard
+PAT-2132,ICU-Bravo,Medicare,2.4,8226.55,0.164,Standard
+PAT-2133,ICU-Alpha,Private-PPO,3.1,10454.76,0.148,Standard
+PAT-2134,CCU-Main,Medicare,2.9,9704.91,0.138,Standard
+PAT-2135,ICU-Alpha,Medicare,6.4,21837.2,0.155,Moderate Utilization
+PAT-2136,ICU-Bravo,HMO-Primary,5.7,19363.59,0.158,Moderate Utilization
+PAT-2137,CCU-Main,Medicare,5.0,17126.5,0.124,Standard
+PAT-2138,ICU-Bravo,Medicaid,4.5,15238.62,0.15,Standard
+PAT-2139,Neuro-ICU,Private-PPO,2.8,9456.42,0.151,Standard
+PAT-2140,Neuro-ICU,Medicare,3.3,11227.62,0.137,Standard
+PAT-2141,ICU-Alpha,Private-PPO,4.8,16199.02,0.161,Standard
+PAT-2142,Neuro-ICU,Medicare,10.6,41301.8,0.489,High Utilization
+PAT-2143,Neuro-ICU,HMO-Primary,4.5,15288.6,0.143,Standard
+PAT-2144,ICU-Alpha,HMO-Primary,4.2,14146.47,0.139,Standard
+PAT-2145,ICU-Bravo,Private-PPO,5.7,19359.98,0.142,Moderate Utilization
+PAT-2146,ICU-Bravo,Medicaid,4.7,15909.86,0.126,Standard
+PAT-2147,CCU-Main,Medicare,3.9,13301.96,0.121,Standard
+PAT-2148,CCU-Main,Medicare,9.8,38233.43,0.514,High Utilization
+PAT-2149,ICU-Bravo,Medicare,1.7,5840.72,0.13,Standard
+PAT-2150,Neuro-ICU,Private-PPO,7.5,25450.65,0.128,Moderate Utilization
+PAT-2151,CCU-Main,Medicare,6.4,21618.89,0.111,Moderate Utilization
+PAT-2152,ICU-Bravo,Private-PPO,4.6,15658.73,0.133,Standard
+PAT-2153,Neuro-ICU,Private-PPO,5.6,19001.64,0.123,Moderate Utilization
+PAT-2154,Neuro-ICU,Medicare,11.1,43248.36,0.514,High Utilization
+PAT-2155,ICU-Bravo,Medicare,2.9,9971.2,0.156,Standard
+PAT-2156,ICU-Alpha,Medicare,4.4,15112.2,0.132,Standard
+PAT-2157,ICU-Bravo,Medicaid,5.3,18188.39,0.172,Moderate Utilization
+PAT-2158,Neuro-ICU,Medicare,9.9,38883.26,0.505,High Utilization
+PAT-2159,CCU-Main,Medicare,1.9,6501.96,0.137,Standard
+PAT-2160,Neuro-ICU,Medicaid,3.7,12680.51,0.107,Standard
+PAT-2161,Neuro-ICU,Medicare,10.3,40439.55,0.522,High Utilization
+PAT-2162,ICU-Bravo,Private-PPO,7.5,25507.14,0.122,Moderate Utilization
+PAT-2163,Neuro-ICU,Private-PPO,4.4,14988.18,0.118,Standard
+PAT-2164,ICU-Alpha,Private-PPO,6.4,21864.66,0.156,Moderate Utilization
+PAT-2165,CCU-Main,Private-PPO,6.0,20254.06,0.172,Moderate Utilization
+PAT-2166,ICU-Bravo,Medicare,5.8,19572.95,0.161,Moderate Utilization
+PAT-2167,ICU-Alpha,Medicare,7.9,30932.98,0.499,Moderate Utilization
+PAT-2168,CCU-Main,Private-PPO,2.8,9578.43,0.15,Standard
+PAT-2169,ICU-Alpha,Medicare,2.0,6870.65,0.153,Standard
+PAT-2170,Neuro-ICU,Medicaid,2.4,8154.95,0.152,Standard
+PAT-2171,Neuro-ICU,Medicare,6.5,25558.0,0.495,Moderate Utilization
+PAT-2172,ICU-Alpha,Private-PPO,4.2,14121.98,0.143,Standard
+PAT-2173,CCU-Main,Medicare,3.2,10950.62,0.141,Standard
+PAT-2174,ICU-Alpha,Medicaid,1.0,3528.19,0.131,Standard
+PAT-2175,ICU-Alpha,Private-PPO,9.3,36387.11,0.488,High Utilization
+PAT-2176,ICU-Alpha,Private-PPO,10.7,41826.08,0.468,High Utilization
+PAT-2177,CCU-Main,Private-PPO,3.9,13419.59,0.14,Standard
+PAT-2178,ICU-Alpha,Medicare,4.2,14345.65,0.128,Standard
+PAT-2179,Neuro-ICU,Private-PPO,1.0,3400.0,0.126,Standard
+PAT-2180,ICU-Bravo,Medicare,2.6,8995.24,0.144,Standard
+PAT-2181,Neuro-ICU,Private-PPO,4.7,16149.62,0.161,Standard
+PAT-2182,Neuro-ICU,Medicare,7.2,28004.21,0.504,Moderate Utilization
+PAT-2183,ICU-Alpha,Medicare,8.8,34237.45,0.47,Moderate Utilization
+PAT-2184,ICU-Bravo,Medicare,3.0,10115.05,0.128,Standard
+PAT-2185,ICU-Alpha,Medicare,5.0,16919.17,0.155,Standard
+PAT-2186,ICU-Bravo,Medicare,3.3,11058.94,0.128,Standard
+PAT-2187,Neuro-ICU,Medicaid,3.4,11429.57,0.138,Standard
+PAT-2188,CCU-Main,Private-PPO,8.4,33037.54,0.499,Moderate Utilization
+PAT-2189,ICU-Alpha,HMO-Primary,3.5,11815.29,0.128,Standard
+PAT-2190,Neuro-ICU,Medicare,4.7,16023.61,0.143,Standard
+PAT-2191,ICU-Bravo,Private-PPO,7.1,24302.14,0.123,Moderate Utilization
+PAT-2192,Neuro-ICU,Private-PPO,5.0,16858.97,0.133,Standard
+PAT-2193,Neuro-ICU,Private-PPO,6.2,21165.38,0.146,Moderate Utilization
+PAT-2194,Neuro-ICU,Private-PPO,4.5,15453.71,0.119,Standard
+PAT-2195,CCU-Main,Private-PPO,3.7,12565.79,0.148,Standard
+PAT-2196,ICU-Alpha,Private-PPO,3.4,11490.77,0.141,Standard
+PAT-2197,ICU-Alpha,Medicaid,3.7,12719.25,0.149,Standard
+PAT-2198,ICU-Alpha,Private-PPO,6.9,26800.32,0.495,Moderate Utilization
+PAT-2199,CCU-Main,HMO-Primary,3.9,13208.87,0.161,Standard
+PAT-2200,CCU-Main,HMO-Primary,3.1,10673.13,0.143,Standard
+PAT-2201,ICU-Bravo,Private-PPO,4.9,16637.45,0.135,Standard
+PAT-2202,ICU-Alpha,Medicare,4.8,16352.68,0.143,Standard
+PAT-2203,ICU-Bravo,Medicare,4.3,14476.04,0.149,Standard
+PAT-2204,Neuro-ICU,Medicare,4.6,15587.46,0.142,Standard
+PAT-2205,ICU-Bravo,Medicare,3.2,10711.11,0.142,Standard
+PAT-2206,ICU-Bravo,Medicare,1.8,6072.3,0.132,Standard
+PAT-2207,Neuro-ICU,Medicare,5.5,18637.03,0.132,Moderate Utilization
+PAT-2208,Neuro-ICU,Private-PPO,5.5,18702.07,0.122,Moderate Utilization
+PAT-2209,ICU-Bravo,Medicare,1.9,6611.38,0.166,Standard
+PAT-2210,ICU-Bravo,Private-PPO,2.5,8332.46,0.124,Standard
+PAT-2211,ICU-Alpha,Medicare,3.3,11117.1,0.132,Standard
+PAT-2212,CCU-Main,Medicaid,3.3,11134.53,0.131,Standard
+PAT-2213,Neuro-ICU,Medicaid,4.7,16092.26,0.154,Standard
+PAT-2214,ICU-Bravo,Medicare,4.1,13788.19,0.137,Standard
+PAT-2215,CCU-Main,HMO-Primary,6.8,23112.76,0.159,Moderate Utilization
+PAT-2216,ICU-Bravo,Medicare,3.0,10231.77,0.132,Standard
+PAT-2217,ICU-Alpha,Medicaid,5.7,19229.91,0.145,Moderate Utilization
+PAT-2218,ICU-Bravo,Private-PPO,5.9,20012.69,0.13,Moderate Utilization
+PAT-2219,Neuro-ICU,Medicare,3.4,11426.59,0.172,Standard
+PAT-2220,ICU-Bravo,Medicare,5.3,18178.19,0.125,Moderate Utilization
+PAT-2221,ICU-Bravo,Medicare,4.8,16223.7,0.146,Standard
+PAT-2222,Neuro-ICU,Medicaid,3.7,12651.45,0.15,Standard
+PAT-2223,ICU-Alpha,Private-PPO,6.4,21742.32,0.147,Moderate Utilization
+PAT-2224,Neuro-ICU,Medicare,3.2,10949.15,0.139,Standard
+PAT-2225,ICU-Bravo,Private-PPO,8.9,34760.05,0.49,Moderate Utilization
+PAT-2226,ICU-Alpha,Medicare,2.1,7035.11,0.142,Standard
+PAT-2227,Neuro-ICU,Medicare,6.8,23103.94,0.139,Moderate Utilization
+PAT-2228,CCU-Main,HMO-Primary,5.5,18781.11,0.155,Moderate Utilization
+PAT-2229,CCU-Main,Private-PPO,3.1,10474.55,0.172,Standard
+PAT-2230,CCU-Main,Medicare,7.3,28523.71,0.484,Moderate Utilization
+PAT-2231,Neuro-ICU,HMO-Primary,10.5,41059.33,0.472,High Utilization
+PAT-2232,ICU-Alpha,Medicare,6.4,24970.17,0.49,Moderate Utilization
+PAT-2233,Neuro-ICU,Medicare,3.0,10359.78,0.172,Standard
+PAT-2234,ICU-Bravo,Medicare,2.3,7731.57,0.13,Standard
+PAT-2235,Neuro-ICU,Private-PPO,1.5,5061.32,0.164,Standard
+PAT-2236,CCU-Main,Private-PPO,5.7,19290.9,0.165,Moderate Utilization
+PAT-2237,CCU-Main,Medicare,3.5,11861.24,0.134,Standard
+PAT-2238,ICU-Bravo,Private-PPO,11.4,44455.96,0.499,High Utilization
+PAT-2239,Neuro-ICU,Medicaid,4.3,14671.39,0.164,Standard
+PAT-2240,CCU-Main,Private-PPO,3.2,10798.96,0.136,Standard
+PAT-2241,Neuro-ICU,Medicaid,3.4,11724.29,0.139,Standard
+PAT-2242,CCU-Main,Medicare,3.1,10666.0,0.133,Standard
+PAT-2243,ICU-Bravo,Medicare,4.0,13550.07,0.127,Standard
+PAT-2244,ICU-Alpha,Private-PPO,4.5,15177.12,0.132,Standard
+PAT-2245,ICU-Alpha,Medicare,5.0,17004.61,0.124,Standard
+PAT-2246,CCU-Main,Medicare,2.8,9600.09,0.142,Standard
+PAT-2247,CCU-Main,Medicare,4.2,14284.12,0.131,Standard
+PAT-2248,Neuro-ICU,Medicaid,7.2,24444.15,0.145,Moderate Utilization
+PAT-2249,ICU-Alpha,Medicare,2.5,8549.98,0.12,Standard
+PAT-2250,Neuro-ICU,Medicare,3.4,11567.56,0.146,Standard
+PAT-2251,CCU-Main,Medicare,7.1,24173.69,0.153,Moderate Utilization
+PAT-2252,ICU-Alpha,Medicaid,6.3,21568.29,0.114,Moderate Utilization
+PAT-2253,Neuro-ICU,Private-PPO,4.4,15010.89,0.147,Standard
+PAT-2254,CCU-Main,Medicare,3.6,12405.48,0.159,Standard
+PAT-2255,Neuro-ICU,Medicaid,3.6,12152.18,0.125,Standard
+PAT-2256,Neuro-ICU,Medicaid,2.4,8278.75,0.165,Standard
+PAT-2257,CCU-Main,Private-PPO,8.7,34199.66,0.497,Moderate Utilization
+PAT-2258,Neuro-ICU,Medicare,3.2,10904.63,0.132,Standard
+PAT-2259,Neuro-ICU,Private-PPO,5.5,18814.1,0.141,Moderate Utilization
+PAT-2260,ICU-Alpha,HMO-Primary,4.6,15591.24,0.149,Standard
+PAT-2261,Neuro-ICU,Medicare,3.0,10147.79,0.143,Standard
+PAT-2262,ICU-Bravo,Medicare,4.1,13780.87,0.149,Standard
+PAT-2263,CCU-Main,Medicare,4.1,13931.24,0.129,Standard
+PAT-2264,Neuro-ICU,Private-PPO,3.0,10253.73,0.144,Standard
+PAT-2265,CCU-Main,Private-PPO,1.0,3400.0,0.122,Standard
+PAT-2266,ICU-Bravo,Medicare,2.5,8402.52,0.14,Standard
+PAT-2267,CCU-Main,Medicare,1.8,5950.02,0.129,Standard
+PAT-2268,ICU-Bravo,HMO-Primary,5.1,17494.09,0.131,Standard
+PAT-2269,ICU-Bravo,Medicaid,3.6,12175.61,0.159,Standard
+PAT-2270,ICU-Alpha,HMO-Primary,7.7,30125.52,0.507,Moderate Utilization
+PAT-2271,ICU-Bravo,Medicaid,3.7,12633.03,0.15,Standard
+PAT-2272,ICU-Alpha,Private-PPO,1.8,6044.5,0.126,Standard
+PAT-2273,Neuro-ICU,Medicare,3.5,11944.06,0.137,Standard
+PAT-2274,ICU-Alpha,Private-PPO,2.7,9308.35,0.158,Standard
+PAT-2275,ICU-Alpha,Medicare,3.4,11665.24,0.143,Standard
+PAT-2276,Neuro-ICU,Private-PPO,6.1,20699.92,0.172,Moderate Utilization
+PAT-2277,CCU-Main,Private-PPO,2.9,9925.94,0.147,Standard
+PAT-2278,CCU-Main,HMO-Primary,6.5,22038.13,0.144,Moderate Utilization
+PAT-2279,Neuro-ICU,Medicare,3.5,12050.27,0.137,Standard
+PAT-2280,ICU-Bravo,Medicare,5.8,19576.0,0.143,Moderate Utilization
+PAT-2281,ICU-Alpha,Private-PPO,3.4,11459.72,0.139,Standard
+PAT-2282,CCU-Main,Medicaid,2.5,8495.14,0.151,Standard
+PAT-2283,CCU-Main,HMO-Primary,5.4,18454.3,0.155,Moderate Utilization
+PAT-2284,ICU-Bravo,Private-PPO,4.8,16208.62,0.13,Standard
+PAT-2285,CCU-Main,Medicare,7.3,28513.37,0.473,Moderate Utilization
+PAT-2286,CCU-Main,Medicare,2.5,8368.3,0.116,Standard
+PAT-2287,CCU-Main,HMO-Primary,5.6,18957.78,0.149,Moderate Utilization
+PAT-2288,Neuro-ICU,Private-PPO,4.7,15959.05,0.126,Standard
+PAT-2289,CCU-Main,Private-PPO,5.1,17269.1,0.111,Standard
+PAT-2290,CCU-Main,Medicare,5.0,16943.82,0.147,Standard
+PAT-2291,Neuro-ICU,Medicare,2.1,7277.79,0.172,Standard
+PAT-2292,CCU-Main,Private-PPO,2.7,9177.38,0.141,Standard
+PAT-2293,ICU-Bravo,Medicaid,3.9,13429.13,0.153,Standard
+PAT-2294,ICU-Alpha,HMO-Primary,5.2,17551.19,0.143,Standard
+PAT-2295,Neuro-ICU,Medicaid,1.0,3400.0,0.14,Standard
+PAT-2296,Neuro-ICU,Private-PPO,7.9,30767.99,0.504,Moderate Utilization
+PAT-2297,CCU-Main,Private-PPO,2.5,8598.36,0.137,Standard
+PAT-2298,ICU-Alpha,Medicaid,3.7,12578.9,0.145,Standard
+PAT-2299,ICU-Bravo,Medicare,1.8,6107.81,0.146,Standard
+PAT-2300,ICU-Bravo,HMO-Primary,4.5,15382.34,0.132,Standard
+PAT-2301,ICU-Alpha,Private-PPO,4.7,16127.09,0.155,Standard
+PAT-2302,ICU-Alpha,HMO-Primary,6.9,23615.15,0.139,Moderate Utilization
+PAT-2303,ICU-Bravo,Medicaid,4.6,15690.73,0.131,Standard
+PAT-2304,CCU-Main,Medicare,4.3,14608.43,0.149,Standard
+PAT-2305,ICU-Alpha,Medicare,3.4,11486.0,0.129,Standard
+PAT-2306,ICU-Alpha,Medicare,4.0,13442.21,0.142,Standard
+PAT-2307,CCU-Main,Medicare,8.7,34129.54,0.491,Moderate Utilization
+PAT-2308,Neuro-ICU,Private-PPO,4.0,13578.9,0.157,Standard
+PAT-2309,ICU-Alpha,Private-PPO,5.6,18909.86,0.148,Moderate Utilization
+PAT-2310,CCU-Main,Private-PPO,5.0,16887.4,0.141,Standard
+PAT-2311,ICU-Bravo,Medicare,1.7,5901.18,0.153,Standard
+PAT-2312,Neuro-ICU,HMO-Primary,3.6,12114.77,0.161,Standard
+PAT-2313,ICU-Alpha,Private-PPO,2.5,8331.6,0.149,Standard
+PAT-2314,CCU-Main,Medicaid,1.7,5757.27,0.142,Standard
+PAT-2315,Neuro-ICU,Medicare,2.6,8834.35,0.123,Standard
+PAT-2316,CCU-Main,Medicaid,1.9,6489.95,0.127,Standard
+PAT-2317,ICU-Bravo,Medicare,4.8,16445.44,0.137,Standard
+PAT-2318,ICU-Alpha,Private-PPO,4.6,15635.58,0.133,Standard
+PAT-2319,CCU-Main,Private-PPO,3.6,12355.43,0.139,Standard
+PAT-2320,ICU-Alpha,HMO-Primary,5.3,18105.75,0.142,Moderate Utilization
+PAT-2321,CCU-Main,Medicare,3.6,12407.34,0.149,Standard
+PAT-2322,ICU-Alpha,Medicare,4.9,16576.13,0.141,Standard
+PAT-2323,ICU-Alpha,Medicaid,4.5,15372.27,0.148,Standard
+PAT-2324,Neuro-ICU,Medicare,4.4,14995.95,0.142,Standard
+PAT-2325,CCU-Main,Medicare,5.6,18894.8,0.114,Moderate Utilization
+PAT-2326,CCU-Main,Private-PPO,4.3,14683.04,0.128,Standard
+PAT-2327,ICU-Alpha,Medicare,3.4,11638.03,0.139,Standard
+PAT-2328,ICU-Alpha,Medicare,1.2,4071.8,0.125,Standard
+PAT-2329,Neuro-ICU,Medicare,3.9,13300.19,0.15,Standard
+PAT-2330,ICU-Bravo,Medicare,5.7,19374.59,0.163,Moderate Utilization
+PAT-2331,CCU-Main,Private-PPO,2.9,9901.84,0.159,Standard
+PAT-2332,ICU-Alpha,Medicare,5.9,20192.13,0.139,Moderate Utilization
+PAT-2333,Neuro-ICU,Medicaid,3.9,13319.31,0.162,Standard
+PAT-2334,ICU-Alpha,HMO-Primary,6.3,21285.41,0.144,Moderate Utilization
+PAT-2335,CCU-Main,Medicare,3.9,13397.41,0.137,Standard
+PAT-2336,Neuro-ICU,Medicaid,4.3,14659.73,0.133,Standard
+PAT-2337,Neuro-ICU,HMO-Primary,2.2,7363.66,0.137,Standard
+PAT-2338,ICU-Alpha,Private-PPO,9.2,35941.19,0.486,High Utilization
+PAT-2339,ICU-Alpha,HMO-Primary,2.7,9215.33,0.144,Standard
+PAT-2340,ICU-Bravo,Medicare,4.7,15916.22,0.144,Standard
+PAT-2341,ICU-Bravo,Medicaid,3.0,10281.04,0.142,Standard
+PAT-2342,CCU-Main,Private-PPO,2.6,8723.49,0.148,Standard
+PAT-2343,CCU-Main,Medicare,4.3,14527.2,0.158,Standard
+PAT-2344,Neuro-ICU,Private-PPO,4.0,13470.33,0.155,Standard
+PAT-2345,CCU-Main,Private-PPO,2.1,7074.77,0.121,Standard
+PAT-2346,ICU-Bravo,Medicare,5.9,20028.2,0.106,Moderate Utilization
+PAT-2347,ICU-Bravo,Medicare,3.8,12989.48,0.155,Standard
+PAT-2348,ICU-Bravo,Private-PPO,6.6,22408.58,0.122,Moderate Utilization
+PAT-2349,ICU-Alpha,Private-PPO,1.0,3400.0,0.138,Standard
+PAT-2350,ICU-Bravo,Private-PPO,3.7,12640.05,0.125,Standard
+PAT-2351,ICU-Bravo,Private-PPO,3.8,13031.14,0.116,Standard
+PAT-2352,CCU-Main,Medicare,2.4,8021.38,0.149,Standard
+PAT-2353,ICU-Bravo,Private-PPO,2.0,6787.53,0.152,Standard
+PAT-2354,ICU-Bravo,Medicaid,3.2,10724.8,0.133,Standard
+PAT-2355,ICU-Alpha,Medicaid,6.6,22276.53,0.105,Moderate Utilization
+PAT-2356,ICU-Bravo,Private-PPO,3.3,11298.42,0.134,Standard
+PAT-2357,CCU-Main,HMO-Primary,4.8,16162.93,0.147,Standard
+PAT-2358,ICU-Alpha,Medicaid,4.2,14291.02,0.121,Standard
+PAT-2359,Neuro-ICU,Medicare,4.0,13504.56,0.144,Standard
+PAT-2360,ICU-Bravo,Medicare,4.2,14377.1,0.141,Standard
+PAT-2361,ICU-Bravo,Medicare,7.5,25486.96,0.15,Moderate Utilization
+PAT-2362,ICU-Bravo,Private-PPO,5.6,19189.14,0.143,Moderate Utilization
+PAT-2363,Neuro-ICU,Medicaid,3.7,12475.68,0.128,Standard
+PAT-2364,ICU-Alpha,Medicare,4.0,13468.22,0.158,Standard
+PAT-2365,ICU-Alpha,Medicaid,5.6,19003.8,0.139,Moderate Utilization
+PAT-2366,ICU-Bravo,Private-PPO,4.8,16178.5,0.141,Standard
+PAT-2367,Neuro-ICU,Private-PPO,3.3,11389.24,0.128,Standard
+PAT-2368,CCU-Main,Medicare,9.1,35636.34,0.485,High Utilization
+PAT-2369,Neuro-ICU,Medicare,2.8,9598.83,0.129,Standard
+PAT-2370,ICU-Bravo,Private-PPO,7.1,24285.04,0.139,Moderate Utilization
+PAT-2371,Neuro-ICU,Medicaid,9.2,36003.27,0.515,High Utilization
+PAT-2372,ICU-Alpha,Medicaid,2.4,8093.6,0.122,Standard
+PAT-2373,ICU-Alpha,Private-PPO,7.2,24539.32,0.119,Moderate Utilization
+PAT-2374,ICU-Alpha,Medicare,6.8,23021.95,0.162,Moderate Utilization
+PAT-2375,CCU-Main,Medicare,4.7,15986.76,0.139,Standard
+PAT-2376,Neuro-ICU,Medicaid,5.0,17156.83,0.132,Standard
+PAT-2377,ICU-Bravo,Medicare,5.0,16968.54,0.156,Standard
+PAT-2378,ICU-Bravo,Private-PPO,5.0,16902.45,0.133,Standard
+PAT-2379,ICU-Alpha,Private-PPO,2.7,9338.65,0.167,Standard
+PAT-2380,ICU-Bravo,Private-PPO,2.1,7172.48,0.151,Standard
+PAT-2381,CCU-Main,Private-PPO,6.1,20770.33,0.135,Moderate Utilization
+PAT-2382,Neuro-ICU,HMO-Primary,3.3,11271.07,0.172,Standard
+PAT-2383,CCU-Main,Medicaid,2.4,8186.86,0.133,Standard
+PAT-2384,Neuro-ICU,Medicaid,2.3,7906.6,0.152,Standard
+PAT-2385,Neuro-ICU,Private-PPO,4.2,14148.67,0.146,Standard
+PAT-2386,Neuro-ICU,Medicare,2.1,7214.36,0.16,Standard
+PAT-2387,ICU-Bravo,HMO-Primary,3.4,11436.06,0.163,Standard
+PAT-2388,ICU-Bravo,Medicare,3.7,12665.92,0.142,Standard
+PAT-2389,ICU-Bravo,Private-PPO,2.9,9963.01,0.131,Standard
+PAT-2390,ICU-Bravo,Medicare,4.7,16104.17,0.148,Standard
+PAT-2391,ICU-Bravo,Private-PPO,2.2,7367.09,0.132,Standard
+PAT-2392,ICU-Bravo,Medicare,10.9,42776.4,0.52,High Utilization
+PAT-2393,ICU-Alpha,Medicaid,4.8,16313.12,0.143,Standard
+PAT-2394,ICU-Alpha,HMO-Primary,4.3,14682.25,0.136,Standard
+PAT-2395,ICU-Alpha,Private-PPO,7.1,27622.94,0.494,Moderate Utilization
+PAT-2396,CCU-Main,Medicare,6.4,21682.74,0.123,Moderate Utilization
+PAT-2397,CCU-Main,Private-PPO,3.2,10999.54,0.128,Standard
+PAT-2398,CCU-Main,Medicare,2.8,9366.07,0.158,Standard
+PAT-2399,Neuro-ICU,HMO-Primary,3.7,12602.75,0.132,Standard
+PAT-2400,Neuro-ICU,Medicare,9.4,36821.52,0.477,High Utilization
+PAT-2401,CCU-Main,Medicare,1.7,5891.93,0.149,Standard
+PAT-2402,ICU-Alpha,Private-PPO,6.3,21511.33,0.158,Moderate Utilization
+PAT-2403,ICU-Bravo,Medicaid,4.9,16546.14,0.152,Standard
+PAT-2404,ICU-Bravo,Private-PPO,3.6,12264.92,0.155,Standard
+PAT-2405,ICU-Bravo,Medicare,5.6,19190.68,0.131,Moderate Utilization
+PAT-2406,Neuro-ICU,Medicare,5.3,18057.85,0.122,Moderate Utilization
+PAT-2407,CCU-Main,Medicare,4.5,15428.95,0.163,Standard
+PAT-2408,ICU-Alpha,Medicare,7.4,25315.88,0.137,Moderate Utilization
+PAT-2409,ICU-Bravo,Medicaid,4.3,14732.27,0.138,Standard
+PAT-2410,CCU-Main,Medicare,4.4,14890.18,0.16,Standard
+PAT-2411,CCU-Main,Private-PPO,2.5,8402.71,0.149,Standard
+PAT-2412,Neuro-ICU,Private-PPO,2.9,9765.09,0.148,Standard
+PAT-2413,Neuro-ICU,Medicare,3.3,11097.92,0.172,Standard
+PAT-2414,Neuro-ICU,Medicaid,6.8,22991.2,0.132,Moderate Utilization
+PAT-2415,Neuro-ICU,Private-PPO,2.3,7986.92,0.154,Standard
+PAT-2416,CCU-Main,Medicare,6.3,21441.69,0.142,Moderate Utilization
+PAT-2417,Neuro-ICU,Medicaid,2.5,8447.58,0.145,Standard
+PAT-2418,ICU-Bravo,Private-PPO,3.4,11457.43,0.163,Standard
+PAT-2419,ICU-Alpha,Private-PPO,3.3,11136.28,0.149,Standard
+PAT-2420,Neuro-ICU,Medicaid,3.6,12378.09,0.149,Standard
+PAT-2421,ICU-Bravo,Medicaid,4.3,14595.9,0.157,Standard
+PAT-2422,ICU-Alpha,Private-PPO,3.6,12144.39,0.136,Standard
+PAT-2423,Neuro-ICU,Medicare,7.2,28109.2,0.48,Moderate Utilization
+PAT-2424,Neuro-ICU,Medicare,4.5,15208.61,0.127,Standard
+PAT-2425,ICU-Alpha,Medicaid,2.9,9947.0,0.114,Standard
+PAT-2426,ICU-Bravo,HMO-Primary,3.1,10413.61,0.17,Standard
+PAT-2427,ICU-Bravo,Medicare,1.7,5903.33,0.126,Standard
+PAT-2428,CCU-Main,Medicare,3.8,12975.73,0.138,Standard
+PAT-2429,CCU-Main,Medicaid,4.2,14424.82,0.138,Standard
+PAT-2430,Neuro-ICU,Medicare,4.0,13742.99,0.146,Standard
+PAT-2431,ICU-Bravo,Medicare,4.9,16729.55,0.153,Standard
+PAT-2432,ICU-Bravo,Medicare,6.1,20735.22,0.154,Moderate Utilization
+PAT-2433,Neuro-ICU,Medicare,2.2,7366.25,0.133,Standard
+PAT-2434,ICU-Alpha,HMO-Primary,3.2,10807.81,0.139,Standard
+PAT-2435,ICU-Alpha,HMO-Primary,5.9,20035.61,0.145,Moderate Utilization
+PAT-2436,CCU-Main,Medicare,4.5,15245.55,0.138,Standard
+PAT-2437,Neuro-ICU,HMO-Primary,4.2,14318.94,0.164,Standard
+PAT-2438,ICU-Alpha,Medicare,10.2,39942.69,0.498,High Utilization
+PAT-2439,Neuro-ICU,Medicaid,3.6,12361.78,0.152,Standard
+PAT-2440,ICU-Bravo,Medicare,3.4,11506.9,0.151,Standard
+PAT-2441,ICU-Alpha,Medicaid,3.5,11926.01,0.158,Standard
+PAT-2442,ICU-Alpha,Medicare,3.2,10824.09,0.144,Standard
+PAT-2443,ICU-Alpha,Medicare,4.9,16550.39,0.123,Standard
+PAT-2444,ICU-Bravo,HMO-Primary,3.3,11103.95,0.147,Standard
+PAT-2445,CCU-Main,Medicare,4.4,15071.55,0.132,Standard
+PAT-2446,Neuro-ICU,HMO-Primary,2.4,8040.38,0.134,Standard
+PAT-2447,ICU-Alpha,Medicare,8.5,33301.06,0.5,Moderate Utilization
+PAT-2448,ICU-Bravo,Medicare,3.3,11317.26,0.159,Standard
+PAT-2449,ICU-Alpha,Medicaid,3.4,11587.5,0.142,Standard
+PAT-2450,Neuro-ICU,Private-PPO,2.6,8922.05,0.146,Standard
+PAT-2451,Neuro-ICU,Private-PPO,3.0,10172.58,0.165,Standard
+PAT-2452,ICU-Alpha,Medicare,3.7,12619.77,0.145,Standard
+PAT-2453,ICU-Bravo,Private-PPO,2.9,9736.17,0.172,Standard
+PAT-2454,ICU-Alpha,Medicare,2.2,7368.3,0.149,Standard
+PAT-2455,ICU-Bravo,Private-PPO,6.0,20438.23,0.117,Moderate Utilization
+PAT-2456,CCU-Main,Private-PPO,7.8,30465.59,0.502,Moderate Utilization
+PAT-2457,ICU-Alpha,Private-PPO,10.0,38974.24,0.497,High Utilization
+PAT-2458,ICU-Bravo,HMO-Primary,3.0,10328.73,0.16,Standard
+PAT-2459,ICU-Alpha,Private-PPO,2.3,7951.93,0.151,Standard
+PAT-2460,Neuro-ICU,Medicare,2.9,9868.66,0.14,Standard
+PAT-2461,Neuro-ICU,Medicare,5.3,17986.46,0.124,Standard
+PAT-2462,ICU-Alpha,Private-PPO,4.2,14190.52,0.139,Standard
+PAT-2463,ICU-Alpha,Medicare,4.1,14045.71,0.13,Standard
+PAT-2464,ICU-Bravo,Medicare,3.3,11144.47,0.133,Standard
+PAT-2465,ICU-Bravo,Medicaid,3.3,11305.07,0.15,Standard
+PAT-2466,Neuro-ICU,Medicaid,4.7,16035.74,0.165,Standard
+PAT-2467,ICU-Bravo,Private-PPO,7.9,26903.9,0.147,Moderate Utilization
+PAT-2468,Neuro-ICU,Private-PPO,3.6,12160.76,0.125,Standard
+PAT-2469,CCU-Main,Private-PPO,6.9,23575.98,0.148,Moderate Utilization
+PAT-2470,ICU-Alpha,Private-PPO,2.6,8689.02,0.158,Standard
+PAT-2471,ICU-Bravo,Medicaid,4.4,14836.59,0.133,Standard
+PAT-2472,Neuro-ICU,Private-PPO,4.5,15376.37,0.14,Standard
+PAT-2473,Neuro-ICU,Medicare,2.8,9395.01,0.142,Standard
+PAT-2474,ICU-Alpha,Private-PPO,3.2,10969.7,0.131,Standard
+PAT-2475,ICU-Alpha,Private-PPO,4.8,16240.14,0.151,Standard
+PAT-2476,ICU-Alpha,Medicare,4.9,16608.43,0.14,Standard
+PAT-2477,ICU-Bravo,Medicare,5.3,18141.74,0.147,Moderate Utilization
+PAT-2478,CCU-Main,Medicaid,3.1,10556.02,0.129,Standard
+PAT-2479,CCU-Main,Private-PPO,8.1,31824.33,0.485,Moderate Utilization
+PAT-2480,CCU-Main,Medicaid,4.9,16597.56,0.152,Standard
+PAT-2481,CCU-Main,Medicare,6.5,22083.19,0.136,Moderate Utilization
+PAT-2482,Neuro-ICU,Medicare,5.2,17723.47,0.166,Standard
+PAT-2483,ICU-Bravo,Medicare,2.1,7104.21,0.136,Standard
+PAT-2484,CCU-Main,Private-PPO,4.9,16702.96,0.145,Standard
+PAT-2485,CCU-Main,Private-PPO,4.9,16683.19,0.155,Standard
+PAT-2486,ICU-Bravo,Medicaid,8.5,33327.6,0.472,Moderate Utilization
+PAT-2487,ICU-Bravo,Private-PPO,3.4,11458.08,0.117,Standard
+PAT-2488,ICU-Alpha,HMO-Primary,3.0,10210.67,0.12,Standard
+PAT-2489,ICU-Alpha,Medicare,7.3,24767.0,0.159,Moderate Utilization
+PAT-2490,CCU-Main,Medicare,4.5,15167.78,0.134,Standard
+PAT-2491,Neuro-ICU,Medicare,3.7,12535.43,0.172,Standard
+PAT-2492,ICU-Alpha,Private-PPO,5.7,19474.86,0.134,Moderate Utilization
+PAT-2493,ICU-Bravo,Medicare,5.8,19553.11,0.144,Moderate Utilization
+PAT-2494,ICU-Alpha,Private-PPO,5.2,17552.25,0.163,Standard
+PAT-2495,ICU-Alpha,Medicare,7.9,30902.24,0.52,Moderate Utilization
+PAT-2496,ICU-Bravo,Medicare,3.0,10324.42,0.17,Standard
+PAT-2497,CCU-Main,Private-PPO,8.6,33444.73,0.508,Moderate Utilization
+PAT-2498,ICU-Alpha,Medicare,7.4,28861.08,0.506,Moderate Utilization
+PAT-2499,ICU-Alpha,Medicaid,9.8,38163.49,0.5,High Utilization
+PAT-2500,CCU-Main,Medicaid,4.5,15413.94,0.152,Standard
+PAT-2501,ICU-Alpha,Medicare,10.1,39361.83,0.484,High Utilization
+PAT-2502,Neuro-ICU,Medicaid,4.3,14639.51,0.13,Standard
+PAT-2503,CCU-Main,Private-PPO,5.4,18226.52,0.141,Moderate Utilization
+PAT-2504,Neuro-ICU,Private-PPO,2.3,7873.11,0.139,Standard
+PAT-2505,ICU-Bravo,Medicare,10.5,41013.32,0.485,High Utilization
+PAT-2506,Neuro-ICU,Private-PPO,1.7,5901.95,0.151,Standard
+PAT-2507,ICU-Bravo,Medicare,3.7,12464.53,0.155,Standard
+PAT-2508,CCU-Main,Medicare,3.4,11678.08,0.143,Standard
+PAT-2509,ICU-Bravo,Medicare,2.9,9836.31,0.162,Standard
+PAT-2510,ICU-Bravo,Private-PPO,3.3,11375.61,0.126,Standard
+PAT-2511,ICU-Bravo,Private-PPO,1.5,5076.44,0.139,Standard
+PAT-2512,ICU-Bravo,Medicaid,3.0,10351.94,0.131,Standard
+PAT-2513,Neuro-ICU,Private-PPO,4.8,16349.87,0.115,Standard
+PAT-2514,ICU-Bravo,HMO-Primary,3.6,12232.22,0.14,Standard
+PAT-2515,ICU-Bravo,Medicaid,3.7,12483.65,0.14,Standard
+PAT-2516,ICU-Alpha,Medicare,2.5,8365.34,0.163,Standard
+PAT-2517,ICU-Alpha,Private-PPO,4.0,13626.18,0.15,Standard
+PAT-2518,ICU-Alpha,Private-PPO,2.2,7401.43,0.127,Standard
+PAT-2519,ICU-Bravo,Private-PPO,3.9,13144.79,0.167,Standard
+PAT-2520,ICU-Alpha,Private-PPO,1.6,5609.01,0.159,Standard
+PAT-2521,Neuro-ICU,Private-PPO,5.3,18020.38,0.15,Moderate Utilization
+PAT-2522,CCU-Main,Medicare,8.5,33200.12,0.488,Moderate Utilization
+PAT-2523,CCU-Main,Private-PPO,3.6,12172.53,0.128,Standard
+PAT-2524,CCU-Main,Medicare,5.6,19097.45,0.136,Moderate Utilization
+PAT-2525,ICU-Alpha,Medicare,4.7,15966.25,0.157,Standard
+PAT-2526,ICU-Bravo,Private-PPO,2.5,8377.76,0.168,Standard
+PAT-2527,CCU-Main,Private-PPO,5.4,18336.2,0.163,Moderate Utilization
+PAT-2528,Neuro-ICU,Medicare,1.1,3884.52,0.135,Standard
+PAT-2529,ICU-Alpha,Private-PPO,2.5,8490.19,0.126,Standard
+PAT-2530,ICU-Alpha,Private-PPO,5.2,17562.11,0.143,Standard
+PAT-2531,Neuro-ICU,Medicare,2.0,6729.52,0.117,Standard
+PAT-2532,ICU-Bravo,Private-PPO,4.8,16191.85,0.146,Standard
+PAT-2533,ICU-Bravo,Medicare,5.1,17197.05,0.139,Standard
+PAT-2534,Neuro-ICU,Medicaid,7.9,31018.23,0.485,Moderate Utilization
+PAT-2535,Neuro-ICU,Medicare,4.3,14701.83,0.119,Standard
+PAT-2536,ICU-Alpha,Private-PPO,3.7,12477.2,0.149,Standard
+PAT-2537,Neuro-ICU,Medicaid,4.3,14530.5,0.134,Standard
+PAT-2538,ICU-Bravo,Medicaid,2.3,7967.13,0.125,Standard
+PAT-2539,ICU-Bravo,Medicaid,2.8,9474.09,0.101,Standard
+PAT-2540,ICU-Bravo,Medicare,4.0,13641.05,0.141,Standard
+PAT-2541,ICU-Bravo,Medicare,2.5,8662.13,0.166,Standard
+PAT-2542,ICU-Bravo,Private-PPO,4.2,14342.71,0.165,Standard
+PAT-2543,ICU-Alpha,Private-PPO,3.3,11206.31,0.135,Standard
+PAT-2544,Neuro-ICU,HMO-Primary,6.7,26075.42,0.483,Moderate Utilization
+PAT-2545,Neuro-ICU,Medicare,1.0,3400.0,0.148,Standard
+PAT-2546,CCU-Main,Private-PPO,7.5,25521.01,0.128,Moderate Utilization
+PAT-2547,ICU-Alpha,Private-PPO,3.5,11881.54,0.146,Standard
+PAT-2548,ICU-Alpha,Medicaid,5.7,19452.41,0.152,Moderate Utilization
+PAT-2549,ICU-Alpha,Medicare,4.2,14384.47,0.159,Standard
+PAT-2550,ICU-Alpha,HMO-Primary,4.7,15850.04,0.14,Standard
+PAT-2551,ICU-Alpha,Private-PPO,3.8,12876.06,0.139,Standard
+PAT-2552,ICU-Bravo,Medicaid,3.8,12803.79,0.129,Standard
+PAT-2553,CCU-Main,Private-PPO,5.8,19777.73,0.13,Moderate Utilization
+PAT-2554,ICU-Bravo,Medicaid,4.5,15241.8,0.138,Standard
+PAT-2555,CCU-Main,Medicare,3.2,11010.34,0.147,Standard
+PAT-2556,ICU-Alpha,Medicaid,4.0,13728.63,0.154,Standard
+PAT-2557,ICU-Alpha,Private-PPO,5.7,19418.88,0.13,Moderate Utilization
+PAT-2558,Neuro-ICU,Private-PPO,2.0,6965.71,0.162,Standard
+PAT-2559,ICU-Alpha,Medicare,3.9,13297.69,0.138,Standard
+PAT-2560,ICU-Alpha,Private-PPO,5.2,17833.63,0.141,Standard
+PAT-2561,ICU-Alpha,Medicare,1.7,5735.07,0.131,Standard
+PAT-2562,ICU-Alpha,Medicare,1.9,6346.75,0.108,Standard
+PAT-2563,ICU-Alpha,Medicare,5.4,18449.48,0.154,Moderate Utilization
+PAT-2564,CCU-Main,Medicare,2.4,8146.74,0.152,Standard
+PAT-2565,Neuro-ICU,Private-PPO,3.6,12233.19,0.138,Standard
+PAT-2566,ICU-Alpha,Medicare,4.5,15329.84,0.142,Standard
+PAT-2567,ICU-Alpha,Medicare,4.2,14216.5,0.149,Standard
+PAT-2568,ICU-Alpha,Medicare,4.6,15556.54,0.12,Standard
+PAT-2569,CCU-Main,Private-PPO,6.6,22604.06,0.134,Moderate Utilization
+PAT-2570,CCU-Main,Private-PPO,4.1,14024.88,0.153,Standard
+PAT-2571,Neuro-ICU,Medicare,3.7,12476.59,0.124,Standard
+PAT-2572,ICU-Alpha,Private-PPO,6.5,22023.71,0.146,Moderate Utilization
+PAT-2573,Neuro-ICU,Private-PPO,6.3,21576.24,0.123,Moderate Utilization
+PAT-2574,ICU-Bravo,Medicaid,1.0,3400.0,0.148,Standard
+PAT-2575,CCU-Main,Medicare,1.7,5840.54,0.141,Standard
+PAT-2576,ICU-Alpha,Medicaid,2.6,8842.05,0.119,Standard
+PAT-2577,CCU-Main,Medicare,2.5,8448.37,0.158,Standard
+PAT-2578,Neuro-ICU,Private-PPO,2.5,8447.29,0.131,Standard
+PAT-2579,ICU-Bravo,Private-PPO,1.7,5867.23,0.13,Standard
+PAT-2580,ICU-Alpha,Medicare,5.0,17010.26,0.144,Standard
+PAT-2581,CCU-Main,Private-PPO,2.4,8047.02,0.158,Standard
+PAT-2582,ICU-Bravo,Medicaid,3.9,13152.81,0.127,Standard
+PAT-2583,Neuro-ICU,Private-PPO,3.9,13191.53,0.142,Standard
+PAT-2584,Neuro-ICU,Private-PPO,3.6,12076.56,0.148,Standard
+PAT-2585,CCU-Main,Medicare,3.1,10426.32,0.151,Standard
+PAT-2586,CCU-Main,HMO-Primary,1.0,3400.0,0.144,Standard
+PAT-2587,ICU-Alpha,Medicaid,3.7,12595.32,0.136,Standard
+PAT-2588,Neuro-ICU,Medicare,4.7,15833.77,0.13,Standard
+PAT-2589,ICU-Alpha,Medicaid,3.4,11703.35,0.143,Standard
+PAT-2590,CCU-Main,Medicare,5.6,19098.29,0.126,Moderate Utilization
+PAT-2591,ICU-Bravo,Private-PPO,1.1,3829.66,0.101,Standard
+PAT-2592,ICU-Alpha,Private-PPO,7.5,29437.33,0.498,Moderate Utilization
+PAT-2593,Neuro-ICU,Private-PPO,2.6,8808.36,0.154,Standard
+PAT-2594,CCU-Main,Medicare,4.2,14337.56,0.108,Standard
+PAT-2595,CCU-Main,HMO-Primary,2.6,8975.95,0.127,Standard
+PAT-2596,ICU-Alpha,Medicaid,10.0,39226.41,0.5,High Utilization
+PAT-2597,ICU-Alpha,Medicaid,3.5,12053.78,0.17,Standard
+PAT-2598,CCU-Main,Medicare,11.3,44212.52,0.492,High Utilization
+PAT-2599,ICU-Alpha,Medicare,5.1,17418.46,0.131,Standard
+PAT-2600,CCU-Main,Private-PPO,5.2,17613.8,0.139,Standard
+PAT-2601,Neuro-ICU,Medicaid,1.6,5420.96,0.161,Standard
+PAT-2602,ICU-Bravo,HMO-Primary,4.0,13619.32,0.132,Standard
+PAT-2603,ICU-Alpha,Medicare,5.6,19167.57,0.13,Moderate Utilization
+PAT-2604,Neuro-ICU,Private-PPO,5.0,16960.14,0.135,Standard
+PAT-2605,Neuro-ICU,Private-PPO,1.5,5226.26,0.128,Standard
+PAT-2606,ICU-Alpha,Medicare,7.1,27925.77,0.493,Moderate Utilization
+PAT-2607,Neuro-ICU,Private-PPO,4.7,15908.33,0.164,Standard
+PAT-2608,CCU-Main,Medicare,5.0,16921.53,0.146,Standard
+PAT-2609,ICU-Alpha,Private-PPO,1.6,5555.63,0.138,Standard
+PAT-2610,ICU-Bravo,Medicaid,3.7,12701.24,0.137,Standard
+PAT-2611,CCU-Main,Medicaid,8.0,27239.2,0.12,Moderate Utilization
+PAT-2612,Neuro-ICU,Private-PPO,5.5,18795.06,0.154,Moderate Utilization
+PAT-2613,Neuro-ICU,Medicare,9.5,37289.4,0.49,High Utilization
+PAT-2614,ICU-Bravo,Private-PPO,4.9,16715.82,0.139,Standard
+PAT-2615,ICU-Bravo,Medicaid,4.3,14632.75,0.172,Standard
+PAT-2616,Neuro-ICU,Private-PPO,2.9,9935.85,0.146,Standard
+PAT-2617,ICU-Bravo,Private-PPO,3.7,12480.9,0.131,Standard
+PAT-2618,ICU-Bravo,HMO-Primary,1.8,5957.49,0.136,Standard
+PAT-2619,Neuro-ICU,Medicaid,2.8,9355.81,0.158,Standard
+PAT-2620,CCU-Main,Medicaid,5.1,17423.42,0.143,Standard
+PAT-2621,ICU-Alpha,HMO-Primary,1.5,5014.08,0.121,Standard
+PAT-2622,Neuro-ICU,Medicare,7.8,30490.31,0.504,Moderate Utilization
+PAT-2623,ICU-Bravo,Medicaid,6.2,21206.67,0.132,Moderate Utilization
+PAT-2624,ICU-Bravo,Private-PPO,9.2,35955.69,0.518,High Utilization
+PAT-2625,CCU-Main,Medicare,1.3,4361.0,0.157,Standard
+PAT-2626,Neuro-ICU,Private-PPO,4.0,13659.44,0.135,Standard
+PAT-2627,Neuro-ICU,Private-PPO,3.9,13233.17,0.159,Standard
+PAT-2628,ICU-Bravo,Medicare,2.3,7955.65,0.142,Standard
+PAT-2629,Neuro-ICU,HMO-Primary,3.6,12212.77,0.153,Standard
+PAT-2630,ICU-Bravo,Medicare,2.0,6820.96,0.148,Standard
+PAT-2631,ICU-Bravo,HMO-Primary,4.0,13700.3,0.13,Standard
+PAT-2632,ICU-Bravo,Medicare,2.5,8656.74,0.132,Standard
+PAT-2633,ICU-Alpha,Medicare,2.9,9817.53,0.156,Standard
+PAT-2634,ICU-Bravo,Private-PPO,2.3,7889.65,0.137,Standard
+PAT-2635,CCU-Main,Private-PPO,9.0,35154.93,0.486,High Utilization
+PAT-2636,Neuro-ICU,Medicare,2.8,9377.09,0.128,Standard
+PAT-2637,ICU-Alpha,HMO-Primary,4.4,14981.09,0.147,Standard
+PAT-2638,Neuro-ICU,Private-PPO,7.1,24053.03,0.17,Moderate Utilization
+PAT-2639,CCU-Main,Medicaid,4.4,14991.32,0.127,Standard
+PAT-2640,ICU-Alpha,Medicare,3.3,11058.85,0.142,Standard
+PAT-2641,Neuro-ICU,Private-PPO,5.0,17060.36,0.161,Standard
+PAT-2642,ICU-Alpha,HMO-Primary,3.9,13268.67,0.14,Standard
+PAT-2643,ICU-Bravo,Medicare,6.1,20732.06,0.148,Moderate Utilization
+PAT-2644,ICU-Bravo,Medicare,4.8,16188.03,0.127,Standard
+PAT-2645,Neuro-ICU,Private-PPO,4.5,15184.83,0.147,Standard
+PAT-2646,CCU-Main,HMO-Primary,5.1,17422.27,0.139,Standard
+PAT-2647,ICU-Alpha,Private-PPO,4.0,13722.06,0.155,Standard
+PAT-2648,ICU-Alpha,Private-PPO,11.3,44126.2,0.508,High Utilization
+PAT-2649,Neuro-ICU,Private-PPO,3.3,11131.44,0.172,Standard
+PAT-2650,ICU-Bravo,HMO-Primary,3.7,12454.46,0.15,Standard
+PAT-2651,ICU-Alpha,Medicare,2.8,9564.96,0.146,Standard
+PAT-2652,ICU-Bravo,Medicare,3.1,10426.09,0.144,Standard
+PAT-2653,ICU-Bravo,Medicare,2.6,8983.44,0.137,Standard
+PAT-2654,CCU-Main,Medicare,5.7,19493.31,0.146,Moderate Utilization
+PAT-2655,ICU-Bravo,Medicare,3.9,13166.19,0.137,Standard
+PAT-2656,ICU-Bravo,Medicare,1.0,3400.0,0.144,Standard
+PAT-2657,ICU-Alpha,Private-PPO,4.2,14284.8,0.16,Standard
+PAT-2658,CCU-Main,Medicare,4.4,14870.15,0.127,Standard
+PAT-2659,CCU-Main,Private-PPO,4.0,13475.25,0.157,Standard
+PAT-2660,Neuro-ICU,HMO-Primary,3.8,12750.46,0.16,Standard
+PAT-2661,Neuro-ICU,Medicare,3.4,11495.88,0.14,Standard
+PAT-2662,Neuro-ICU,Medicare,4.5,15322.24,0.112,Standard
+PAT-2663,CCU-Main,Medicare,9.0,35382.26,0.483,High Utilization
+PAT-2664,ICU-Bravo,Private-PPO,4.6,15480.11,0.16,Standard
+PAT-2665,CCU-Main,Private-PPO,1.3,4435.0,0.141,Standard
+PAT-2666,ICU-Bravo,Medicaid,7.0,23917.17,0.128,Moderate Utilization
+PAT-2667,Neuro-ICU,Private-PPO,1.0,3400.0,0.134,Standard
+PAT-2668,Neuro-ICU,Medicaid,9.5,36973.78,0.503,High Utilization
+PAT-2669,ICU-Bravo,Medicaid,3.2,10807.15,0.149,Standard
+PAT-2670,ICU-Bravo,Medicare,4.0,13533.32,0.138,Standard
+PAT-2671,Neuro-ICU,Medicare,4.9,16694.03,0.136,Standard
+PAT-2672,ICU-Bravo,Private-PPO,3.6,12101.41,0.136,Standard
+PAT-2673,CCU-Main,HMO-Primary,4.7,16092.53,0.129,Standard
+PAT-2674,Neuro-ICU,Medicare,4.2,14231.29,0.164,Standard
+PAT-2675,CCU-Main,Medicare,3.4,11548.76,0.137,Standard
+PAT-2676,Neuro-ICU,Medicaid,5.3,18136.11,0.159,Moderate Utilization
+PAT-2677,ICU-Alpha,Medicare,4.7,16115.36,0.163,Standard
+PAT-2678,CCU-Main,Private-PPO,5.0,17135.1,0.155,Standard
+PAT-2679,ICU-Alpha,Medicare,3.1,10677.16,0.135,Standard
+PAT-2680,Neuro-ICU,Medicare,2.6,8863.15,0.147,Standard
+PAT-2681,CCU-Main,Private-PPO,3.3,11186.53,0.141,Standard
+PAT-2682,CCU-Main,Private-PPO,4.3,14783.43,0.129,Standard
+PAT-2683,CCU-Main,Medicare,2.6,8785.19,0.146,Standard
+PAT-2684,ICU-Bravo,Medicaid,3.9,13168.77,0.125,Standard
+PAT-2685,CCU-Main,Medicare,4.3,14660.62,0.158,Standard
+PAT-2686,CCU-Main,Private-PPO,11.6,45362.45,0.485,High Utilization
+PAT-2687,ICU-Alpha,Medicare,5.0,16859.59,0.144,Standard
+PAT-2688,CCU-Main,Medicaid,5.1,17197.84,0.145,Standard
+PAT-2689,ICU-Bravo,Medicaid,4.2,14387.21,0.138,Standard
+PAT-2690,CCU-Main,Medicare,5.6,19187.41,0.15,Moderate Utilization
+PAT-2691,ICU-Alpha,Medicare,4.3,14649.41,0.135,Standard
+PAT-2692,CCU-Main,Medicaid,3.3,11388.95,0.154,Standard
+PAT-2693,CCU-Main,Private-PPO,5.3,17936.84,0.123,Standard
+PAT-2694,ICU-Alpha,Private-PPO,2.7,9275.62,0.143,Standard
+PAT-2695,Neuro-ICU,Medicare,4.9,16785.26,0.169,Standard
+PAT-2696,CCU-Main,HMO-Primary,4.5,15311.46,0.127,Standard
+PAT-2697,Neuro-ICU,HMO-Primary,2.6,8699.89,0.132,Standard
+PAT-2698,ICU-Alpha,Medicare,10.5,41225.12,0.499,High Utilization
+PAT-2699,ICU-Alpha,Private-PPO,4.9,16493.16,0.144,Standard
+PAT-2700,Neuro-ICU,Medicaid,3.0,10233.91,0.146,Standard
+PAT-2701,ICU-Bravo,Private-PPO,4.2,14290.92,0.148,Standard
+PAT-2702,ICU-Bravo,Private-PPO,3.8,12780.07,0.15,Standard
+PAT-2703,ICU-Alpha,Medicare,11.6,45298.41,0.507,High Utilization
+PAT-2704,ICU-Bravo,Medicare,9.3,36256.93,0.497,High Utilization
+PAT-2705,ICU-Bravo,Medicaid,4.0,13539.98,0.138,Standard
+PAT-2706,ICU-Alpha,Private-PPO,2.9,9888.55,0.151,Standard
+PAT-2707,CCU-Main,Private-PPO,9.6,37343.21,0.518,High Utilization
+PAT-2708,CCU-Main,Medicare,1.0,3400.0,0.14,Standard
+PAT-2709,CCU-Main,Medicaid,2.6,8802.98,0.128,Standard
+PAT-2710,ICU-Bravo,Medicaid,12.0,46745.61,0.507,High Utilization
+PAT-2711,Neuro-ICU,Private-PPO,4.1,13778.69,0.14,Standard
+PAT-2712,ICU-Bravo,HMO-Primary,4.8,16376.87,0.111,Standard
+PAT-2713,CCU-Main,Medicare,4.6,15701.46,0.153,Standard
+PAT-2714,ICU-Alpha,Medicaid,1.8,6119.87,0.134,Standard
+PAT-2715,ICU-Alpha,Private-PPO,5.9,23145.11,0.49,Moderate Utilization
+PAT-2716,ICU-Alpha,Medicare,4.2,14151.76,0.146,Standard
+PAT-2717,ICU-Bravo,Medicare,2.6,8970.93,0.144,Standard
+PAT-2718,Neuro-ICU,Medicare,5.8,19563.1,0.151,Moderate Utilization
+PAT-2719,CCU-Main,Medicaid,4.4,15003.3,0.135,Standard
+PAT-2720,ICU-Alpha,Medicaid,4.3,14601.49,0.149,Standard
+PAT-2721,CCU-Main,Private-PPO,8.2,32248.62,0.488,Moderate Utilization
+PAT-2722,CCU-Main,Medicare,3.6,12130.98,0.152,Standard
+PAT-2723,ICU-Bravo,HMO-Primary,5.0,16845.52,0.15,Standard
+PAT-2724,ICU-Alpha,Medicare,2.3,7828.52,0.128,Standard
+PAT-2725,ICU-Bravo,Private-PPO,1.0,3491.16,0.157,Standard
+PAT-2726,CCU-Main,Medicaid,3.1,10649.04,0.134,Standard
+PAT-2727,CCU-Main,Medicare,5.1,17370.75,0.153,Standard
+PAT-2728,CCU-Main,Private-PPO,1.4,4677.62,0.147,Standard
+PAT-2729,ICU-Alpha,Medicare,5.2,17746.34,0.167,Standard
+PAT-2730,ICU-Alpha,Medicare,3.3,11116.81,0.138,Standard
+PAT-2731,ICU-Alpha,Private-PPO,4.6,15744.3,0.137,Standard
+PAT-2732,CCU-Main,Medicare,1.7,5733.15,0.141,Standard
+PAT-2733,CCU-Main,Private-PPO,2.8,9635.68,0.137,Standard
+PAT-2734,Neuro-ICU,Medicare,5.5,18557.83,0.153,Moderate Utilization
+PAT-2735,ICU-Alpha,Private-PPO,4.2,14387.09,0.119,Standard
+PAT-2736,CCU-Main,Medicare,3.4,11704.33,0.127,Standard
+PAT-2737,CCU-Main,Medicaid,4.2,14299.88,0.127,Standard
+PAT-2738,Neuro-ICU,Medicare,9.2,35985.57,0.505,High Utilization
+PAT-2739,Neuro-ICU,Medicaid,3.0,10148.77,0.165,Standard
+PAT-2740,CCU-Main,Private-PPO,2.6,8745.72,0.14,Standard
+PAT-2741,ICU-Alpha,Private-PPO,3.1,10447.75,0.139,Standard
+PAT-2742,ICU-Bravo,Medicaid,6.8,23026.64,0.142,Moderate Utilization
+PAT-2743,ICU-Bravo,Medicare,5.7,19230.66,0.158,Moderate Utilization
+PAT-2744,ICU-Bravo,Medicare,5.2,17734.33,0.129,Standard
+PAT-2745,ICU-Alpha,Medicare,3.3,11112.72,0.145,Standard
+PAT-2746,CCU-Main,Medicare,3.1,10660.93,0.155,Standard
+PAT-2747,ICU-Bravo,HMO-Primary,3.7,12562.9,0.149,Standard
+PAT-2748,ICU-Bravo,Medicare,7.1,23999.55,0.144,Moderate Utilization
+PAT-2749,ICU-Alpha,Medicaid,2.1,6976.15,0.156,Standard
+PAT-2750,CCU-Main,Private-PPO,4.5,15299.65,0.104,Standard
+PAT-2751,CCU-Main,Medicare,4.4,14949.89,0.151,Standard
+PAT-2752,ICU-Alpha,HMO-Primary,5.9,23209.86,0.482,Moderate Utilization
+PAT-2753,ICU-Bravo,HMO-Primary,1.1,3753.36,0.116,Standard
+PAT-2754,CCU-Main,HMO-Primary,2.9,9951.16,0.149,Standard
+PAT-2755,CCU-Main,Private-PPO,3.3,11208.92,0.161,Standard
+PAT-2756,ICU-Bravo,Medicare,5.8,19570.55,0.14,Moderate Utilization
+PAT-2757,ICU-Alpha,Medicare,1.6,5357.27,0.155,Standard
+PAT-2758,ICU-Bravo,Private-PPO,4.3,14553.68,0.164,Standard
+PAT-2759,Neuro-ICU,Medicare,2.6,8961.88,0.16,Standard
+PAT-2760,CCU-Main,Private-PPO,3.7,12525.68,0.164,Standard
+PAT-2761,ICU-Alpha,Medicaid,6.2,21053.2,0.152,Moderate Utilization
+PAT-2762,ICU-Bravo,Medicare,5.7,19249.89,0.143,Moderate Utilization
+PAT-2763,ICU-Bravo,Private-PPO,3.3,11297.3,0.119,Standard
+PAT-2764,ICU-Alpha,HMO-Primary,2.7,9114.35,0.138,Standard
+PAT-2765,CCU-Main,Medicare,8.4,32969.86,0.48,Moderate Utilization
+PAT-2766,ICU-Alpha,Medicare,5.4,18341.74,0.172,Moderate Utilization
+PAT-2767,Neuro-ICU,Medicare,9.5,37337.37,0.489,High Utilization
+PAT-2768,ICU-Alpha,Medicare,4.4,14962.6,0.143,Standard
+PAT-2769,Neuro-ICU,Medicare,2.9,9985.2,0.149,Standard
+PAT-2770,CCU-Main,Medicare,7.8,30513.22,0.492,Moderate Utilization
+PAT-2771,ICU-Bravo,Medicare,4.3,14632.64,0.165,Standard
+PAT-2772,Neuro-ICU,Private-PPO,2.1,7225.96,0.133,Standard
+PAT-2773,Neuro-ICU,Medicare,4.5,15206.54,0.144,Standard
+PAT-2774,ICU-Alpha,Medicare,9.6,37679.93,0.481,High Utilization
+PAT-2775,ICU-Alpha,Medicaid,3.8,12950.94,0.123,Standard
+PAT-2776,ICU-Bravo,Private-PPO,2.8,9537.22,0.133,Standard
+PAT-2777,CCU-Main,Medicare,3.9,13349.85,0.141,Standard
+PAT-2778,Neuro-ICU,Medicaid,2.8,9527.55,0.135,Standard
+PAT-2779,ICU-Bravo,Medicare,1.7,5720.23,0.132,Standard
+PAT-2780,Neuro-ICU,Medicare,2.8,9506.11,0.122,Standard
+PAT-2781,ICU-Bravo,Medicaid,3.5,11874.52,0.14,Standard
+PAT-2782,ICU-Alpha,Medicare,5.2,17647.66,0.12,Standard
+PAT-2783,ICU-Alpha,Medicaid,2.1,7002.36,0.152,Standard
+PAT-2784,CCU-Main,Medicaid,4.9,16823.06,0.143,Standard
+PAT-2785,ICU-Alpha,Medicare,3.0,10089.26,0.121,Standard
+PAT-2786,ICU-Bravo,Medicare,5.9,23151.35,0.487,Moderate Utilization
+PAT-2787,Neuro-ICU,Medicare,3.2,10852.3,0.131,Standard
+PAT-2788,ICU-Bravo,Medicare,2.6,8778.03,0.146,Standard
+PAT-2789,CCU-Main,Medicaid,1.4,4602.24,0.16,Standard
+PAT-2790,ICU-Alpha,Private-PPO,5.8,19565.37,0.115,Moderate Utilization
+PAT-2791,ICU-Alpha,Medicare,2.9,9823.54,0.143,Standard
+PAT-2792,Neuro-ICU,Private-PPO,5.6,18990.07,0.139,Moderate Utilization
+PAT-2793,CCU-Main,Medicare,7.3,28463.3,0.501,Moderate Utilization
+PAT-2794,CCU-Main,Medicare,1.6,5490.69,0.144,Standard
+PAT-2795,ICU-Alpha,Medicare,5.8,19788.21,0.131,Moderate Utilization
+PAT-2796,CCU-Main,Medicaid,2.0,6962.0,0.137,Standard
+PAT-2797,ICU-Bravo,Medicare,3.6,12295.36,0.13,Standard
+PAT-2798,CCU-Main,Private-PPO,1.3,4360.42,0.157,Standard
+PAT-2799,ICU-Bravo,Medicare,3.4,11590.2,0.142,Standard
+PAT-2800,ICU-Bravo,Private-PPO,2.1,7166.86,0.168,Standard
+PAT-2801,ICU-Bravo,Medicare,7.5,29307.8,0.491,Moderate Utilization
+PAT-2802,ICU-Alpha,Medicare,3.4,11674.89,0.132,Standard
+PAT-2803,ICU-Bravo,Private-PPO,4.2,14158.74,0.12,Standard
+PAT-2804,Neuro-ICU,Private-PPO,4.3,14724.81,0.116,Standard
+PAT-2805,CCU-Main,Medicare,9.6,37405.68,0.469,High Utilization
+PAT-2806,ICU-Bravo,Medicaid,5.1,17213.89,0.145,Standard
+PAT-2807,Neuro-ICU,Medicare,3.6,12396.91,0.149,Standard
+PAT-2808,ICU-Alpha,Private-PPO,3.0,10358.44,0.119,Standard
+PAT-2809,ICU-Alpha,Private-PPO,5.5,18818.49,0.154,Moderate Utilization
+PAT-2810,ICU-Alpha,Medicaid,3.8,13054.03,0.135,Standard
+PAT-2811,ICU-Alpha,Private-PPO,3.5,11920.49,0.144,Standard
+PAT-2812,CCU-Main,Medicare,5.3,18189.28,0.164,Moderate Utilization
+PAT-2813,ICU-Alpha,Medicaid,7.4,29048.23,0.504,Moderate Utilization
+PAT-2814,CCU-Main,Medicaid,5.2,17733.74,0.138,Standard
+PAT-2815,Neuro-ICU,HMO-Primary,3.2,10911.5,0.129,Standard
+PAT-2816,ICU-Alpha,Medicare,3.7,12426.74,0.111,Standard
+PAT-2817,ICU-Alpha,Private-PPO,3.7,12582.01,0.131,Standard
+PAT-2818,Neuro-ICU,Private-PPO,3.7,12566.86,0.139,Standard
+PAT-2819,Neuro-ICU,Private-PPO,3.9,13323.78,0.128,Standard
+PAT-2820,CCU-Main,HMO-Primary,3.7,12577.54,0.14,Standard
+PAT-2821,ICU-Bravo,Private-PPO,5.8,19857.44,0.143,Moderate Utilization
+PAT-2822,CCU-Main,Private-PPO,1.0,3400.0,0.138,Standard
+PAT-2823,ICU-Bravo,Medicare,4.9,16543.13,0.132,Standard
+PAT-2824,CCU-Main,Medicare,6.0,20231.3,0.144,Moderate Utilization
+PAT-2825,ICU-Bravo,Medicare,2.2,7550.36,0.148,Standard
+PAT-2826,ICU-Alpha,Medicare,4.6,15521.58,0.126,Standard
+PAT-2827,ICU-Bravo,Medicare,4.2,14318.37,0.161,Standard
+PAT-2828,Neuro-ICU,Medicare,4.2,14153.37,0.14,Standard
+PAT-2829,Neuro-ICU,Private-PPO,1.0,3400.0,0.142,Standard
+PAT-2830,ICU-Bravo,Private-PPO,5.1,17378.75,0.151,Standard
+PAT-2831,ICU-Alpha,Medicaid,3.9,13428.41,0.145,Standard
+PAT-2832,ICU-Alpha,Private-PPO,4.0,13725.44,0.155,Standard
+PAT-2833,ICU-Bravo,Private-PPO,6.9,23555.81,0.146,Moderate Utilization
+PAT-2834,ICU-Bravo,Medicare,5.1,17363.84,0.133,Standard
+PAT-2835,Neuro-ICU,Medicaid,7.4,25167.44,0.147,Moderate Utilization
+PAT-2836,Neuro-ICU,Medicare,2.5,8641.92,0.125,Standard
+PAT-2837,CCU-Main,HMO-Primary,2.2,7324.45,0.143,Standard
+PAT-2838,ICU-Alpha,Private-PPO,3.5,11755.9,0.141,Standard
+PAT-2839,ICU-Alpha,Medicare,2.2,7407.63,0.139,Standard
+PAT-2840,ICU-Alpha,Medicare,3.8,12887.82,0.14,Standard
+PAT-2841,CCU-Main,Medicare,4.5,15257.38,0.115,Standard
+PAT-2842,CCU-Main,Medicare,5.4,18494.76,0.134,Moderate Utilization
+PAT-2843,Neuro-ICU,Medicare,3.7,12664.42,0.143,Standard
+PAT-2844,Neuro-ICU,Private-PPO,2.8,9422.02,0.144,Standard
+PAT-2845,ICU-Bravo,Medicare,5.1,17381.05,0.127,Standard
+PAT-2846,CCU-Main,Private-PPO,6.5,22264.66,0.159,Moderate Utilization
+PAT-2847,CCU-Main,Medicaid,3.1,10652.74,0.129,Standard
+PAT-2848,CCU-Main,Private-PPO,7.3,28568.92,0.505,Moderate Utilization
+PAT-2849,ICU-Alpha,Medicare,2.8,9510.1,0.147,Standard
+PAT-2850,Neuro-ICU,Medicare,3.5,11831.93,0.132,Standard
+PAT-2851,ICU-Bravo,Medicare,3.9,13363.73,0.166,Standard
+PAT-2852,CCU-Main,Private-PPO,3.0,10361.39,0.125,Standard
+PAT-2853,CCU-Main,Private-PPO,3.3,11374.7,0.154,Standard
+PAT-2854,CCU-Main,Private-PPO,4.9,16517.53,0.156,Standard
+PAT-2855,ICU-Alpha,Medicare,10.2,39776.82,0.482,High Utilization
+PAT-2856,ICU-Bravo,Medicare,2.2,7556.73,0.161,Standard
+PAT-2857,ICU-Bravo,Medicaid,3.9,13343.1,0.138,Standard
+PAT-2858,CCU-Main,Private-PPO,3.0,10336.65,0.146,Standard
+PAT-2859,ICU-Bravo,HMO-Primary,3.5,12011.55,0.145,Standard
+PAT-2860,ICU-Alpha,HMO-Primary,11.3,44035.54,0.49,High Utilization
+PAT-2861,CCU-Main,Medicaid,2.8,9637.35,0.153,Standard
+PAT-2862,Neuro-ICU,Medicare,3.4,11502.15,0.153,Standard
+PAT-2863,Neuro-ICU,Medicare,2.9,9726.6,0.117,Standard
+PAT-2864,ICU-Bravo,Medicare,3.3,11309.03,0.16,Standard
+PAT-2865,Neuro-ICU,HMO-Primary,2.7,9232.06,0.118,Standard
+PAT-2866,Neuro-ICU,Medicare,4.2,14215.3,0.156,Standard
+PAT-2867,CCU-Main,Private-PPO,6.0,20344.11,0.157,Moderate Utilization
+PAT-2868,ICU-Alpha,HMO-Primary,3.8,12793.69,0.126,Standard
+PAT-2869,CCU-Main,Medicaid,2.6,8895.92,0.136,Standard
+PAT-2870,ICU-Alpha,Private-PPO,4.4,14982.53,0.126,Standard
+PAT-2871,CCU-Main,Medicare,12.1,47201.13,0.488,High Utilization
+PAT-2872,Neuro-ICU,Medicare,5.3,17972.84,0.137,Standard
+PAT-2873,CCU-Main,Private-PPO,8.2,28002.6,0.152,Moderate Utilization
+PAT-2874,ICU-Bravo,HMO-Primary,3.2,11019.11,0.16,Standard
+PAT-2875,ICU-Bravo,HMO-Primary,3.8,12965.34,0.161,Standard
+PAT-2876,ICU-Alpha,Medicare,4.6,15563.74,0.134,Standard
+PAT-2877,ICU-Alpha,Medicare,4.1,13985.25,0.139,Standard
+PAT-2878,ICU-Alpha,Private-PPO,1.2,3993.49,0.118,Standard
+PAT-2879,ICU-Bravo,Private-PPO,8.2,31901.14,0.48,Moderate Utilization
+PAT-2880,CCU-Main,Medicare,2.9,9848.05,0.155,Standard
+PAT-2881,Neuro-ICU,Medicare,9.0,35307.81,0.514,High Utilization
+PAT-2882,ICU-Alpha,HMO-Primary,2.2,7530.32,0.124,Standard
+PAT-2883,CCU-Main,HMO-Primary,5.3,18096.25,0.133,Moderate Utilization
+PAT-2884,CCU-Main,Private-PPO,4.8,16385.6,0.141,Standard
+PAT-2885,ICU-Bravo,Private-PPO,4.5,15419.59,0.145,Standard
+PAT-2886,ICU-Bravo,Medicare,4.8,16284.02,0.13,Standard
+PAT-2887,Neuro-ICU,Private-PPO,6.7,26202.24,0.497,Moderate Utilization
+PAT-2888,CCU-Main,Medicare,9.6,37697.15,0.485,High Utilization
+PAT-2889,ICU-Alpha,Medicare,4.1,13986.6,0.141,Standard
+PAT-2890,ICU-Bravo,Medicare,3.1,10390.19,0.149,Standard
+PAT-2891,CCU-Main,Medicare,7.2,28192.57,0.492,Moderate Utilization
+PAT-2892,ICU-Bravo,Medicaid,2.8,9419.04,0.135,Standard
+PAT-2893,CCU-Main,HMO-Primary,10.3,40096.58,0.49,High Utilization
+PAT-2894,ICU-Bravo,Private-PPO,3.8,12810.05,0.14,Standard
+PAT-2895,ICU-Alpha,Private-PPO,1.9,6407.56,0.136,Standard
+PAT-2896,Neuro-ICU,Medicare,5.9,20008.58,0.138,Moderate Utilization
+PAT-2897,ICU-Alpha,Private-PPO,2.6,8902.44,0.164,Standard
+PAT-2898,ICU-Bravo,Private-PPO,3.0,10093.25,0.149,Standard
+PAT-2899,ICU-Bravo,Private-PPO,3.6,12189.51,0.137,Standard
+PAT-2900,ICU-Bravo,Medicare,1.3,4526.83,0.151,Standard
+PAT-2901,ICU-Alpha,Private-PPO,3.7,12609.57,0.137,Standard
+PAT-2902,ICU-Bravo,Medicare,1.2,3967.08,0.158,Standard
+PAT-2903,ICU-Alpha,Medicare,4.4,14975.88,0.147,Standard
+PAT-2904,ICU-Bravo,Private-PPO,3.8,12901.02,0.14,Standard
+PAT-2905,Neuro-ICU,Medicare,6.4,21607.73,0.148,Moderate Utilization
+PAT-2906,Neuro-ICU,Private-PPO,3.1,10551.52,0.12,Standard
+PAT-2907,ICU-Bravo,Private-PPO,3.9,13114.68,0.126,Standard
+PAT-2908,CCU-Main,Medicare,3.2,10781.71,0.125,Standard
+PAT-2909,ICU-Alpha,HMO-Primary,4.7,16016.9,0.144,Standard
+PAT-2910,ICU-Bravo,Medicaid,2.1,7117.31,0.166,Standard
+PAT-2911,ICU-Alpha,Medicare,8.8,34303.04,0.522,Moderate Utilization
+PAT-2912,CCU-Main,Private-PPO,5.3,18050.17,0.15,Moderate Utilization
+PAT-2913,Neuro-ICU,Medicare,3.7,12430.04,0.149,Standard
+PAT-2914,ICU-Alpha,Medicaid,4.2,14429.93,0.116,Standard
+PAT-2915,ICU-Alpha,Medicaid,4.0,13625.61,0.134,Standard
+PAT-2916,ICU-Alpha,Medicare,4.7,16094.46,0.13,Standard
+PAT-2917,ICU-Alpha,Private-PPO,4.6,15564.29,0.133,Standard
+PAT-2918,ICU-Alpha,Medicaid,2.1,7210.52,0.139,Standard
+PAT-2919,Neuro-ICU,Medicare,3.1,10537.77,0.135,Standard
+PAT-2920,ICU-Alpha,Medicare,3.3,11185.99,0.114,Standard
+PAT-2921,ICU-Alpha,Medicare,4.4,15030.35,0.152,Standard
+PAT-2922,Neuro-ICU,Medicare,7.6,29769.5,0.476,Moderate Utilization
+PAT-2923,ICU-Bravo,Medicare,1.0,3400.0,0.145,Standard
+PAT-2924,ICU-Bravo,Medicare,1.9,6625.47,0.171,Standard
+PAT-2925,ICU-Alpha,Medicare,4.4,15049.53,0.129,Standard
+PAT-2926,Neuro-ICU,Medicare,4.8,16424.35,0.106,Standard
+PAT-2927,ICU-Alpha,Private-PPO,4.5,15424.11,0.137,Standard
+PAT-2928,ICU-Bravo,HMO-Primary,4.2,14292.22,0.157,Standard
+PAT-2929,Neuro-ICU,HMO-Primary,1.6,5381.15,0.169,Standard
+PAT-2930,CCU-Main,Medicare,4.3,14685.94,0.124,Standard
+PAT-2931,Neuro-ICU,Medicaid,4.7,16006.33,0.148,Standard
+PAT-2932,ICU-Bravo,HMO-Primary,1.4,4755.09,0.135,Standard
+PAT-2933,Neuro-ICU,HMO-Primary,3.7,12462.63,0.14,Standard
+PAT-2934,CCU-Main,Medicaid,2.4,8173.32,0.172,Standard
+PAT-2935,Neuro-ICU,Medicaid,9.4,36646.0,0.47,High Utilization
+PAT-2936,ICU-Alpha,Medicare,8.6,33549.47,0.495,Moderate Utilization
+PAT-2937,ICU-Alpha,Medicare,2.5,8350.29,0.148,Standard
+PAT-2938,ICU-Bravo,Private-PPO,6.7,22785.0,0.157,Moderate Utilization
+PAT-2939,Neuro-ICU,Medicare,2.9,9830.7,0.143,Standard
+PAT-2940,ICU-Bravo,HMO-Primary,3.1,10553.98,0.146,Standard
+PAT-2941,Neuro-ICU,Medicare,3.9,13174.25,0.136,Standard
+PAT-2942,ICU-Bravo,HMO-Primary,2.5,8352.31,0.145,Standard
+PAT-2943,Neuro-ICU,Medicaid,1.1,3802.95,0.137,Standard
+PAT-2944,ICU-Alpha,Private-PPO,2.7,9109.33,0.15,Standard
+PAT-2945,ICU-Bravo,Medicare,4.5,15215.12,0.136,Standard
+PAT-2946,ICU-Bravo,Medicare,7.2,28184.3,0.497,Moderate Utilization
+PAT-2947,CCU-Main,Private-PPO,5.0,16946.97,0.141,Standard
+PAT-2948,Neuro-ICU,Medicaid,3.7,12592.31,0.157,Standard
+PAT-2949,ICU-Alpha,HMO-Primary,4.6,15789.71,0.141,Standard
+PAT-2950,ICU-Alpha,Medicare,4.5,15235.05,0.117,Standard
+PAT-2951,ICU-Alpha,Medicare,2.4,8002.5,0.159,Standard
+PAT-2952,ICU-Bravo,Medicare,1.8,6131.78,0.129,Standard
+PAT-2953,ICU-Alpha,Medicare,1.5,5184.53,0.132,Standard
+PAT-2954,ICU-Bravo,Medicaid,4.2,14240.49,0.133,Standard
+PAT-2955,CCU-Main,Medicare,5.0,16992.69,0.161,Standard
+PAT-2956,ICU-Alpha,Private-PPO,2.6,8743.25,0.112,Standard
+PAT-2957,CCU-Main,Private-PPO,3.1,10403.45,0.172,Standard
+PAT-2958,Neuro-ICU,Medicare,3.5,11994.93,0.156,Standard
+PAT-2959,Neuro-ICU,Private-PPO,4.3,14717.5,0.145,Standard
+PAT-2960,CCU-Main,Private-PPO,3.0,10251.61,0.141,Standard
+PAT-2961,Neuro-ICU,Medicare,5.3,17853.37,0.145,Standard
+PAT-2962,ICU-Alpha,Private-PPO,9.9,38541.17,0.499,High Utilization
+PAT-2963,ICU-Alpha,Medicare,2.0,6854.89,0.151,Standard
+PAT-2964,ICU-Bravo,Private-PPO,3.9,13189.87,0.149,Standard
+PAT-2965,CCU-Main,HMO-Primary,2.5,8501.7,0.143,Standard
+PAT-2966,CCU-Main,Private-PPO,5.0,17019.82,0.139,Standard
+PAT-2967,ICU-Bravo,Private-PPO,2.5,8611.56,0.139,Standard
+PAT-2968,ICU-Alpha,Private-PPO,3.2,10902.95,0.139,Standard
+PAT-2969,CCU-Main,Medicaid,8.0,31394.24,0.507,Moderate Utilization
+PAT-2970,ICU-Bravo,Medicare,4.3,14569.45,0.15,Standard
+PAT-2971,CCU-Main,Private-PPO,2.5,8534.68,0.1,Standard
+PAT-2972,CCU-Main,Private-PPO,3.9,13219.63,0.151,Standard
+PAT-2973,ICU-Bravo,Medicaid,5.0,16870.88,0.144,Standard
+PAT-2974,CCU-Main,Medicare,2.7,9109.56,0.141,Standard
+PAT-2975,Neuro-ICU,HMO-Primary,2.3,7946.55,0.136,Standard
+PAT-2976,ICU-Bravo,Private-PPO,5.6,19029.55,0.157,Moderate Utilization
+PAT-2977,ICU-Bravo,Medicare,5.4,18310.42,0.155,Moderate Utilization
+PAT-2978,Neuro-ICU,Private-PPO,5.4,18314.28,0.131,Moderate Utilization
+PAT-2979,CCU-Main,Medicare,3.5,12011.39,0.147,Standard
+PAT-2980,Neuro-ICU,Medicare,2.1,7041.1,0.128,Standard
+PAT-2981,CCU-Main,Medicare,5.8,19643.25,0.122,Moderate Utilization
+PAT-2982,ICU-Alpha,Medicare,4.4,14793.86,0.133,Standard
+PAT-2983,Neuro-ICU,Private-PPO,4.1,14010.44,0.154,Standard
+PAT-2984,Neuro-ICU,Medicare,3.7,12467.08,0.155,Standard
+PAT-2985,Neuro-ICU,Medicare,3.7,12645.5,0.149,Standard
+PAT-2986,ICU-Alpha,Private-PPO,2.5,8551.96,0.152,Standard
+PAT-2987,CCU-Main,Medicare,1.2,4244.91,0.149,Standard
+PAT-2988,ICU-Alpha,Medicare,8.3,28124.52,0.133,Moderate Utilization
+PAT-2989,Neuro-ICU,Medicare,4.0,13580.27,0.148,Standard
+PAT-2990,ICU-Alpha,Private-PPO,4.2,14112.83,0.153,Standard
+PAT-2991,Neuro-ICU,Medicare,6.8,23100.93,0.152,Moderate Utilization
+PAT-2992,ICU-Bravo,Medicare,2.9,9784.77,0.158,Standard
+PAT-2993,CCU-Main,Private-PPO,5.3,18023.07,0.151,Moderate Utilization
+PAT-2994,Neuro-ICU,Medicare,2.8,9597.65,0.146,Standard
+PAT-2995,ICU-Alpha,Private-PPO,4.9,16577.29,0.156,Standard
+PAT-2996,ICU-Alpha,Medicare,5.1,17199.15,0.141,Standard
+PAT-2997,ICU-Alpha,Medicaid,5.5,18538.42,0.129,Moderate Utilization
+PAT-2998,CCU-Main,Medicaid,5.8,19647.52,0.139,Moderate Utilization
+PAT-2999,ICU-Bravo,HMO-Primary,2.9,9981.58,0.131,Standard
+PAT-3000,CCU-Main,Private-PPO,5.3,17924.14,0.132,Standard
+PAT-3001,ICU-Bravo,Private-PPO,4.7,15973.52,0.139,Standard
+PAT-3002,ICU-Alpha,HMO-Primary,2.4,8263.69,0.13,Standard
+PAT-3003,CCU-Main,Medicare,3.6,12162.31,0.137,Standard
+PAT-3004,ICU-Bravo,Private-PPO,4.1,14004.78,0.115,Standard
+PAT-3005,ICU-Alpha,Medicare,3.7,12531.8,0.144,Standard
+PAT-3006,ICU-Alpha,Private-PPO,2.9,9879.26,0.142,Standard
+PAT-3007,CCU-Main,Medicare,5.2,17551.27,0.13,Standard
+PAT-3008,ICU-Bravo,Medicaid,3.2,10842.93,0.151,Standard
+PAT-3009,ICU-Alpha,HMO-Primary,4.7,15828.9,0.155,Standard
+PAT-3010,ICU-Alpha,Medicare,4.4,15095.27,0.119,Standard
+PAT-3011,ICU-Alpha,Medicaid,9.8,38383.17,0.481,High Utilization
+PAT-3012,Neuro-ICU,Medicare,2.8,9445.13,0.131,Standard
+PAT-3013,ICU-Bravo,Medicare,4.2,14378.41,0.128,Standard
+PAT-3014,ICU-Bravo,Private-PPO,4.2,14413.41,0.153,Standard
+PAT-3015,Neuro-ICU,Medicare,4.5,15436.41,0.139,Standard
+PAT-3016,ICU-Alpha,Private-PPO,4.7,15828.93,0.138,Standard
+PAT-3017,Neuro-ICU,Medicare,4.5,15274.33,0.113,Standard
+PAT-3018,Neuro-ICU,Private-PPO,3.0,10080.57,0.15,Standard
+PAT-3019,Neuro-ICU,Private-PPO,2.4,8166.7,0.124,Standard
+PAT-3020,ICU-Bravo,HMO-Primary,4.3,14516.66,0.142,Standard
+PAT-3021,ICU-Alpha,Private-PPO,4.3,14524.19,0.145,Standard
+PAT-3022,ICU-Alpha,Medicare,4.0,13677.12,0.161,Standard
+PAT-3023,ICU-Bravo,Medicare,4.4,14982.96,0.123,Standard
+PAT-3024,ICU-Bravo,HMO-Primary,10.0,39087.5,0.449,High Utilization
+PAT-3025,Neuro-ICU,Private-PPO,5.2,17811.52,0.144,Standard
+PAT-3026,Neuro-ICU,Private-PPO,4.3,14693.58,0.167,Standard
+PAT-3027,CCU-Main,Private-PPO,2.2,7613.19,0.159,Standard
+PAT-3028,CCU-Main,Medicare,5.8,19559.28,0.144,Moderate Utilization
+PAT-3029,ICU-Bravo,Private-PPO,1.5,5229.37,0.135,Standard
+PAT-3030,Neuro-ICU,Medicaid,3.3,11130.73,0.153,Standard
+PAT-3031,ICU-Bravo,Medicare,4.4,14860.87,0.128,Standard
+PAT-3032,Neuro-ICU,HMO-Primary,5.4,18359.22,0.148,Moderate Utilization
+PAT-3033,Neuro-ICU,Medicare,5.1,17402.0,0.149,Standard
+PAT-3034,ICU-Bravo,Private-PPO,8.9,34870.38,0.506,Moderate Utilization
+PAT-3035,ICU-Bravo,Medicare,1.9,6601.46,0.172,Standard
+PAT-3036,ICU-Alpha,Private-PPO,4.4,14814.03,0.147,Standard
+PAT-3037,ICU-Alpha,Medicare,3.1,10590.7,0.134,Standard
+PAT-3038,CCU-Main,Medicare,2.6,8971.45,0.141,Standard
+PAT-3039,ICU-Bravo,HMO-Primary,4.5,15439.03,0.117,Standard
+PAT-3040,CCU-Main,Private-PPO,4.5,15186.62,0.132,Standard
+PAT-3041,ICU-Bravo,Private-PPO,5.4,18440.61,0.136,Moderate Utilization
+PAT-3042,ICU-Bravo,Private-PPO,2.6,8843.26,0.134,Standard
+PAT-3043,ICU-Bravo,Medicare,3.1,10615.18,0.144,Standard
+PAT-3044,ICU-Alpha,Medicare,5.2,17671.54,0.13,Standard
+PAT-3045,CCU-Main,Medicare,1.2,4212.44,0.157,Standard
+PAT-3046,ICU-Bravo,Private-PPO,3.8,12815.29,0.142,Standard
+PAT-3047,CCU-Main,Medicaid,4.4,15108.64,0.141,Standard
+PAT-3048,CCU-Main,Medicare,5.1,17322.37,0.137,Standard
+PAT-3049,ICU-Alpha,Private-PPO,3.4,11622.77,0.144,Standard
+PAT-3050,ICU-Alpha,Medicare,3.1,10579.74,0.153,Standard
+PAT-3051,ICU-Bravo,Medicare,4.0,13769.79,0.129,Standard
+PAT-3052,Neuro-ICU,Private-PPO,3.5,11963.12,0.132,Standard
+PAT-3053,CCU-Main,Medicare,2.4,8269.15,0.137,Standard
+PAT-3054,ICU-Alpha,Private-PPO,4.6,15680.31,0.123,Standard
+PAT-3055,CCU-Main,Medicare,2.8,9442.56,0.13,Standard
+PAT-3056,Neuro-ICU,HMO-Primary,1.7,5749.48,0.135,Standard
+PAT-3057,CCU-Main,Private-PPO,6.1,20799.73,0.154,Moderate Utilization
+PAT-3058,ICU-Bravo,Medicare,4.5,15457.96,0.145,Standard
+PAT-3059,CCU-Main,Medicare,4.6,15645.35,0.144,Standard
+PAT-3060,ICU-Alpha,Medicare,2.0,6649.41,0.153,Standard
+PAT-3061,ICU-Bravo,Medicare,4.0,13565.02,0.14,Standard
+PAT-3062,ICU-Bravo,Private-PPO,2.9,9910.29,0.147,Standard
+PAT-3063,Neuro-ICU,Medicaid,1.0,3400.0,0.14,Standard
+PAT-3064,ICU-Bravo,Medicare,3.6,12216.3,0.145,Standard
+PAT-3065,ICU-Alpha,Private-PPO,5.1,17487.59,0.133,Standard
+PAT-3066,Neuro-ICU,Medicare,3.8,12917.39,0.107,Standard
+PAT-3067,ICU-Bravo,Private-PPO,3.4,11682.54,0.14,Standard
+PAT-3068,Neuro-ICU,Medicare,3.1,10439.22,0.161,Standard
+PAT-3069,CCU-Main,HMO-Primary,2.0,6923.04,0.154,Standard
+PAT-3070,ICU-Bravo,Private-PPO,2.6,8834.39,0.155,Standard
+PAT-3071,ICU-Alpha,HMO-Primary,2.3,7864.79,0.159,Standard
+PAT-3072,ICU-Alpha,Medicare,1.1,3867.02,0.143,Standard
+PAT-3073,ICU-Bravo,Private-PPO,4.9,16678.19,0.144,Standard
+PAT-3074,CCU-Main,Private-PPO,3.1,10470.92,0.133,Standard
+PAT-3075,Neuro-ICU,Private-PPO,5.2,17745.01,0.137,Standard
+PAT-3076,ICU-Alpha,Medicare,4.3,14671.75,0.15,Standard
+PAT-3077,ICU-Alpha,HMO-Primary,2.0,6779.78,0.158,Standard
+PAT-3078,Neuro-ICU,HMO-Primary,3.8,13033.68,0.14,Standard
+PAT-3079,Neuro-ICU,Medicare,6.5,25355.57,0.485,Moderate Utilization
+PAT-3080,ICU-Alpha,Private-PPO,4.2,14112.13,0.142,Standard
+PAT-3081,Neuro-ICU,Medicare,10.3,40088.83,0.5,High Utilization
+PAT-3082,ICU-Bravo,Medicaid,5.1,17502.21,0.121,Standard
+PAT-3083,ICU-Alpha,Private-PPO,1.4,4667.43,0.109,Standard
+PAT-3084,ICU-Alpha,Medicare,8.5,33200.64,0.484,Moderate Utilization
+PAT-3085,ICU-Alpha,Medicare,2.4,8274.9,0.124,Standard
+PAT-3086,ICU-Bravo,Medicare,2.3,7944.16,0.134,Standard
+PAT-3087,ICU-Alpha,Medicare,6.7,22655.68,0.139,Moderate Utilization
+PAT-3088,Neuro-ICU,Medicare,4.3,14678.69,0.135,Standard
+PAT-3089,ICU-Alpha,Private-PPO,5.3,18038.03,0.162,Moderate Utilization
+PAT-3090,ICU-Bravo,Private-PPO,8.9,34930.36,0.496,Moderate Utilization
+PAT-3091,ICU-Bravo,Private-PPO,1.8,6134.15,0.146,Standard
+PAT-3092,CCU-Main,Private-PPO,1.6,5430.85,0.15,Standard
+PAT-3093,ICU-Alpha,Medicare,5.6,19064.66,0.126,Moderate Utilization
+PAT-3094,ICU-Bravo,Medicare,1.0,3400.0,0.156,Standard
+PAT-3095,CCU-Main,Private-PPO,2.3,7661.78,0.14,Standard
+PAT-3096,ICU-Alpha,Medicare,10.0,39031.24,0.501,High Utilization
+PAT-3097,ICU-Bravo,Medicare,5.1,17308.72,0.126,Standard
+PAT-3098,ICU-Bravo,Medicare,1.5,5165.23,0.12,Standard
+PAT-3099,ICU-Alpha,Private-PPO,3.5,11944.19,0.153,Standard
+PAT-3100,ICU-Alpha,Medicaid,4.4,14900.69,0.147,Standard
+PAT-3101,CCU-Main,Private-PPO,2.6,8888.29,0.129,Standard
+PAT-3102,ICU-Alpha,Medicare,3.7,12555.97,0.129,Standard
+PAT-3103,ICU-Alpha,Medicaid,6.4,21833.45,0.157,Moderate Utilization
+PAT-3104,Neuro-ICU,Medicare,2.0,6661.88,0.125,Standard
+PAT-3105,ICU-Alpha,Private-PPO,3.9,13407.07,0.164,Standard
+PAT-3106,ICU-Bravo,Medicare,5.2,17822.17,0.129,Standard
+PAT-3107,CCU-Main,HMO-Primary,2.7,9123.0,0.15,Standard
+PAT-3108,CCU-Main,Private-PPO,2.2,7618.93,0.137,Standard
+PAT-3109,CCU-Main,Private-PPO,3.3,11057.41,0.15,Standard
+PAT-3110,ICU-Bravo,Private-PPO,2.2,7581.86,0.134,Standard
+PAT-3111,ICU-Alpha,Private-PPO,2.1,7074.28,0.139,Standard
+PAT-3112,ICU-Bravo,Medicare,6.0,20441.84,0.142,Moderate Utilization
+PAT-3113,Neuro-ICU,Private-PPO,3.4,11578.97,0.127,Standard
+PAT-3114,CCU-Main,Private-PPO,3.7,12500.36,0.152,Standard
+PAT-3115,ICU-Alpha,Private-PPO,5.2,17688.14,0.134,Standard
+PAT-3116,ICU-Alpha,Medicare,5.1,17309.18,0.138,Standard
+PAT-3117,CCU-Main,Medicare,3.4,11582.05,0.128,Standard
+PAT-3118,Neuro-ICU,Private-PPO,4.0,13553.48,0.106,Standard
+PAT-3119,Neuro-ICU,Private-PPO,4.0,13469.76,0.139,Standard
+PAT-3120,ICU-Alpha,Medicare,3.9,13268.79,0.172,Standard
+PAT-3121,ICU-Bravo,Medicare,5.1,17284.54,0.152,Standard
+PAT-3122,CCU-Main,Private-PPO,3.4,11461.05,0.141,Standard
+PAT-3123,ICU-Bravo,Medicare,1.2,4114.9,0.138,Standard
+PAT-3124,ICU-Alpha,Private-PPO,4.4,15052.7,0.142,Standard
+PAT-3125,CCU-Main,Private-PPO,5.7,19371.41,0.149,Moderate Utilization
+PAT-3126,Neuro-ICU,Medicare,3.8,12923.37,0.125,Standard
+PAT-3127,Neuro-ICU,Medicaid,5.6,18909.0,0.157,Moderate Utilization
+PAT-3128,Neuro-ICU,Medicare,3.8,13052.4,0.152,Standard
+PAT-3129,ICU-Alpha,Medicaid,4.4,14966.47,0.152,Standard
+PAT-3130,Neuro-ICU,Private-PPO,5.5,18731.98,0.148,Moderate Utilization
+PAT-3131,CCU-Main,Private-PPO,3.4,11565.63,0.142,Standard
+PAT-3132,CCU-Main,HMO-Primary,5.1,17309.89,0.151,Standard
+PAT-3133,CCU-Main,Private-PPO,1.2,3981.51,0.15,Standard
+PAT-3134,CCU-Main,HMO-Primary,3.8,12863.05,0.137,Standard
+PAT-3135,Neuro-ICU,Private-PPO,4.5,15138.55,0.133,Standard
+PAT-3136,CCU-Main,Private-PPO,3.8,12821.65,0.143,Standard
+PAT-3137,ICU-Alpha,Private-PPO,3.2,10781.21,0.163,Standard
+PAT-3138,CCU-Main,Medicare,5.6,18911.78,0.124,Moderate Utilization
+PAT-3139,Neuro-ICU,HMO-Primary,7.4,28990.04,0.471,Moderate Utilization
+PAT-3140,Neuro-ICU,Private-PPO,3.5,12039.91,0.144,Standard
+PAT-3141,ICU-Bravo,Private-PPO,4.3,14710.96,0.142,Standard
+PAT-3142,CCU-Main,HMO-Primary,5.6,19102.73,0.144,Moderate Utilization
+PAT-3143,Neuro-ICU,HMO-Primary,4.9,16601.61,0.145,Standard
+PAT-3144,ICU-Bravo,Medicare,5.2,17558.7,0.138,Standard
+PAT-3145,ICU-Alpha,Private-PPO,4.5,15347.11,0.162,Standard
+PAT-3146,CCU-Main,Private-PPO,4.5,15179.11,0.119,Standard
+PAT-3147,Neuro-ICU,Private-PPO,5.3,17855.52,0.13,Standard
+PAT-3148,Neuro-ICU,HMO-Primary,2.0,6827.36,0.14,Standard
+PAT-3149,CCU-Main,Medicaid,2.8,9572.49,0.118,Standard
+PAT-3150,ICU-Bravo,Private-PPO,2.7,9297.07,0.139,Standard
+PAT-3151,CCU-Main,Medicare,3.4,11606.05,0.165,Standard
+PAT-3152,ICU-Alpha,Private-PPO,4.7,15918.65,0.142,Standard
+PAT-3153,ICU-Alpha,Private-PPO,1.7,5644.68,0.145,Standard
+PAT-3154,CCU-Main,Medicare,4.9,16709.08,0.124,Standard
+PAT-3155,ICU-Bravo,Private-PPO,3.7,12578.29,0.133,Standard
+PAT-3156,ICU-Alpha,Medicare,3.9,13300.0,0.136,Standard
+PAT-3157,CCU-Main,Private-PPO,4.4,14850.36,0.137,Standard
+PAT-3158,ICU-Bravo,Private-PPO,6.6,22322.27,0.159,Moderate Utilization
+PAT-3159,ICU-Bravo,Medicare,7.5,29392.25,0.499,Moderate Utilization
+PAT-3160,Neuro-ICU,Medicaid,3.5,11816.2,0.126,Standard
+PAT-3161,ICU-Alpha,Medicare,9.6,37626.24,0.495,High Utilization
+PAT-3162,CCU-Main,Private-PPO,5.0,17114.62,0.148,Standard
+PAT-3163,ICU-Alpha,Private-PPO,7.8,30533.38,0.507,Moderate Utilization
+PAT-3164,ICU-Bravo,Medicaid,4.0,13457.8,0.164,Standard
+PAT-3165,Neuro-ICU,Medicaid,3.4,11393.51,0.127,Standard
+PAT-3166,ICU-Alpha,Private-PPO,9.2,35962.15,0.48,High Utilization
+PAT-3167,CCU-Main,Medicare,1.9,6587.39,0.124,Standard
+PAT-3168,ICU-Alpha,Private-PPO,3.6,12105.26,0.138,Standard
+PAT-3169,ICU-Bravo,Private-PPO,3.9,13407.81,0.148,Standard
+PAT-3170,Neuro-ICU,Medicare,3.7,12475.64,0.155,Standard
+PAT-3171,ICU-Alpha,Medicare,3.1,10676.06,0.14,Standard
+PAT-3172,ICU-Bravo,Medicare,4.3,14540.92,0.137,Standard
+PAT-3173,ICU-Bravo,Medicare,5.2,17510.77,0.144,Standard
+PAT-3174,Neuro-ICU,Private-PPO,3.7,12665.09,0.13,Standard
+PAT-3175,ICU-Bravo,Private-PPO,5.0,17093.0,0.171,Standard
+PAT-3176,ICU-Alpha,Private-PPO,3.7,12505.51,0.119,Standard
+PAT-3177,CCU-Main,Medicare,2.4,8224.51,0.144,Standard
+PAT-3178,Neuro-ICU,HMO-Primary,2.7,9311.89,0.17,Standard
+PAT-3179,ICU-Bravo,Private-PPO,3.5,11764.83,0.142,Standard
+PAT-3180,ICU-Alpha,Private-PPO,4.0,13452.82,0.139,Standard
+PAT-3181,Neuro-ICU,Medicare,5.6,19011.5,0.136,Moderate Utilization
+PAT-3182,ICU-Bravo,Private-PPO,2.9,9803.73,0.139,Standard
+PAT-3183,ICU-Alpha,Private-PPO,1.8,6005.01,0.161,Standard
+PAT-3184,ICU-Bravo,Private-PPO,3.9,13293.95,0.111,Standard
+PAT-3185,ICU-Alpha,Medicaid,3.3,11324.04,0.163,Standard
+PAT-3186,ICU-Bravo,Medicaid,1.4,4763.97,0.122,Standard
+PAT-3187,Neuro-ICU,Medicaid,2.5,8646.22,0.138,Standard
+PAT-3188,Neuro-ICU,Medicare,1.6,5419.33,0.135,Standard
+PAT-3189,Neuro-ICU,Medicare,4.6,15527.24,0.15,Standard
+PAT-3190,ICU-Bravo,Medicare,2.7,9238.48,0.119,Standard
+PAT-3191,ICU-Bravo,Private-PPO,3.1,10584.83,0.148,Standard
+PAT-3192,Neuro-ICU,Private-PPO,4.7,15978.15,0.17,Standard
+PAT-3193,Neuro-ICU,Medicaid,3.5,12050.63,0.122,Standard
+PAT-3194,CCU-Main,Medicare,5.3,17874.44,0.144,Standard
+PAT-3195,ICU-Alpha,Medicare,5.1,17293.35,0.132,Standard
+PAT-3196,CCU-Main,Medicare,4.1,13907.09,0.147,Standard
+PAT-3197,ICU-Alpha,Medicare,8.2,32124.84,0.492,Moderate Utilization
+PAT-3198,ICU-Bravo,Medicare,3.8,12978.12,0.133,Standard
+PAT-3199,ICU-Alpha,Medicare,1.7,5617.32,0.148,Standard
+PAT-3200,ICU-Alpha,Medicare,8.8,34323.86,0.517,Moderate Utilization
+PAT-3201,ICU-Bravo,Private-PPO,4.3,14692.98,0.139,Standard
+PAT-3202,ICU-Bravo,Medicare,5.5,18590.97,0.152,Moderate Utilization
+PAT-3203,ICU-Bravo,Medicare,3.9,13162.28,0.123,Standard
+PAT-3204,Neuro-ICU,Medicare,8.3,32322.45,0.478,Moderate Utilization
+PAT-3205,Neuro-ICU,HMO-Primary,4.0,13439.46,0.148,Standard
+PAT-3206,ICU-Alpha,Private-PPO,1.4,4855.43,0.162,Standard
+PAT-3207,ICU-Bravo,HMO-Primary,3.7,12472.69,0.146,Standard
+PAT-3208,Neuro-ICU,Private-PPO,10.2,39827.34,0.487,High Utilization
+PAT-3209,ICU-Bravo,HMO-Primary,11.6,45533.43,0.491,High Utilization
+PAT-3210,ICU-Alpha,Medicare,3.0,10315.18,0.124,Standard
+PAT-3211,Neuro-ICU,Medicare,3.3,11181.9,0.15,Standard
+PAT-3212,Neuro-ICU,Private-PPO,2.4,8194.43,0.154,Standard
+PAT-3213,CCU-Main,HMO-Primary,3.8,12766.24,0.135,Standard
+PAT-3214,ICU-Alpha,Medicaid,4.8,16164.64,0.135,Standard
+PAT-3215,Neuro-ICU,Private-PPO,5.8,19611.75,0.145,Moderate Utilization
+PAT-3216,ICU-Alpha,Medicare,3.7,12426.89,0.135,Standard
+PAT-3217,ICU-Alpha,Medicare,5.5,18851.88,0.141,Moderate Utilization
+PAT-3218,ICU-Bravo,Medicare,2.6,8962.13,0.171,Standard
+PAT-3219,ICU-Alpha,Medicare,3.7,12511.05,0.138,Standard
+PAT-3220,CCU-Main,Medicare,4.1,13949.67,0.136,Standard
+PAT-3221,Neuro-ICU,Medicare,3.5,11917.77,0.132,Standard
+PAT-3222,ICU-Alpha,Medicaid,3.6,12215.19,0.152,Standard
+PAT-3223,ICU-Alpha,Medicare,3.6,12243.76,0.139,Standard
+PAT-3224,ICU-Bravo,Medicare,4.9,16626.55,0.132,Standard
+PAT-3225,ICU-Bravo,Medicare,4.8,16393.95,0.16,Standard
+PAT-3226,CCU-Main,Medicare,1.0,3400.0,0.161,Standard
+PAT-3227,ICU-Alpha,Medicare,5.0,17122.39,0.133,Standard
+PAT-3228,ICU-Alpha,Medicare,5.5,21687.88,0.465,Moderate Utilization
+PAT-3229,ICU-Alpha,HMO-Primary,3.2,10791.22,0.156,Standard
+PAT-3230,ICU-Alpha,Private-PPO,7.2,24392.78,0.132,Moderate Utilization
+PAT-3231,Neuro-ICU,Medicare,3.4,11688.95,0.153,Standard
+PAT-3232,ICU-Alpha,Private-PPO,4.8,16162.01,0.114,Standard
+PAT-3233,ICU-Alpha,Medicare,2.5,8551.61,0.154,Standard
+PAT-3234,Neuro-ICU,Medicare,5.5,18752.19,0.125,Moderate Utilization
+PAT-3235,ICU-Bravo,Medicare,3.2,10737.36,0.152,Standard
+PAT-3236,CCU-Main,Medicare,4.1,14100.22,0.142,Standard
+PAT-3237,ICU-Alpha,Private-PPO,4.1,13951.98,0.128,Standard
+PAT-3238,Neuro-ICU,Medicaid,2.1,7254.35,0.136,Standard
+PAT-3239,ICU-Alpha,Medicare,2.6,8919.84,0.151,Standard
+PAT-3240,ICU-Bravo,Private-PPO,3.2,10988.29,0.143,Standard
+PAT-3241,Neuro-ICU,Medicare,5.7,19219.9,0.15,Moderate Utilization
+PAT-3242,Neuro-ICU,Medicare,6.9,27163.38,0.519,Moderate Utilization
+PAT-3243,Neuro-ICU,Medicare,3.2,11034.85,0.12,Standard
+PAT-3244,ICU-Alpha,Private-PPO,2.8,9438.64,0.164,Standard
+PAT-3245,ICU-Bravo,Medicare,3.6,12239.79,0.143,Standard
+PAT-3246,CCU-Main,Private-PPO,5.3,18034.72,0.129,Moderate Utilization
+PAT-3247,Neuro-ICU,Private-PPO,3.3,11347.01,0.123,Standard
+PAT-3248,ICU-Alpha,Medicaid,2.7,9015.12,0.139,Standard
+PAT-3249,CCU-Main,Medicare,4.5,15383.38,0.154,Standard
+PAT-3250,Neuro-ICU,Medicare,3.2,10832.65,0.14,Standard
+PAT-3251,ICU-Alpha,Medicare,4.9,16566.36,0.163,Standard
+PAT-3252,CCU-Main,HMO-Primary,5.0,17007.52,0.121,Standard
+PAT-3253,CCU-Main,Medicaid,2.7,9094.56,0.141,Standard
+PAT-3254,Neuro-ICU,Medicaid,4.9,16819.96,0.124,Standard
+PAT-3255,ICU-Alpha,Private-PPO,4.5,15400.23,0.147,Standard
+PAT-3256,CCU-Main,Private-PPO,4.7,15833.84,0.154,Standard
+PAT-3257,ICU-Bravo,Medicare,5.6,18912.72,0.136,Moderate Utilization
+PAT-3258,ICU-Bravo,Medicaid,5.4,18436.0,0.105,Moderate Utilization
+PAT-3259,CCU-Main,Medicaid,3.2,10721.87,0.144,Standard
+PAT-3260,Neuro-ICU,Medicare,4.4,14912.11,0.148,Standard
+PAT-3261,Neuro-ICU,Medicare,4.0,13647.61,0.147,Standard
+PAT-3262,Neuro-ICU,Private-PPO,3.5,11974.6,0.159,Standard
+PAT-3263,CCU-Main,Medicare,1.5,5226.33,0.127,Standard
+PAT-3264,Neuro-ICU,Medicaid,4.1,13974.47,0.151,Standard
+PAT-3265,Neuro-ICU,Private-PPO,7.8,30555.56,0.508,Moderate Utilization
+PAT-3266,ICU-Bravo,Private-PPO,6.2,21180.3,0.117,Moderate Utilization
+PAT-3267,ICU-Alpha,Private-PPO,10.7,41970.43,0.496,High Utilization
+PAT-3268,ICU-Bravo,Private-PPO,2.9,9856.24,0.134,Standard
+PAT-3269,CCU-Main,Medicare,4.6,15581.86,0.14,Standard
+PAT-3270,ICU-Bravo,HMO-Primary,1.6,5324.1,0.146,Standard
+PAT-3271,ICU-Alpha,HMO-Primary,3.6,12105.58,0.135,Standard
+PAT-3272,ICU-Bravo,Private-PPO,6.1,20574.61,0.132,Moderate Utilization
+PAT-3273,Neuro-ICU,Private-PPO,4.0,13445.49,0.142,Standard
+PAT-3274,ICU-Alpha,Private-PPO,1.9,6610.77,0.126,Standard
+PAT-3275,CCU-Main,Private-PPO,8.2,32080.28,0.476,Moderate Utilization
+PAT-3276,ICU-Bravo,HMO-Primary,6.1,20632.53,0.151,Moderate Utilization
+PAT-3277,ICU-Bravo,Medicare,2.8,9569.3,0.125,Standard
+PAT-3278,Neuro-ICU,Medicare,3.1,10585.9,0.151,Standard
+PAT-3279,ICU-Alpha,HMO-Primary,3.0,10033.38,0.148,Standard
+PAT-3280,Neuro-ICU,Medicare,4.7,16071.85,0.117,Standard
+PAT-3281,ICU-Bravo,Private-PPO,5.4,18327.5,0.132,Moderate Utilization
+PAT-3282,ICU-Bravo,Medicare,3.9,13395.01,0.158,Standard
+PAT-3283,ICU-Alpha,HMO-Primary,5.6,18892.88,0.128,Moderate Utilization
+PAT-3284,ICU-Bravo,Medicaid,3.3,11068.83,0.135,Standard
+PAT-3285,ICU-Alpha,HMO-Primary,7.1,27613.79,0.498,Moderate Utilization
+PAT-3286,CCU-Main,HMO-Primary,3.8,12870.97,0.152,Standard
+PAT-3287,ICU-Bravo,Medicare,3.1,10519.9,0.138,Standard
+PAT-3288,ICU-Alpha,Private-PPO,1.6,5395.76,0.133,Standard
+PAT-3289,ICU-Alpha,Private-PPO,4.8,16445.51,0.161,Standard
+PAT-3290,Neuro-ICU,Medicaid,7.8,26407.25,0.166,Moderate Utilization
+PAT-3291,ICU-Bravo,Medicare,5.2,17519.66,0.155,Standard
+PAT-3292,Neuro-ICU,HMO-Primary,5.1,17457.54,0.143,Standard
+PAT-3293,ICU-Alpha,Medicare,3.5,11910.18,0.13,Standard
+PAT-3294,CCU-Main,Medicaid,4.0,13498.49,0.13,Standard
+PAT-3295,CCU-Main,Private-PPO,4.8,16225.05,0.149,Standard
+PAT-3296,ICU-Bravo,Private-PPO,5.3,18124.91,0.147,Moderate Utilization
+PAT-3297,CCU-Main,Medicare,2.4,8266.24,0.161,Standard
+PAT-3298,ICU-Bravo,Medicare,5.8,19705.44,0.151,Moderate Utilization
+PAT-3299,ICU-Bravo,Medicare,2.7,9049.6,0.12,Standard
+PAT-3300,ICU-Alpha,Private-PPO,4.0,13537.3,0.156,Standard
+PAT-3301,ICU-Alpha,Private-PPO,2.3,7880.69,0.128,Standard
+PAT-3302,ICU-Alpha,Private-PPO,3.5,12042.98,0.136,Standard
+PAT-3303,Neuro-ICU,Medicare,1.9,6376.73,0.145,Standard
+PAT-3304,ICU-Alpha,Private-PPO,6.9,23501.1,0.169,Moderate Utilization
+PAT-3305,ICU-Bravo,HMO-Primary,4.6,15622.57,0.172,Standard
+PAT-3306,ICU-Alpha,Medicaid,5.9,19925.17,0.15,Moderate Utilization
+PAT-3307,Neuro-ICU,Medicare,3.3,11084.84,0.139,Standard
+PAT-3308,ICU-Alpha,Medicaid,5.1,17264.38,0.149,Standard
+PAT-3309,CCU-Main,HMO-Primary,1.0,3400.0,0.154,Standard
+PAT-3310,ICU-Bravo,HMO-Primary,4.0,13702.84,0.137,Standard
+PAT-3311,CCU-Main,Medicaid,3.8,12975.3,0.167,Standard
+PAT-3312,CCU-Main,Private-PPO,1.0,3400.0,0.145,Standard
+PAT-3313,Neuro-ICU,Medicare,4.0,13631.45,0.148,Standard
+PAT-3314,CCU-Main,Private-PPO,6.2,21112.31,0.151,Moderate Utilization
+PAT-3315,ICU-Alpha,Private-PPO,1.5,4999.89,0.147,Standard
+PAT-3316,ICU-Bravo,Medicare,3.6,12389.77,0.153,Standard
+PAT-3317,CCU-Main,Medicare,5.7,19522.03,0.133,Moderate Utilization
+PAT-3318,CCU-Main,Medicare,4.6,15563.93,0.134,Standard
+PAT-3319,ICU-Bravo,Private-PPO,4.9,16752.43,0.126,Standard
+PAT-3320,ICU-Alpha,Medicare,5.6,19185.07,0.148,Moderate Utilization
+PAT-3321,CCU-Main,Private-PPO,5.9,20075.05,0.152,Moderate Utilization
+PAT-3322,ICU-Bravo,Medicaid,5.5,18728.18,0.148,Moderate Utilization
+PAT-3323,ICU-Alpha,Medicare,1.0,3400.0,0.165,Standard
+PAT-3324,ICU-Alpha,HMO-Primary,6.0,20495.27,0.141,Moderate Utilization
+PAT-3325,ICU-Alpha,Private-PPO,1.0,3400.0,0.151,Standard
+PAT-3326,Neuro-ICU,Medicare,2.0,6915.33,0.126,Standard
+PAT-3327,ICU-Alpha,Medicare,2.9,9793.3,0.136,Standard
+PAT-3328,ICU-Alpha,Medicare,2.1,7190.96,0.151,Standard
+PAT-3329,ICU-Bravo,Medicare,3.9,13409.97,0.153,Standard
+PAT-3330,Neuro-ICU,Medicaid,3.5,12043.38,0.137,Standard
+PAT-3331,ICU-Alpha,Private-PPO,4.9,16507.62,0.14,Standard
+PAT-3332,CCU-Main,Medicaid,4.5,15301.74,0.12,Standard
+PAT-3333,Neuro-ICU,Private-PPO,3.8,12997.12,0.137,Standard
+PAT-3334,ICU-Bravo,Private-PPO,2.5,8546.13,0.154,Standard
+PAT-3335,Neuro-ICU,Medicare,2.8,9375.35,0.15,Standard
+PAT-3336,CCU-Main,Private-PPO,4.4,14945.37,0.149,Standard
+PAT-3337,Neuro-ICU,Private-PPO,4.4,14984.75,0.142,Standard
+PAT-3338,CCU-Main,Medicare,3.1,10429.65,0.142,Standard
+PAT-3339,ICU-Alpha,HMO-Primary,10.1,39302.56,0.482,High Utilization
+PAT-3340,ICU-Alpha,Private-PPO,6.4,21761.19,0.151,Moderate Utilization
+PAT-3341,Neuro-ICU,Medicaid,1.7,5879.79,0.147,Standard
+PAT-3342,Neuro-ICU,Private-PPO,9.6,37719.08,0.498,High Utilization
+PAT-3343,ICU-Bravo,Medicare,6.0,20335.33,0.134,Moderate Utilization
+PAT-3344,ICU-Bravo,Private-PPO,3.6,12334.86,0.111,Standard
+PAT-3345,CCU-Main,Medicare,3.4,11544.05,0.157,Standard
+PAT-3346,ICU-Alpha,Private-PPO,3.5,11857.44,0.135,Standard
+PAT-3347,Neuro-ICU,Private-PPO,2.6,8684.71,0.129,Standard
+PAT-3348,ICU-Alpha,Medicare,13.0,50923.41,0.501,High Utilization
+PAT-3349,Neuro-ICU,Private-PPO,3.6,12194.05,0.136,Standard
+PAT-3350,CCU-Main,Medicare,3.7,12597.66,0.156,Standard
+PAT-3351,ICU-Alpha,Medicare,3.5,11811.08,0.15,Standard
+PAT-3352,ICU-Bravo,Medicaid,7.1,24207.28,0.151,Moderate Utilization
+PAT-3353,CCU-Main,Private-PPO,3.7,12487.49,0.122,Standard
+PAT-3354,ICU-Alpha,Medicare,2.4,8328.47,0.158,Standard
+PAT-3355,CCU-Main,Private-PPO,3.4,11719.32,0.145,Standard
+PAT-3356,Neuro-ICU,Medicaid,3.8,12819.11,0.136,Standard
+PAT-3357,ICU-Alpha,Medicare,1.8,6100.24,0.144,Standard
+PAT-3358,ICU-Alpha,Private-PPO,4.2,14263.75,0.117,Standard
+PAT-3359,ICU-Alpha,Private-PPO,2.6,8690.72,0.147,Standard
+PAT-3360,ICU-Bravo,Medicaid,1.4,4876.24,0.127,Standard
+PAT-3361,CCU-Main,Private-PPO,3.1,10373.33,0.123,Standard
+PAT-3362,ICU-Bravo,Medicare,4.5,15431.26,0.12,Standard
+PAT-3363,ICU-Bravo,Medicare,5.9,20193.14,0.157,Moderate Utilization
+PAT-3364,CCU-Main,Private-PPO,4.7,15896.73,0.133,Standard
+PAT-3365,CCU-Main,Medicare,3.0,10367.36,0.163,Standard
+PAT-3366,ICU-Alpha,Medicaid,5.2,17670.65,0.134,Standard
+PAT-3367,ICU-Alpha,Medicare,2.3,7762.07,0.118,Standard
+PAT-3368,CCU-Main,Medicare,2.0,6662.68,0.126,Standard
+PAT-3369,ICU-Alpha,Medicare,4.7,16004.93,0.159,Standard
+PAT-3370,Neuro-ICU,Private-PPO,1.0,3400.0,0.139,Standard
+PAT-3371,ICU-Alpha,Private-PPO,3.9,13373.02,0.134,Standard
+PAT-3372,CCU-Main,Medicare,9.7,38106.09,0.494,High Utilization
+PAT-3373,ICU-Bravo,Medicaid,10.1,39423.39,0.499,High Utilization
+PAT-3374,CCU-Main,Medicare,3.8,13024.51,0.157,Standard
+PAT-3375,CCU-Main,Medicare,3.8,12904.25,0.162,Standard
+PAT-3376,ICU-Bravo,Medicare,3.8,12921.88,0.136,Standard
+PAT-3377,Neuro-ICU,HMO-Primary,2.2,7519.52,0.123,Standard
+PAT-3378,ICU-Alpha,Medicaid,5.1,17389.69,0.136,Standard
+PAT-3379,Neuro-ICU,Private-PPO,2.9,9854.41,0.145,Standard
+PAT-3380,ICU-Bravo,Medicare,5.2,17725.4,0.128,Standard
+PAT-3381,Neuro-ICU,Private-PPO,4.9,16605.42,0.128,Standard
+PAT-3382,ICU-Bravo,Private-PPO,2.9,9891.88,0.146,Standard
+PAT-3383,CCU-Main,Medicare,10.3,40109.79,0.491,High Utilization
+PAT-3384,Neuro-ICU,Medicare,7.2,28211.82,0.492,Moderate Utilization
+PAT-3385,ICU-Alpha,Medicaid,4.8,16444.45,0.131,Standard
+PAT-3386,ICU-Alpha,Medicare,5.6,19119.99,0.138,Moderate Utilization
+PAT-3387,ICU-Bravo,Private-PPO,3.4,11505.33,0.129,Standard
+PAT-3388,CCU-Main,Medicare,3.2,10778.3,0.154,Standard
+PAT-3389,Neuro-ICU,Private-PPO,3.8,12943.31,0.156,Standard
+PAT-3390,Neuro-ICU,Medicare,4.4,14860.11,0.116,Standard
+PAT-3391,ICU-Bravo,Medicare,6.1,20751.07,0.128,Moderate Utilization
+PAT-3392,Neuro-ICU,Private-PPO,4.0,13487.53,0.121,Standard
+PAT-3393,ICU-Alpha,HMO-Primary,6.3,21338.93,0.132,Moderate Utilization
+PAT-3394,ICU-Alpha,HMO-Primary,7.3,28499.36,0.49,Moderate Utilization
+PAT-3395,Neuro-ICU,Medicare,4.7,16001.24,0.121,Standard
+PAT-3396,Neuro-ICU,Medicare,5.1,17416.95,0.129,Standard
+PAT-3397,CCU-Main,Private-PPO,5.5,18859.93,0.127,Moderate Utilization
+PAT-3398,CCU-Main,Private-PPO,4.9,16616.18,0.144,Standard
+PAT-3399,Neuro-ICU,Medicaid,7.2,28153.8,0.492,Moderate Utilization
+PAT-3400,Neuro-ICU,Private-PPO,2.3,7935.71,0.131,Standard
+PAT-3401,ICU-Bravo,Private-PPO,3.8,12875.48,0.144,Standard
+PAT-3402,CCU-Main,Private-PPO,10.9,42687.45,0.484,High Utilization
+PAT-3403,Neuro-ICU,Medicare,3.6,12203.8,0.138,Standard
+PAT-3404,ICU-Bravo,Private-PPO,7.1,24232.57,0.165,Moderate Utilization
+PAT-3405,CCU-Main,Private-PPO,4.6,15528.57,0.16,Standard
+PAT-3406,ICU-Bravo,Medicaid,3.9,13162.58,0.123,Standard
+PAT-3407,Neuro-ICU,Medicare,4.9,16577.98,0.153,Standard
+PAT-3408,ICU-Alpha,Medicare,4.0,13741.93,0.153,Standard
+PAT-3409,ICU-Alpha,HMO-Primary,2.5,8549.96,0.125,Standard
+PAT-3410,ICU-Alpha,Private-PPO,3.6,12230.1,0.153,Standard
+PAT-3411,ICU-Alpha,HMO-Primary,4.2,14403.31,0.163,Standard
+PAT-3412,Neuro-ICU,Private-PPO,3.3,11384.83,0.126,Standard
+PAT-3413,ICU-Alpha,HMO-Primary,3.6,12073.15,0.129,Standard
+PAT-3414,ICU-Alpha,Medicare,5.5,18689.41,0.156,Moderate Utilization
+PAT-3415,Neuro-ICU,Medicare,3.2,10901.38,0.145,Standard
+PAT-3416,CCU-Main,Medicaid,2.9,9751.15,0.149,Standard
+PAT-3417,CCU-Main,Medicaid,4.8,16429.63,0.146,Standard
+PAT-3418,CCU-Main,Private-PPO,2.0,6700.36,0.147,Standard
+PAT-3419,ICU-Bravo,Private-PPO,3.6,12076.71,0.123,Standard
+PAT-3420,CCU-Main,HMO-Primary,9.7,37948.55,0.506,High Utilization
+PAT-3421,Neuro-ICU,Medicare,4.4,15099.25,0.158,Standard
+PAT-3422,CCU-Main,Private-PPO,5.5,18606.47,0.138,Moderate Utilization
+PAT-3423,ICU-Bravo,Medicare,3.6,12182.26,0.141,Standard
+PAT-3424,ICU-Bravo,Medicare,4.6,15786.26,0.12,Standard
+PAT-3425,ICU-Alpha,Private-PPO,5.5,18546.59,0.149,Moderate Utilization
+PAT-3426,Neuro-ICU,Medicaid,5.9,20124.7,0.15,Moderate Utilization
+PAT-3427,CCU-Main,Private-PPO,2.4,8308.67,0.141,Standard
+PAT-3428,CCU-Main,HMO-Primary,6.1,20806.65,0.157,Moderate Utilization
+PAT-3429,Neuro-ICU,Medicare,4.4,14896.06,0.137,Standard
+PAT-3430,Neuro-ICU,Medicare,3.2,10768.55,0.149,Standard
+PAT-3431,Neuro-ICU,Medicare,3.0,10349.96,0.127,Standard
+PAT-3432,Neuro-ICU,Medicare,4.2,14301.25,0.141,Standard
+PAT-3433,Neuro-ICU,Medicare,4.2,14142.12,0.139,Standard
+PAT-3434,Neuro-ICU,Medicare,5.4,18250.31,0.145,Moderate Utilization
+PAT-3435,Neuro-ICU,Private-PPO,4.1,14100.46,0.136,Standard
+PAT-3436,ICU-Bravo,Medicare,5.3,17935.28,0.14,Standard
+PAT-3437,ICU-Alpha,Private-PPO,3.4,11454.57,0.153,Standard
+PAT-3438,CCU-Main,HMO-Primary,4.3,14718.26,0.135,Standard
+PAT-3439,ICU-Bravo,Private-PPO,3.4,11726.61,0.119,Standard
+PAT-3440,ICU-Bravo,Medicaid,3.5,12038.81,0.166,Standard
+PAT-3441,CCU-Main,Medicaid,3.6,12082.9,0.161,Standard
+PAT-3442,ICU-Bravo,Medicare,4.1,13835.24,0.123,Standard
+PAT-3443,Neuro-ICU,Private-PPO,2.2,7573.33,0.151,Standard
+PAT-3444,ICU-Bravo,Medicaid,4.0,13556.69,0.134,Standard
+PAT-3445,CCU-Main,Medicare,3.1,10694.81,0.145,Standard
+PAT-3446,ICU-Alpha,Medicaid,4.6,15627.67,0.146,Standard
+PAT-3447,CCU-Main,Private-PPO,3.8,13087.12,0.138,Standard
+PAT-3448,ICU-Alpha,Medicare,4.2,14399.55,0.131,Standard
+PAT-3449,Neuro-ICU,Private-PPO,9.4,36903.72,0.482,High Utilization
+PAT-3450,ICU-Bravo,Private-PPO,5.1,17387.69,0.129,Standard
+PAT-3451,CCU-Main,Private-PPO,4.2,14396.41,0.13,Standard
+PAT-3452,CCU-Main,Medicare,2.6,8877.73,0.141,Standard
+PAT-3453,ICU-Alpha,Private-PPO,1.9,6511.46,0.131,Standard
+PAT-3454,ICU-Bravo,Private-PPO,4.2,14280.83,0.151,Standard
+PAT-3455,CCU-Main,HMO-Primary,1.2,4170.24,0.162,Standard
+PAT-3456,CCU-Main,Medicaid,2.7,9090.2,0.133,Standard
+PAT-3457,ICU-Bravo,Medicaid,4.7,16031.19,0.145,Standard
+PAT-3458,Neuro-ICU,Medicare,2.9,9993.23,0.148,Standard
+PAT-3459,ICU-Alpha,Medicare,1.0,3459.46,0.148,Standard
+PAT-3460,CCU-Main,Medicare,5.5,18649.77,0.143,Moderate Utilization
+PAT-3461,ICU-Bravo,Private-PPO,3.1,10553.72,0.152,Standard
+PAT-3462,Neuro-ICU,Medicare,2.8,9507.35,0.148,Standard
+PAT-3463,CCU-Main,Private-PPO,9.3,36532.79,0.474,High Utilization
+PAT-3464,Neuro-ICU,Medicare,4.2,14216.44,0.154,Standard
+PAT-3465,CCU-Main,Private-PPO,4.2,14343.61,0.154,Standard
+PAT-3466,CCU-Main,Medicare,5.6,19028.75,0.131,Moderate Utilization
+PAT-3467,Neuro-ICU,Medicare,1.5,5175.97,0.142,Standard
+PAT-3468,ICU-Alpha,Medicaid,2.8,9654.65,0.151,Standard
+PAT-3469,Neuro-ICU,Private-PPO,6.2,21231.05,0.139,Moderate Utilization
+PAT-3470,ICU-Bravo,Medicaid,3.4,11682.96,0.157,Standard
+PAT-3471,CCU-Main,Private-PPO,3.2,10745.88,0.172,Standard
+PAT-3472,Neuro-ICU,Medicaid,1.4,4696.85,0.13,Standard
+PAT-3473,Neuro-ICU,Medicare,2.4,8262.07,0.122,Standard
+PAT-3474,CCU-Main,Medicare,3.2,10956.11,0.146,Standard
+PAT-3475,CCU-Main,Private-PPO,3.4,11407.65,0.152,Standard
+PAT-3476,Neuro-ICU,HMO-Primary,4.4,14933.63,0.138,Standard
+PAT-3477,ICU-Alpha,Private-PPO,4.0,13467.85,0.162,Standard
+PAT-3478,CCU-Main,Private-PPO,2.6,8941.35,0.123,Standard
+PAT-3479,Neuro-ICU,Medicare,2.2,7440.01,0.151,Standard
+PAT-3480,ICU-Bravo,Private-PPO,1.6,5372.9,0.133,Standard
+PAT-3481,ICU-Alpha,Private-PPO,6.1,20808.82,0.166,Moderate Utilization
+PAT-3482,ICU-Bravo,Medicaid,4.9,16654.41,0.169,Standard
+PAT-3483,CCU-Main,Private-PPO,4.4,14903.55,0.131,Standard
+PAT-3484,CCU-Main,Medicare,2.6,8881.21,0.134,Standard
+PAT-3485,ICU-Alpha,Medicare,8.6,33777.97,0.504,Moderate Utilization
+PAT-3486,CCU-Main,Medicare,4.3,14778.17,0.136,Standard
+PAT-3487,ICU-Bravo,Private-PPO,2.6,8937.16,0.141,Standard
+PAT-3488,Neuro-ICU,Medicare,1.0,3400.0,0.142,Standard
+PAT-3489,Neuro-ICU,Private-PPO,2.3,7813.08,0.115,Standard
+PAT-3490,ICU-Bravo,Private-PPO,3.6,12189.88,0.141,Standard
+PAT-3491,ICU-Bravo,Medicare,8.9,34681.64,0.482,Moderate Utilization
+PAT-3492,CCU-Main,Private-PPO,4.1,14086.12,0.135,Standard
+PAT-3493,CCU-Main,Medicaid,2.4,8043.38,0.162,Standard
+PAT-3494,ICU-Alpha,Private-PPO,3.9,13119.47,0.124,Standard
+PAT-3495,Neuro-ICU,Private-PPO,4.8,16429.69,0.153,Standard
+PAT-3496,ICU-Alpha,Private-PPO,4.6,15797.21,0.138,Standard
+PAT-3497,ICU-Bravo,Medicare,3.0,10284.38,0.138,Standard
+PAT-3498,ICU-Bravo,Medicare,6.2,21132.0,0.153,Moderate Utilization
+PAT-3499,ICU-Alpha,Medicare,1.4,4911.23,0.146,Standard
